@@ -639,3 +639,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.04-20.35.55:992][358]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
 [2020.04.04-20.35.56:690][358]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2020.04.04-20.35.59:059][565]LogSlate: Took 0.006513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.04-20.38.23:905][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-20.38.23:939][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.04.04-20.38.24:511][ 18]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding45B2250F417444940584E6B0964609D7.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.04-20.38.24:535][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.04-20.38.24:544][ 18]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltData9124EC9444C0C8EE84A92CB07B4FA506.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.04-20.38.24:563][ 18]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-20.38.24:563][ 18]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.04-20.38.24:563][ 18]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.04-20.38.26:387][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
