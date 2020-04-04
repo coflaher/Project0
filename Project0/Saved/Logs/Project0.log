@@ -1019,3 +1019,177 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.04-21.50.03:638][815]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.04-21.50.03:638][815]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
 [2020.04.04-21.50.03:639][815]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.04-21.52.23:541][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-21.52.23:572][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.04.04-21.52.23:585][430]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding32C3BE504AABD700D32E599E93CDD0DA.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.04-21.52.23:603][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.04-21.52.23:618][430]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltData9E47622645B88DEEACC4E9A94C5CEAE5.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.04-21.52.23:634][430]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-21.52.23:634][430]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.04-21.52.23:634][430]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.04-21.52.24:905][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.04-21.52.46:543][819]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.04-21.53.27:515][404]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.04-21.53.41:046][515]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.04-21.53.43:500][799]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.53.43:709][799]LogUObjectHash: Compacting FUObjectHashTables data took   8.03ms
+[2020.04.04-21.53.50:088][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-21.53.50:119][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.04.04-21.53.50:129][469]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/PathfindingDC30366142EA6C1012E755A20249DAAE.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.04-21.53.50:147][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.04-21.53.50:156][469]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltDataB5F10FB24FD1112F9BAAFAA650F136E1.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.04-21.53.50:170][469]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-21.53.50:170][469]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.04-21.53.50:170][469]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.04-21.53.52:969][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.04-21.53.54:281][751]LogSlate: Window 'Save Content' being destroyed
+[2020.04.04-21.53.54:306][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Base_Obstacle" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Base_Obstacle.uasset" SILENT=true
+[2020.04.04-21.53.54:316][751]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Base_ObstacleA1783D7F4FCA67FD0CE9689E3EB604FF.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Base_Obstacle.uasset'
+[2020.04.04-21.53.54:317][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.04-21.53.54:355][751]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridF923376D471A91072814409F285AF35F.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.04-21.53.54:375][751]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-21.53.54:375][751]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Base_Obstacle.BP_Base_Obstacle
+[2020.04.04-21.53.54:375][751]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.04-21.54.00:305][357]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Base_Obstacle.BP_Base_Obstacle
+[2020.04.04-21.55.05:457][944]LogEditorTransaction: Undo Make New Scene Root
+[2020.04.04-21.55.33:940][285]BlueprintLog: New page: Compile BP_Base_Obstacle
+[2020.04.04-21.55.34:142][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.04.04-21.55.34:818][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Base_Obstacle" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Base_Obstacle.uasset" SILENT=true
+[2020.04.04-21.55.34:844][358]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Base_Obstacle4B0617C648F8F5166D704C960B1B4C82.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Base_Obstacle.uasset'
+[2020.04.04-21.55.34:857][358]AssetCheck: New page: Asset Save: BP_Base_Obstacle
+[2020.04.04-21.55.34:857][358]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Base_Obstacle.BP_Base_Obstacle
+[2020.04.04-21.56.06:458][993]BlueprintLog: New page: Compile BP_Base_Obstacle
+[2020.04.04-21.56.06:650][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.04.04-21.56.11:260][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Base_Obstacle" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Base_Obstacle.uasset" SILENT=true
+[2020.04.04-21.56.11:275][528]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Base_Obstacle7D55FA0546C1FF4C77272D90B69C8326.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Base_Obstacle.uasset'
+[2020.04.04-21.56.11:287][528]AssetCheck: New page: Asset Save: BP_Base_Obstacle
+[2020.04.04-21.56.11:287][528]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Base_Obstacle.BP_Base_Obstacle
+[2020.04.04-21.56.29:598][450]LogD3D11RHI: Error: Device->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11UniformBuffer.cpp:157 
+ with error E_OUTOFMEMORY
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     89 = 32768 KB (2D 4096x4096 PF_ShadowDepth) PreShadowCacheDepthZ
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     82 = 32768 KB (2D 8192x2048 PF_ShadowDepth) WholeSceneShadowmap unused(306751)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     83 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(665)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     84 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(665)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     85 = 24576 KB (2D 6144x2048 PF_ShadowDepth) WholeSceneShadowmap unused(665)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     90 = 8192 KB (2D 2048x2048 PF_ShadowDepth) ShadowDepthAtlas unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     69 = 4362 KB (2D 976x572 PF_FloatRGBA RT UAV VRam) SceneColor unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     33 = 4362 KB (2D 976x572 PF_FloatRGBA RT UAV) LightAccumulation
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     73 = 4362 KB (2D 976x572 PF_FloatRGBA RT UAV) ScreenSpaceReflections unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     79 = 4362 KB (2D 976x572 PF_FloatRGBA RT VRam) SceneColor unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     34 = 4362 KB (2D 976x572 PF_FloatRGBA RT) SceneColorSubPixel
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     76 = 4362 KB (2D 976x572 PF_FloatRGBA RT) SeparateTranslucency unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     50 = 4362 KB (2D 976x572 PF_FloatRGBA UAV) TemporalAA
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     74 = 4362 KB (2D 976x572 PF_FloatRGBA UAV) TemporalAA unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     36 = 2726 KB (2D 976x572 PF_DepthStencil 4xMSAA) EditorPrimitivesDepth unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     78 = 2726 KB (2D 976x572 PF_DepthStencil 4xMSAA) SelectionOutline unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     24 = 2726 KB (2D 976x572 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     63 = 2181 KB (2D 976x572 PF_A2B10G10R10 RT) GBufferA unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     77 = 2181 KB (2D 976x572 PF_B8G8R8A8 RT 4xMSAA) EditorPrimitivesColor unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     65 = 2181 KB (2D 976x572 PF_B8G8R8A8 RT sRGB) GBufferC unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     37 = 2181 KB (2D 976x572 PF_B8G8R8A8 RT VRam) GBufferB unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     38 = 2181 KB (2D 976x572 PF_B8G8R8A8 RT VRam) GBufferD unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     64 = 2181 KB (2D 976x572 PF_B8G8R8A8 RT VRam) GBufferE unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     81 = 2181 KB (2D 976x572 PF_B8G8R8A8 RT) HitProxy unused(607)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     75 = 2181 KB (2D 976x572 PF_B8G8R8A8 RT) LightAttenuation unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     67 = 2181 KB (2D 976x572 PF_B8G8R8A8 RT) SelectionOutlineColor unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     66 = 2181 KB (2D 976x572 PF_B8G8R8A8 RT) Tonemap unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     70 = 2181 KB (2D 976x572 PF_G16R16 RT UAV) Velocity unused(1)
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     27 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     29 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     31 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     28 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     30 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     32 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     25 = 1363 KB (2D 488x286 PF_DepthStencil) SmallDepthZ
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     71 = 1091 KB (2D 488x286 PF_FloatRGBA RT VRam) AmbientOcclusionSetup unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     35 = 1091 KB (2D 976x286 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     45 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     46 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     68 = 683 KB (2D 512x512 PF_R16F UAV VRam) HZBFurthest unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     72 = 546 KB (2D 488x286 PF_B8G8R8A8 RT VRam) AmbientOcclusion unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     80 = 546 KB (2D 488x286 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     39 = 546 KB (2D 488x286 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     26 = 546 KB (2D 976x572 PF_G8 RT UAV) ScreenSpaceAO
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     22 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     23 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     41 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     21 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     20 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     92 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     60 = 137 KB (2D 244x143 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     40 = 137 KB (2D 244x143 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     96 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUT unused(665) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     86 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     91 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     57 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT VRam) CombineLUTs VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:      7 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     47 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     48 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     43 = 49 KB (2D 98x64 PF_A16B16G16R16) SSProfiles
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     59 = 35 KB (2D 122x72 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     42 = 35 KB (2D 122x72 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     18 = 32 KB (2D 64x64 PF_FloatRGBA VRam) LTCMat VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     17 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     19 = 16 KB (2D 64x64 PF_G16R16F VRam) LTCAmp VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     14 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     62 = 9 KB (2D 16x72 PF_FloatRGBA RT UAV VRam) Histogram unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     58 = 9 KB (2D 61x36 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     51 = 9 KB (2D 61x36 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     15 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2020.04.04-21.57.18:201][450]LogConsoleResponse:     55 = 3 KB (2D 31x18 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:     52 = 3 KB (2D 31x18 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:     61 = 1 KB (2D 16x2 PF_A32B32G32R32F RT VRam) HistogramReduce unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:     54 = 1 KB (2D 16x9 PF_FloatRGB RT VRam) BloomX unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:     53 = 1 KB (2D 16x9 PF_FloatRGB RT VRam) BloomY unused(1) VRamInKB(Start/Size):<NONE>
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:     44 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:     94 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:     95 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:     56 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:     87 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:     88 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:      4 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:      2 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2020.04.04-21.57.18:202][450]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:      1 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:     11 = 1 KB (2D 1x1 PF_FloatRGBA RT) MidGreyDummy
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:     93 = 1 KB (2D 1x1 PF_FloatRGBA RT) ReflectionBrightness unused(10089)
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:      3 = 1 KB (2D 1x1 PF_R32_UINT RT) ZeroUIntDummy
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:     10 = 1 KB (2D 1x1 PF_R8G8B8A8_UINT RT) StencilDummy
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:     12 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:     16 = 1 KB (2D 4x4 PF_R8G8) GTAORandomization
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:     49 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2020.04.04-21.57.18:203][450]LogConsoleResponse:     13 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) VolumetricBlackDummy
+[2020.04.04-21.57.18:203][450]LogConsoleResponse: 
+[2020.04.04-21.57.18:203][450]LogConsoleResponse: Pool: 67/233 MB (referenced/allocated)
+[2020.04.04-21.57.18:203][450]Cmd: rhi.DumpMemory
+[2020.04.04-21.57.18:229][450]RHI resource memory (not tracked by our allocator)
+[2020.04.04-21.57.18:229][450]         2228160  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.04.04-21.57.18:229][450]        13203481  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.04.04-21.57.18:229][450]           24652  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2020.04.04-21.57.18:229][450]        87608565  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.04.04-21.57.18:229][450]        22085700  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2020.04.04-21.57.18:229][450]      1361910080  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.04.04-21.57.18:229][450]         3594334  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.04.04-21.57.18:229][450]       602151881  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2020.04.04-21.57.18:229][450]          150632  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.04.04-21.57.18:229][450]       111710566  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2020.04.04-21.57.18:229][450]2102.535MB total
+[2020.04.04-21.57.18:229][450]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.04.04-21.57.18:229][450]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.04.04-21.57.18:229][450]Cmd: Mem FromReport
+[2020.04.04-21.57.18:230][450]LogMemory: Platform Memory Stats for Windows
+[2020.04.04-21.57.18:230][450]LogMemory: Process Physical Memory: 6662.48 MB used, 12851.70 MB peak
+[2020.04.04-21.57.18:230][450]LogMemory: Process Virtual Memory: 52364.53 MB used, 52376.15 MB peak
+[2020.04.04-21.57.18:230][450]LogMemory: Physical Memory: 13955.30 MB used,  2254.11 MB free, 16209.41 MB total
+[2020.04.04-21.57.18:230][450]LogMemory: Virtual Memory: 58549.80 MB used,  134159176.00 MB free, 134217728.00 MB total
+[2020.04.04-21.57.18:230][450]LogMemory: 
+[2020.04.04-21.57.18:230][450]Allocator Stats for TBB: (not implemented)
+[2020.04.04-21.57.18:230][450]LogMemory: Memory Stats:
+[2020.04.04-21.57.18:230][450]LogMemory: FMemStack (gamethread) current size = 0.00 MB
+[2020.04.04-21.57.18:230][450]LogMemory: FPageAllocator (all threads) allocation size [used/ unused] = [0.38 / 0.88] MB
+[2020.04.04-21.57.18:230][450]LogMemory: Nametable memory usage = 5.95 MB
+[2020.04.04-21.57.18:243][450]Log file closed, 04/04/20 14:57:18
