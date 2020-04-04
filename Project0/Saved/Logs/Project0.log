@@ -648,3 +648,374 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.04-20.38.24:563][ 18]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
 [2020.04.04-20.38.24:563][ 18]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
 [2020.04.04-20.38.26:387][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.04-20.40.35:258][702]LogSlate: Window 'New Channel' being destroyed
+[2020.04.04-20.41.10:677][225]LogSlate: Window 'New Channel' being destroyed
+[2020.04.04-20.41.19:150][199]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.04-20.41.19:154][199]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.04-20.41.20:507][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-20.41.21:017][327]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.04.04-20.41.21:110][327]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/PathfindingE2B6F433451F66EE1B62FDBAAC65EA31.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.04-20.41.21:154][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.04-20.41.21:162][327]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltData89DA66D84C37EF17181EFFA82C4D2CE8.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.04-20.41.21:396][327]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-20.41.21:397][327]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.04-20.41.21:397][327]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.04-20.41.27:243][999]LogActorFactory: Actor Factory created Cube
+[2020.04.04-20.41.28:819][124]LogActorFactory: Actor Factory created Cube
+[2020.04.04-20.41.34:258][725]LogEditorViewport: Clicking Background
+[2020.04.04-20.41.36:412][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.04-20.41.38:490][220]Cmd: DELETE
+[2020.04.04-20.41.38:490][220]Cmd: ACTOR DELETE
+[2020.04.04-20.41.38:531][220]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.04-20.41.38:612][220]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.04.04-20.41.38:617][220]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2020.04.04-20.41.40:149][403]LogEditorViewport: Clicking Background
+[2020.04.04-20.41.43:620][803]LogActorFactory: Actor Factory created Cube
+[2020.04.04-20.41.43:883][832]LogActorFactory: Actor Factory created Cube
+[2020.04.04-20.41.45:452][ 19]LogActorFactory: Actor Factory created Cube
+[2020.04.04-20.42.09:847][680]MapCheck: New page: Map Check
+[2020.04.04-20.42.09:901][680]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.04-20.42.09:905][680]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.04-20.42.09:911][680]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=false
+[2020.04.04-20.42.09:998][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.04.04-20.42.10:033][680]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.04-20.42.10:770][680]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.04-20.42.10:770][680]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.04-20.42.10:770][680]TextureStreamingBuild: Display: Compiling optional shaders took 0.766 seconds.
+[2020.04.04-20.42.10:771][680]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2020.04.04-20.42.10:782][680]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2020.04.04-20.42.10:822][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.04.04-20.42.10:830][680]LightingResults: New page: Lighting Build - Apr 4, 2020, 6:42:10 AM
+[2020.04.04-20.42.11:034][680]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.04-20.42.11:123][680]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.04-20.42.11:263][680]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.04-20.42.11:799][680]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.04-20.42.11:799][680]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22636
+[2020.04.04-20.42.16:442][680]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.04-20.42.16:444][680]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.04-20.42.16:444][680]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.04-20.42.16:445][680]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.04-20.42.16:445][680]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.04-20.42.16:445][680]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.04-20.42.16:573][680]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.04-20.42.16:574][680]MapCheck: New page: Pathfinding - Apr 4, 2020, 6:42:16 AM
+[2020.04.04-20.42.16:584][680]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.6ms to complete.
+[2020.04.04-20.42.16:592][680]LogEditorBuildUtils: Build time 0:06
+[2020.04.04-20.42.16:628][680]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.04.04-20.42.16:645][680]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2020.04.04-20.42.16:742][680]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.04-20.42.16:742][680]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.04-20.42.16:742][680]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.04.04-20.42.16:742][680]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.04-20.42.17:277][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.04.04-20.42.23:440][120]Job is a success!
+[2020.04.04-20.42.23:638][121]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2020.04.04-20.42.23:639][121]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.04-20.42.23:639][121]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.04.04-20.42.23:639][121]LogVolumetricLightmapImport:      Bricks at depth
+[2020.04.04-20.42.23:639][121]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2020.04.04-20.42.23:639][121]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2020.04.04-20.42.23:639][121]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2020.04.04-20.42.23:639][121]LogVolumetricLightmapImport:      Bricks in each level
+[2020.04.04-20.42.23:640][121]LogVolumetricLightmapImport:          Pathfinding 			 2 bricks 	 100.0% (Persistent Level)
+[2020.04.04-20.42.23:690][121]Lightmass on DESKTOP-5QJEOKG: 5.32 sec total, 4.76 sec importing, 36 ms setup, 15 ms photons, 429 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 3.00 sec total, 6 ms processing.
+[2020.04.04-20.42.23:727][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.04.04-20.42.23:795][121]LogStaticLightingSystem: Illumination: 12.8 sec (0 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2020.04.04-20.42.23:796][121]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.04.04-20.42.23:796][121]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.04.04-20.42.24:455][121]DumpUnbuiltLightIteractions
+[2020.04.04-20.42.24:455][121]Lights with unbuilt interactions: 0
+[2020.04.04-20.42.24:455][121]
+[2020.04.04-20.42.24:455][121]Primitives with unbuilt interactions: 0
+[2020.04.04-20.42.24:552][122]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.04-20.42.24:552][122]MapCheck: New page: Pathfinding - Apr 4, 2020, 6:42:24 AM
+[2020.04.04-20.42.24:553][122]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.866ms to complete.
+[2020.04.04-20.42.41:830][ 95]LogEditorViewport: Clicking Background
+[2020.04.04-20.42.57:614][385]LogEditorViewport: Clicking Background
+[2020.04.04-20.42.59:182][556]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.04.04-20.43.03:552][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.04-20.44.00:233][872]LogEditorViewport: Clicking Background
+[2020.04.04-20.45.14:434][ 54]LogUObjectHash: Compacting FUObjectHashTables data took  14.72ms
+[2020.04.04-20.45.15:765][ 54]LogSlate: Window 'Save Content' being destroyed
+[2020.04.04-20.45.15:811][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-20.45.15:858][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.04.04-20.45.15:962][ 54]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding3D8E4CC2446449674717A9991F105FBC.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.04-20.45.16:039][ 54]LogFileHelpers: Saving map 'Pathfinding' took 0.241
+[2020.04.04-20.45.16:040][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.04-20.45.16:057][ 54]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltDataF90C6BF8462E49BD0CB61BB2ABCE42DB.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.04-20.45.16:312][ 54]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-20.45.16:313][ 54]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.04-20.45.16:313][ 54]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.04-20.45.55:828][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.04-20.45.56:423][470]LogSlate: Window 'Save Content' being destroyed
+[2020.04.04-20.45.56:441][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-20.45.56:471][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.04.04-20.45.56:481][470]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/PathfindingC441F67246F09FE0B1A356BBFB19DB77.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.04-20.45.56:500][470]LogFileHelpers: Saving map 'Pathfinding' took 0.061
+[2020.04.04-20.45.56:512][470]AssetCheck: New page: Asset Save: Pathfinding
+[2020.04.04-20.45.56:512][470]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.04-20.48.53:317][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.04-20.48.54:013][670]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid9A51EBD94702EE8389D846B2C56EF0E3.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.04-20.48.54:413][670]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.04-20.48.54:414][670]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.04-20.49.29:155][202]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-20.49.30:183][202]LogUObjectHash: Compacting FUObjectHashTables data took  11.12ms
+[2020.04.04-20.49.54:313][709]LogSlate: Window 'BP_Grid' being destroyed
+[2020.04.04-20.50.19:019][623]MapCheck: New page: Map Check
+[2020.04.04-20.50.19:055][623]LightingResults: New page: Lighting Build - Apr 4, 2020, 6:50:19 AM
+[2020.04.04-20.50.19:569][623]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.04-20.50.19:591][623]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.04-20.50.19:603][623]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.04-20.50.19:626][623]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.04-20.50.19:626][623]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22636
+[2020.04.04-20.50.24:225][623]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.04-20.50.24:228][623]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.04-20.50.24:228][623]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.04-20.50.24:229][623]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.04-20.50.24:229][623]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.04-20.50.24:229][623]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.04-20.50.24:311][623]LogEditorBuildUtils: Build time 0:05
+[2020.04.04-20.50.24:392][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.04.04-20.50.26:050][695]Job is a success!
+[2020.04.04-20.50.26:258][697]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.04.04-20.50.26:258][697]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.04-20.50.26:258][697]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.04.04-20.50.26:258][697]LogVolumetricLightmapImport:      Bricks at depth
+[2020.04.04-20.50.26:258][697]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.04.04-20.50.26:258][697]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.04.04-20.50.26:258][697]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.04.04-20.50.26:258][697]LogVolumetricLightmapImport:      Bricks in each level
+[2020.04.04-20.50.26:258][697]LogVolumetricLightmapImport:          Pathfinding 			 6 bricks 	 100.0% (Persistent Level)
+[2020.04.04-20.50.26:306][697]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.04.04-20.50.26:306][697]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.04.04-20.50.26:306][697]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2020.04.04-20.50.26:343][697]Lightmass on DESKTOP-5QJEOKG: 963 ms total, 359 ms importing, 24 ms setup, 16 ms photons, 481 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 3.36 sec total, 19 ms processing.
+[2020.04.04-20.50.26:343][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.04-20.50.26:406][697]LogStaticLightingSystem: Illumination: 7.25 sec (27 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2020.04.04-20.50.26:406][697]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.04.04-20.50.26:406][697]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.04.04-20.50.27:231][697]DumpUnbuiltLightIteractions
+[2020.04.04-20.50.27:231][697]Lights with unbuilt interactions: 0
+[2020.04.04-20.50.27:231][697]
+[2020.04.04-20.50.27:231][697]Primitives with unbuilt interactions: 0
+[2020.04.04-20.50.27:304][698]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.04-20.50.27:304][698]MapCheck: New page: Pathfinding - Apr 4, 2020, 6:50:27 AM
+[2020.04.04-20.50.27:307][698]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.308ms to complete.
+[2020.04.04-20.52.17:756][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.04-20.52.17:814][798]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridD0A4BFD241584769812277BF5E2A64A3.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.04-20.52.17:827][798]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.04-20.52.17:827][798]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.04-20.52.19:183][953]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-20.52.19:375][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.04-20.52.50:852][702]Cmd: TRANSACTION UNDO
+[2020.04.04-20.52.50:852][702]LogEditorTransaction: Undo Move Actors
+[2020.04.04-20.53.17:402][775]MapCheck: New page: Map Check
+[2020.04.04-20.53.17:414][775]LightingResults: New page: Lighting Build - Apr 4, 2020, 6:53:17 AM
+[2020.04.04-20.53.17:420][775]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.04-20.53.17:422][775]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.04-20.53.17:422][775]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.04-20.53.17:423][775]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.04-20.53.17:423][775]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22636
+[2020.04.04-20.53.21:961][775]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.04-20.53.21:961][775]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.04-20.53.21:961][775]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.04-20.53.21:961][775]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.04-20.53.21:961][775]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.04-20.53.21:961][775]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.04-20.53.22:007][775]LogEditorBuildUtils: Build time 0:04
+[2020.04.04-20.53.22:085][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.04.04-20.53.22:798][806]Job is a success!
+[2020.04.04-20.53.22:953][808]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2020.04.04-20.53.22:953][808]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.04-20.53.22:954][808]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.04.04-20.53.22:954][808]LogVolumetricLightmapImport:      Bricks at depth
+[2020.04.04-20.53.22:954][808]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.04.04-20.53.22:954][808]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.04.04-20.53.22:954][808]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.04.04-20.53.22:954][808]LogVolumetricLightmapImport:      Bricks in each level
+[2020.04.04-20.53.22:954][808]LogVolumetricLightmapImport:          Pathfinding 			 6 bricks 	 100.0% (Persistent Level)
+[2020.04.04-20.53.22:962][808]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2020.04.04-20.53.22:962][808]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2020.04.04-20.53.22:962][808]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2020.04.04-20.53.22:996][808]Lightmass on DESKTOP-5QJEOKG: 515 ms total, 105 ms importing, 22 ms setup, 16 ms photons, 347 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 2.42 sec total, 16 ms processing.
+[2020.04.04-20.53.22:998][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.04.04-20.53.23:071][808]LogStaticLightingSystem: Illumination: 5.57 sec (2 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2020.04.04-20.53.23:071][808]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.04.04-20.53.23:071][808]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.04.04-20.53.23:965][808]DumpUnbuiltLightIteractions
+[2020.04.04-20.53.23:966][808]Lights with unbuilt interactions: 0
+[2020.04.04-20.53.23:966][808]
+[2020.04.04-20.53.23:966][808]Primitives with unbuilt interactions: 0
+[2020.04.04-20.53.24:031][809]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.04-20.53.24:032][809]MapCheck: New page: Pathfinding - Apr 4, 2020, 6:53:24 AM
+[2020.04.04-20.53.24:032][809]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.224ms to complete.
+[2020.04.04-20.53.34:328][ 22]Cmd: TRANSACTION UNDO
+[2020.04.04-20.53.34:329][ 22]LogEditorTransaction: Undo Move Actors
+[2020.04.04-20.53.43:439][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.04-20.53.43:482][ 40]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridD6AFFEE740AD1721B6B8C69C041B7CE7.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.04-20.53.43:497][ 40]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.04-20.53.43:497][ 40]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.04-20.54.37:540][494]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-20.54.37:732][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.04.04-20.54.41:487][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.04-20.54.41:519][929]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridC053E9694710F54B429566BD7DEE45FC.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.04-20.54.41:531][929]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.04-20.54.41:531][929]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.04-20.55.00:770][180]Cmd: TRANSACTION UNDO
+[2020.04.04-20.55.00:770][180]LogEditorTransaction: Undo Move Actors
+[2020.04.04-20.55.01:749][248]Cmd: TRANSACTION UNDO
+[2020.04.04-20.55.01:750][248]LogEditorTransaction: Undo Move Actors
+[2020.04.04-20.55.04:653][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.04-20.55.04:680][580]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridBE7DF96840AAC8A8AE82F5A123B0EFB6.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.04-20.55.04:692][580]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.04-20.55.04:692][580]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.04-20.55.05:609][687]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-20.55.05:798][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.04.04-20.55.58:134][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.04.04-20.55.58:138][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.04-20.55.58:158][894]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto1D7066BA64A2DD475D2CD11A890C46793.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto1.umap'
+[2020.04.04-20.55.58:159][894]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.056
+[2020.04.04-20.55.58:159][894]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2020.04.04-20.56.03:929][570]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-20.56.04:119][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.04.04-20.56.28:070][979]LogEditorViewport: Clicking Background
+[2020.04.04-20.57.36:817][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.04-20.57.36:846][108]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid2C6A6B414276C43DC75B36B4BB7B51AA.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.04-20.57.36:861][108]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.04-20.57.36:861][108]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.04-20.57.37:269][156]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-20.57.37:464][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.04.04-20.58.41:074][500]LogSlate: Window 'Delete Variable' being destroyed
+[2020.04.04-20.58.54:195][ 44]LogEditorTransaction: Undo Remove Local Variable
+[2020.04.04-20.58.55:012][ 92]LogEditorTransaction: Undo Promote to Local Variable
+[2020.04.04-20.59.47:532][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.04-20.59.48:006][290]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridFCE7CCF043ED1969C07585AC1D71FDF5.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.04-20.59.48:022][290]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.04-20.59.48:023][290]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.04-20.59.48:467][342]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-20.59.48:683][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.04.04-21.01.16:808][939]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.01.17:006][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.04.04-21.02.38:764][667]BlueprintLog: New page: Collapse to Function
+[2020.04.04-21.03.29:959][772]LogEditorTransaction: Undo Rename Function
+[2020.04.04-21.03.30:567][796]LogEditorTransaction: Undo Move Node
+[2020.04.04-21.03.31:684][926]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2020.04.04-21.03.37:385][550]BlueprintLog: New page: Collapse to Function
+[2020.04.04-21.04.32:481][ 64]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.04.32:488][ 64]LogBlueprint: Error: [Compiler BP_Grid] In use pin  End  no longer exists on node  My Sphere Trace . Please refresh node or break links to remove pin.
+[2020.04.04-21.04.32:700][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.04.04-21.06.31:107][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.04.04-21.06.31:573][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.04-21.06.31:612][102]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto25DEAAAA7472C9EFC2E37E997EBC52144.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto2.umap'
+[2020.04.04-21.06.31:632][102]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.557
+[2020.04.04-21.06.31:632][102]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.557
+[2020.04.04-21.06.31:632][102]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.04-21.06.31:632][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.04-21.06.31:632][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.04.04-21.06.31:668][102]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto2FCB873764797FC58B872D8A6B8B06D68.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto2.uasset'
+[2020.04.04-21.06.31:669][102]LogFileHelpers: Auto-saving content packages took 0.037
+[2020.04.04-21.07.16:116][390]LogSlate: Took 0.008081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.04-21.08.13:694][224]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.08.13:896][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.04.04-21.08.36:552][907]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.08.36:744][907]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.04.04-21.10.23:360][513]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.10.23:554][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.04.04-21.10.49:937][294]LogEditorViewport: Clicking Background
+[2020.04.04-21.10.51:342][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.04-21.10.58:665][289]MapCheck: New page: Map Check
+[2020.04.04-21.10.58:682][289]LightingResults: New page: Lighting Build - Apr 4, 2020, 7:10:58 AM
+[2020.04.04-21.10.58:688][289]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.04-21.10.58:690][289]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.04-21.10.58:690][289]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.04-21.10.58:691][289]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.04-21.10.58:691][289]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22636
+[2020.04.04-21.11.03:203][289]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.04-21.11.03:203][289]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.04-21.11.03:203][289]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.04-21.11.03:203][289]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.04-21.11.03:203][289]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.04-21.11.03:203][289]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.04-21.11.03:253][289]LogEditorBuildUtils: Build time 0:04
+[2020.04.04-21.11.03:319][290]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.04.04-21.11.04:081][319]Job is a success!
+[2020.04.04-21.11.04:239][321]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2020.04.04-21.11.04:239][321]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.04-21.11.04:239][321]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.04.04-21.11.04:239][321]LogVolumetricLightmapImport:      Bricks at depth
+[2020.04.04-21.11.04:239][321]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2020.04.04-21.11.04:239][321]LogVolumetricLightmapImport:          1: 9.1% covering 1.6% of volume
+[2020.04.04-21.11.04:239][321]LogVolumetricLightmapImport:          2: 81.8% covering 0.2% of volume
+[2020.04.04-21.11.04:239][321]LogVolumetricLightmapImport:      Bricks in each level
+[2020.04.04-21.11.04:239][321]LogVolumetricLightmapImport:          Pathfinding 			 11 bricks 	 100.0% (Persistent Level)
+[2020.04.04-21.11.04:249][321]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.04.04-21.11.04:249][321]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.04.04-21.11.04:249][321]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X64)
+[2020.04.04-21.11.04:281][321]Lightmass on DESKTOP-5QJEOKG: 534 ms total, 107 ms importing, 21 ms setup, 12 ms photons, 360 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 2.52 sec total, 21 ms processing.
+[2020.04.04-21.11.04:284][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.04.04-21.11.04:354][321]LogStaticLightingSystem: Illumination: 5.59 sec (4 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2020.04.04-21.11.04:354][321]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.04.04-21.11.04:354][321]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.04.04-21.11.05:211][321]DumpUnbuiltLightIteractions
+[2020.04.04-21.11.05:211][321]Lights with unbuilt interactions: 0
+[2020.04.04-21.11.05:211][321]
+[2020.04.04-21.11.05:211][321]Primitives with unbuilt interactions: 0
+[2020.04.04-21.11.05:288][322]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.04-21.11.05:288][322]MapCheck: New page: Pathfinding - Apr 4, 2020, 7:11:05 AM
+[2020.04.04-21.11.05:289][322]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.229ms to complete.
+[2020.04.04-21.11.10:762][896]LogEditorViewport: Clicking Background
+[2020.04.04-21.11.12:122][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.04.04-21.16.33:104][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.04.04-21.16.33:557][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.04-21.16.33:640][629]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto355F1281143CD7E490AD7338BA30AB361.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto3.umap'
+[2020.04.04-21.16.33:641][629]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.570
+[2020.04.04-21.16.33:641][629]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.570
+[2020.04.04-21.16.33:642][629]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.04-21.16.33:642][629]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.04-21.16.33:642][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.04.04-21.16.33:692][629]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto36FA925B44273D3B534BF9DA9432ECD47.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto3.uasset'
+[2020.04.04-21.16.33:692][629]LogFileHelpers: Auto-saving content packages took 0.050
+[2020.04.04-21.37.15:508][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.04.04-21.37.15:510][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.035
+[2020.04.04-21.37.15:510][918]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.04-21.37.15:510][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.04-21.37.15:510][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.04.04-21.37.15:546][918]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto4B930264342D17916CCF186A7CA0BEC9A.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto4.uasset'
+[2020.04.04-21.37.16:022][918]LogFileHelpers: Auto-saving content packages took 0.512
+[2020.04.04-21.40.42:127][911]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.40.42:344][911]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.04.04-21.41.17:736][ 88]LogActorFactory: Actor Factory created Cube
+[2020.04.04-21.41.20:017][357]LogActorFactory: Actor Factory created Cube
+[2020.04.04-21.41.25:418][969]LogActorFactory: Actor Factory created Cube
+[2020.04.04-21.41.29:061][390]LogActorFactory: Actor Factory created Cube
+[2020.04.04-21.41.32:042][721]LogActorFactory: Actor Factory created Cube
+[2020.04.04-21.41.39:988][637]LogActorFactory: Actor Factory created Cube
+[2020.04.04-21.42.54:835][175]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.42.55:039][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.04.04-21.43.00:531][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-21.43.00:564][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.04.04-21.43.00:579][807]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/PathfindingDF4A94F4424CD3755A68E3B8565F9370.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.04-21.43.00:614][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.04-21.43.00:654][807]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltData6A21CD75446FE671C660B286B2B5FAB8.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.04-21.43.00:672][807]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-21.43.00:672][807]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.04-21.43.00:672][807]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.04-21.43.41:491][544]LogEditorViewport: Clicking Background
+[2020.04.04-21.46.12:290][225]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.46.12:503][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.04-21.47.11:148][112]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.47.11:344][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.04.04-21.49.48:811][443]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.04-21.49.52:163][827]BlueprintLog: New page: Compile BP_Grid
+[2020.04.04-21.49.52:364][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.04.04-21.50.01:999][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.04.04-21.50.03:446][815]LogSlate: Window 'Save Content' being destroyed
+[2020.04.04-21.50.03:476][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.04-21.50.03:556][815]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridAD8984DF4803F3D238E86590D665C6ED.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.04-21.50.03:557][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-21.50.03:586][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.04-21.50.03:600][815]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/PathfindingA1E73D054DCF28E3C97072A1A88283D5.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.04-21.50.03:620][815]LogFileHelpers: Saving map 'Pathfinding' took 0.063
+[2020.04.04-21.50.03:638][815]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-21.50.03:638][815]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.04-21.50.03:639][815]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
