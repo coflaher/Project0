@@ -654,3 +654,68 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.04-17.12.20:546][598]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
 [2020.04.04-17.12.20:546][598]LogFileHelpers: Loading map 'TestMap1' took 0.072
 [2020.04.04-17.18.50:431][753]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.04-17.21.23:464][776]LogSlate: Window 'New Level' being destroyed
+[2020.04.04-17.21.23:473][776]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.04-17.21.23:499][776]LightingResults: New page: Lighting Build
+[2020.04.04-17.21.23:499][776]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.04.04-17.21.23:500][776]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.04-17.21.23:500][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.04-17.21.23:500][776]MapCheck: New page: Map Check
+[2020.04.04-17.21.23:500][776]LightingResults: New page: Lighting Build
+[2020.04.04-17.21.23:524][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.04-17.21.23:531][776]LogAIModule: Creating AISystem for world Untitled_2
+[2020.04.04-17.21.23:534][776]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.04-17.21.23:559][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.04.04-17.21.23:574][776]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.04-17.21.23:574][776]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2020.04.04-17.21.23:574][776]LogFileHelpers: Loading map 'Template_Default' took 0.102
+[2020.04.04-17.21.41:745][883]LogSlate: Window 'Open Level' being destroyed
+[2020.04.04-17.21.59:164][490]LogSlate: Window 'New Level' being destroyed
+[2020.04.04-17.21.59:173][490]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.04-17.21.59:192][490]LightingResults: New page: Lighting Build
+[2020.04.04-17.21.59:192][490]LoadErrors: New page: Loading map: Template_Default.umap
+[2020.04.04-17.21.59:193][490]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.04-17.21.59:193][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.04-17.21.59:193][490]MapCheck: New page: Map Check
+[2020.04.04-17.21.59:193][490]LightingResults: New page: Lighting Build
+[2020.04.04-17.21.59:216][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.04.04-17.21.59:223][490]LogAIModule: Creating AISystem for world Untitled_3
+[2020.04.04-17.21.59:226][490]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.04-17.21.59:251][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.04.04-17.21.59:260][490]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.04-17.21.59:260][490]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.071ms to complete.
+[2020.04.04-17.21.59:260][490]LogFileHelpers: Loading map 'Template_Default' took 0.088
+[2020.04.04-17.22.12:172][709]LogSlate: Window 'Save Level As' being destroyed
+[2020.04.04-17.22.12:215][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ClaudiaTestLevel" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/ClaudiaTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-17.22.12:241][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.04.04-17.22.12:277][709]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/ClaudiaTestLevel92E16FD343AC0AFBBA52A6A07F22B3AD.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/ClaudiaTestLevel.umap'
+[2020.04.04-17.22.12:297][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ClaudiaTestLevel_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/ClaudiaTestLevel_BuiltData.uasset" SILENT=true
+[2020.04.04-17.22.12:307][709]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/ClaudiaTestLevel_BuiltDataAB26046544F3457492D3FDAADE7A548D.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/ClaudiaTestLevel_BuiltData.uasset'
+[2020.04.04-17.22.12:317][709]LogFileHelpers: Saving map 'ClaudiaTestLevel' took 0.139
+[2020.04.04-17.22.12:324][709]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-17.22.12:324][709]LogContentValidation: Display: Validating World /Game/Maps/ClaudiaTestLevel.ClaudiaTestLevel
+[2020.04.04-17.22.12:324][709]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/ClaudiaTestLevel_BuiltData.ClaudiaTestLevel_BuiltData
+[2020.04.04-17.22.24:891][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ClaudiaTestLevel" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/ClaudiaTestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-17.22.24:915][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.04.04-17.22.24:932][158]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/ClaudiaTestLevelB66E16304587A6B045AC0B85BFC05630.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/ClaudiaTestLevel.umap'
+[2020.04.04-17.22.24:949][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ClaudiaTestLevel_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/ClaudiaTestLevel_BuiltData.uasset" SILENT=true
+[2020.04.04-17.22.24:993][158]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/ClaudiaTestLevel_BuiltData5C64A04D4B90EF5E201882BBC98CF8CB.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/ClaudiaTestLevel_BuiltData.uasset'
+[2020.04.04-17.22.25:005][158]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-17.22.25:005][158]LogContentValidation: Display: Validating World /Game/Maps/ClaudiaTestLevel.ClaudiaTestLevel
+[2020.04.04-17.22.25:005][158]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/ClaudiaTestLevel_BuiltData.ClaudiaTestLevel_BuiltData
+[2020.04.04-17.22.29:473][687]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/ClaudiaTestLevel.ClaudiaTestLevel
+[2020.04.04-17.22.29:495][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.04.04-17.22.29:497][687]Cmd: MAP LOAD FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/ClaudiaTestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.04-17.22.29:497][687]LightingResults: New page: Lighting Build
+[2020.04.04-17.22.29:497][687]LoadErrors: New page: Loading map: ClaudiaTestLevel.umap
+[2020.04.04-17.22.29:497][687]LogWorld: UWorld::CleanupWorld for ClaudiaTestLevel, bSessionEnded=true, bCleanupResources=true
+[2020.04.04-17.22.29:497][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.04-17.22.29:497][687]MapCheck: New page: Map Check
+[2020.04.04-17.22.29:497][687]LightingResults: New page: Lighting Build
+[2020.04.04-17.22.29:521][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.04-17.22.29:527][687]LogAIModule: Creating AISystem for world ClaudiaTestLevel
+[2020.04.04-17.22.29:528][687]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.04-17.22.29:554][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.04.04-17.22.29:568][687]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.04-17.22.29:568][687]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2020.04.04-17.22.29:568][687]LogFileHelpers: Loading map 'ClaudiaTestLevel' took 0.072
