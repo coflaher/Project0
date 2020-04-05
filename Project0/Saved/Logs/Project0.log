@@ -810,3 +810,661 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.05-23.23.28:074][900]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridTile6C511BFA4580FEB3800E6F86546819A3.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_GridTile.uasset'
 [2020.04.05-23.23.28:085][900]AssetCheck: New page: Asset Save: BP_GridTile
 [2020.04.05-23.23.28:085][900]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2020.04.05-23.24.57:248][675]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.24.57:267][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.24.57:267][675]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:24:57 AM)
+[2020.04.05-23.24.57:267][675]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.24.57:269][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001628s)
+[2020.04.05-23.24.57:270][675]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.24.57:270][675]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2020.04.05-23.24.57:270][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.002477s)
+[2020.04.05-23.24.57:305][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.04.05-23.24.57:306][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.24.57:306][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.24.57:306][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.24.57:307][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.24.57:307][675]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.24.57:307][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.24.57:307][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.24.57:307][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.24.57:307][675]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.24.57:307][675]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.24.57:325][675]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.24.57:364][675]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.24.57:365][675]LogInit: FAudioDevice initialized.
+[2020.04.05-23.24.57:382][675]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.24.57:385][675]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.24.57
+[2020.04.05-23.24.57:385][675]LogWorld: Bringing up level for play took: 0.001208
+[2020.04.05-23.24.57:386][675]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.05-23.24.57:428][675]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding -0.673
+[2020.04.05-23.24.58:532][743]LogBlueprintUserMessages: [BP_GridTile_C_40] Tile Selected
+[2020.04.05-23.24.59:129][782]LogBlueprintUserMessages: [BP_GridTile_C_31] Tile Selected
+[2020.04.05-23.24.59:129][782]LogBlueprintUserMessages: [BP_GridTile_C_40] Tile Deselcted
+[2020.04.05-23.25.00:077][847]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.25.00:078][847]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.25.00:078][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.25.00:078][847]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.25.00:078][847]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.25.00:080][847]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.25.00:081][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.25.00:096][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.25.00:100][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.25.00:135][847]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.25.00:137][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.25.00:144][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.04.05-23.25.00:175][850]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.05-23.25.12:850][172]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.25.12:869][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.25.12:869][172]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:25:12 AM)
+[2020.04.05-23.25.12:869][172]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.25.12:872][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003464s)
+[2020.04.05-23.25.12:873][172]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.25.12:873][172]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2020.04.05-23.25.12:873][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.004200s)
+[2020.04.05-23.25.12:907][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.04.05-23.25.12:909][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.25.12:909][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.25.12:909][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.25.12:909][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.25.12:909][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.25.12:909][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.25.12:909][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.25.12:909][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.25.12:910][172]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.25.12:910][172]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.25.12:928][172]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.25.12:965][172]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.25.12:966][172]LogInit: FAudioDevice initialized.
+[2020.04.05-23.25.12:975][172]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.25.12:976][172]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.25.12
+[2020.04.05-23.25.12:976][172]LogWorld: Bringing up level for play took: 0.000489
+[2020.04.05-23.25.12:976][172]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.04.05-23.25.13:119][172]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 1.018
+[2020.04.05-23.25.15:152][214]LogBlueprintUserMessages: [BP_GridTile_C_152] Tile Selected
+[2020.04.05-23.25.25:122][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.25.25:122][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.25.25:122][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.25.25:123][447]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.25.25:123][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.25.25:134][447]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.25.25:138][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.25.25:168][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.25.25:174][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.25.25:210][447]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.25.25:213][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.25.25:234][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.04.05-23.25.25:249][448]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.05-23.26.12:407][674]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.26.12:427][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.26.12:427][674]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:26:12 AM)
+[2020.04.05-23.26.12:427][674]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.26.12:429][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001652s)
+[2020.04.05-23.26.12:429][674]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.26.12:429][674]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2020.04.05-23.26.12:429][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.002434s)
+[2020.04.05-23.26.12:467][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.04.05-23.26.12:470][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.26.12:471][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.26.12:471][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.26.12:471][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.26.12:471][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.26.12:471][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.26.12:471][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.26.12:471][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.26.12:471][674]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.26.12:471][674]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.26.12:489][674]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.26.12:490][674]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.26.12:490][674]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.26.12:526][674]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.26.12:527][674]LogInit: FAudioDevice initialized.
+[2020.04.05-23.26.12:531][674]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.26.12:532][674]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.26.12
+[2020.04.05-23.26.12:532][674]LogWorld: Bringing up level for play took: 0.000498
+[2020.04.05-23.26.12:532][674]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.04.05-23.26.12:569][674]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 0.468
+[2020.04.05-23.26.26:726][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.26.26:726][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.26.26:727][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.26.26:727][539]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.26.26:727][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.26.26:730][539]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.26.26:731][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.26.26:745][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.26.26:751][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.26.26:784][539]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.26.26:787][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.26.26:796][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.04.05-23.26.26:827][542]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.05-23.26.35:325][523]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.26.35:343][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.26.35:343][523]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:26:35 AM)
+[2020.04.05-23.26.35:343][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.26.35:345][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001199s)
+[2020.04.05-23.26.35:345][523]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.26.35:345][523]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2020.04.05-23.26.35:345][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.002024s)
+[2020.04.05-23.26.35:380][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.04.05-23.26.35:382][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.26.35:382][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.26.35:382][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.26.35:382][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.26.35:382][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.26.35:382][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.26.35:382][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.26.35:382][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.26.35:382][523]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.26.35:382][523]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.26.35:399][523]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.26.35:437][523]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.26.35:439][523]LogInit: FAudioDevice initialized.
+[2020.04.05-23.26.35:446][523]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.26.35:447][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.26.35
+[2020.04.05-23.26.35:447][523]LogWorld: Bringing up level for play took: 0.000479
+[2020.04.05-23.26.35:447][523]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.04.05-23.26.35:449][523]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding -0.652
+[2020.04.05-23.26.40:052][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.26.40:052][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.26.40:053][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.26.40:053][ 70]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.26.40:053][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.26.40:053][ 70]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.26.40:053][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.26.40:061][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.26.40:065][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.26.40:097][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.26.40:099][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.26.40:102][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.04.05-23.26.40:154][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.05-23.26.51:251][351]Cmd: TRANSACTION UNDO
+[2020.04.05-23.26.51:251][351]LogEditorTransaction: Undo Edit Source Angle
+[2020.04.05-23.27.36:627][275]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Grid/Struct_Tiles.Struct_Tiles
+[2020.04.05-23.27.49:614][803]LogSlate: Window 'Struct_Tiles' being destroyed
+[2020.04.05-23.27.49:620][803]LogSlate: Window 'Struct_Tiles' being destroyed
+[2020.04.05-23.27.52:346][ 31]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Grid/Enum_GroundTypes.Enum_GroundTypes
+[2020.04.05-23.28.13:947][500]LogSlate: Window 'Enum_GroundTypes' being destroyed
+[2020.04.05-23.28.13:952][500]LogSlate: Window 'Enum_GroundTypes' being destroyed
+[2020.04.05-23.29.05:699][881]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.29.05:780][881]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.05-23.29.05:839][881]LogPlayLevel: [PlayLevel] Compiling BP_Grid before play...
+[2020.04.05-23.29.06:197][881]LogPlayLevel: [PlayLevel] Compiling BP_GridTile before play...
+[2020.04.05-23.29.06:372][881]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2020.04.05-23.29.06:425][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.04.05-23.29.06:429][881]LogPlayLevel: PlayLevel: Blueprint regeneration took 648 ms (3 blueprints)
+[2020.04.05-23.29.06:429][881]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:29:06 AM)
+[2020.04.05-23.29.06:429][881]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.29.06:430][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001599s)
+[2020.04.05-23.29.06:430][881]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.29.06:431][881]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2020.04.05-23.29.06:431][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.002450s)
+[2020.04.05-23.29.06:464][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.04.05-23.29.06:465][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.29.06:465][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.29.06:465][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.29.06:465][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.29.06:465][881]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.29.06:465][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.29.06:465][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.29.06:465][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.29.06:465][881]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.29.06:465][881]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.29.06:483][881]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.29.06:524][881]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.29.06:526][881]LogInit: FAudioDevice initialized.
+[2020.04.05-23.29.06:557][881]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.29.06:560][881]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.29.06
+[2020.04.05-23.29.06:561][881]LogWorld: Bringing up level for play took: 0.001634
+[2020.04.05-23.29.06:561][881]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.04.05-23.29.06:607][881]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 0.506
+[2020.04.05-23.29.08:716][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.29.08:716][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.29.08:717][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.29.08:717][995]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.29.08:717][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.29.08:719][995]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.29.08:720][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.29.08:736][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.29.08:741][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.29.08:775][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.29.08:778][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.29.08:784][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.04.05-23.29.08:815][998]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.05-23.29.16:796][940]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.05-23.29.22:191][498]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.29.22:245][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.29.22:245][498]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:29:22 AM)
+[2020.04.05-23.29.22:245][498]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.29.22:247][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001825s)
+[2020.04.05-23.29.22:247][498]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.29.22:249][498]LogPlayLevel: PIE: World Init took: (0.002073s)
+[2020.04.05-23.29.22:249][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.004005s)
+[2020.04.05-23.29.22:282][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.04.05-23.29.22:286][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.29.22:286][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.29.22:286][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.29.22:286][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.29.22:286][498]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.29.22:286][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.29.22:286][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.29.22:286][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.29.22:287][498]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.29.22:287][498]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.29.22:305][498]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.29.22:343][498]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.29.22:344][498]LogInit: FAudioDevice initialized.
+[2020.04.05-23.29.22:349][498]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.29.22:350][498]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.29.22
+[2020.04.05-23.29.22:350][498]LogWorld: Bringing up level for play took: 0.000490
+[2020.04.05-23.29.22:350][498]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.04.05-23.29.22:385][498]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 0.284
+[2020.04.05-23.29.24:334][605]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.29.24:334][605]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.29.24:334][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.29.24:334][605]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.29.24:334][605]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.29.24:338][605]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.29.24:338][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.29.24:353][605]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.29.24:361][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.29.24:393][605]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.29.24:396][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.29.24:404][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2020.04.05-23.29.24:437][608]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.05-23.29.30:504][324]LogEditorViewport: Clicking Background
+[2020.04.05-23.29.58:703][566]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.29.58:722][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.29.58:723][566]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:29:58 AM)
+[2020.04.05-23.29.58:723][566]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.29.58:725][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002216s)
+[2020.04.05-23.29.58:726][566]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.29.58:726][566]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2020.04.05-23.29.58:726][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.003378s)
+[2020.04.05-23.29.58:792][566]LogUObjectHash: Compacting FUObjectHashTables data took   9.11ms
+[2020.04.05-23.29.58:799][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.29.58:799][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.29.58:799][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.29.58:799][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.29.58:799][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.29.58:799][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.29.58:799][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.29.58:799][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.29.58:799][566]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.29.58:799][566]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.29.58:833][566]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.29.58:871][566]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.29.58:884][566]LogInit: FAudioDevice initialized.
+[2020.04.05-23.29.58:906][566]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.29.58:908][566]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.29.58
+[2020.04.05-23.29.58:908][566]LogWorld: Bringing up level for play took: 0.000472
+[2020.04.05-23.29.58:909][566]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.04.05-23.29.58:944][566]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 0.844
+[2020.04.05-23.30.01:613][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.01:613][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.01:613][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.30.01:613][701]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.30.01:613][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.01:616][701]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.30.01:616][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.30.01:643][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.30.01:658][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.30.01:716][701]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.01:736][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.30.01:743][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.04.05-23.30.01:766][702]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.05-23.30.08:070][437]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.30.08:108][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.30.08:108][437]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:30:08 AM)
+[2020.04.05-23.30.08:108][437]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.30.08:110][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002334s)
+[2020.04.05-23.30.08:111][437]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.30.08:111][437]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2020.04.05-23.30.08:111][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.003467s)
+[2020.04.05-23.30.08:212][437]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.04.05-23.30.08:223][437]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.30.08:223][437]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.30.08:223][437]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.30.08:223][437]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.30.08:223][437]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.30.08:223][437]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.30.08:223][437]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.30.08:223][437]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.30.08:224][437]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.30.08:224][437]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.30.08:241][437]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.30.08:242][437]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.30.08:280][437]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.30.08:293][437]LogInit: FAudioDevice initialized.
+[2020.04.05-23.30.08:342][437]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.30.08:345][437]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.30.08
+[2020.04.05-23.30.08:346][437]LogWorld: Bringing up level for play took: 0.001769
+[2020.04.05-23.30.08:346][437]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.04.05-23.30.08:414][437]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 0.314
+[2020.04.05-23.30.23:537][238]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.23:537][238]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.23:537][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.30.23:537][238]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.30.23:538][238]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.23:540][238]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.30.23:540][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.30.23:574][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.30.23:579][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.30.23:612][238]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.23:615][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.30.23:622][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.04.05-23.30.23:640][240]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.04.05-23.30.30:702][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.30.30:719][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.30.30:719][ 70]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:30:30 AM)
+[2020.04.05-23.30.30:719][ 70]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.30.30:721][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001953s)
+[2020.04.05-23.30.30:722][ 70]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.30.30:722][ 70]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2020.04.05-23.30.30:722][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.003134s)
+[2020.04.05-23.30.30:757][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.04.05-23.30.30:800][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.30.30:800][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.30.30:800][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.30.30:800][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.30.30:800][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.30.30:800][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.30.30:800][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.30.30:800][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.30.30:801][ 70]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.30.30:801][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.30.30:845][ 70]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.30.30:885][ 70]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.30.30:886][ 70]LogInit: FAudioDevice initialized.
+[2020.04.05-23.30.30:916][ 70]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.30.30:918][ 70]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.30.30
+[2020.04.05-23.30.30:918][ 70]LogWorld: Bringing up level for play took: 0.000502
+[2020.04.05-23.30.30:918][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.05-23.30.30:952][ 70]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 0.852
+[2020.04.05-23.30.32:860][168]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.32:860][168]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.32:860][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.30.32:860][168]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.30.32:860][168]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.32:863][168]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.30.32:863][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.30.32:890][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.30.32:895][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.30.32:941][168]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.32:944][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.30.32:951][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.04.05-23.30.32:962][169]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.05-23.30.52:869][495]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.30.52:892][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.30.52:892][495]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:30:52 AM)
+[2020.04.05-23.30.52:892][495]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.30.52:894][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001740s)
+[2020.04.05-23.30.52:894][495]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.30.52:895][495]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2020.04.05-23.30.52:895][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.002737s)
+[2020.04.05-23.30.52:945][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.04.05-23.30.52:947][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.30.52:947][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.30.52:947][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.30.52:947][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.30.52:947][495]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.30.52:947][495]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.30.52:947][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.30.52:947][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.30.52:948][495]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.30.52:948][495]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.30.52:966][495]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.30.53:005][495]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.30.53:015][495]LogInit: FAudioDevice initialized.
+[2020.04.05-23.30.53:057][495]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.30.53:063][495]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.30.53
+[2020.04.05-23.30.53:063][495]LogWorld: Bringing up level for play took: 0.000736
+[2020.04.05-23.30.53:063][495]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.05-23.30.53:102][495]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 1.002
+[2020.04.05-23.30.56:241][651]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.56:241][651]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.56:241][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.30.56:241][651]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.30.56:241][651]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.56:250][651]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.30.56:251][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.30.56:271][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.30.56:275][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.30.56:318][651]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.30.56:320][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.30.56:329][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.04.05-23.30.56:347][652]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.05-23.31.10:048][146]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-23.31.10:077][146]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-23.31.10:077][146]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 9:31:10 AM)
+[2020.04.05-23.31.10:077][146]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.31.10:079][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001960s)
+[2020.04.05-23.31.10:080][146]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-23.31.10:080][146]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2020.04.05-23.31.10:080][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.002939s)
+[2020.04.05-23.31.10:124][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.04.05-23.31.10:143][146]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-23.31.10:143][146]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-23.31.10:143][146]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-23.31.10:143][146]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-23.31.10:143][146]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-23.31.10:143][146]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-23.31.10:143][146]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-23.31.10:143][146]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-23.31.10:143][146]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-23.31.10:143][146]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: Channel Order:
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-23.31.10:168][146]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-23.31.10:226][146]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-23.31.10:242][146]LogInit: FAudioDevice initialized.
+[2020.04.05-23.31.10:256][146]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-23.31.10:258][146]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-16.31.10
+[2020.04.05-23.31.10:258][146]LogWorld: Bringing up level for play took: 0.000519
+[2020.04.05-23.31.10:258][146]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.05-23.31.10:308][146]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 0.208
+[2020.04.05-23.31.12:076][236]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.31.12:077][236]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.31.12:077][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.31.12:077][236]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-23.31.12:077][236]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.31.12:079][236]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.31.12:080][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.31.12:109][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-23.31.12:113][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.31.12:147][236]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-23.31.12:149][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-23.31.12:158][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.04.05-23.31.12:199][237]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.05-23.31.37:781][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.05-23.31.37:811][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-23.31.38:207][616]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto13EC56D4143A4E8C7906576A10375AF8B.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto1.umap'
+[2020.04.05-23.31.38:226][616]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.541
+[2020.04.05-23.31.38:226][616]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.541
+[2020.04.05-23.31.38:254][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.05-23.31.38:254][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.05-23.31.38:254][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.05-23.31.38:603][616]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto10E1C540E44F1649A2032A2BD0C463111.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto1.uasset'
+[2020.04.05-23.31.38:632][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/Enum_GroundTypes] ([1] browsable assets)...
+[2020.04.05-23.31.38:632][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/Enum_GroundTypes]
+[2020.04.05-23.31.38:663][616]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Enum_GroundTypes_Auto1A7E590E5493ABD6033CF338701775444.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/Enum_GroundTypes_Auto1.uasset'
+[2020.04.05-23.31.38:690][616]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grid/BP_GridTile] ([1] browsable assets)...
+[2020.04.05-23.31.38:712][616]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile]
+[2020.04.05-23.31.38:712][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_GridTile]
+[2020.04.05-23.31.38:899][616]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridTile_Auto10E6222E241316492AAA4F1B3D9DAC5FB.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_GridTile_Auto1.uasset'
+[2020.04.05-23.31.38:900][616]LogFileHelpers: Auto-saving content packages took 0.673
+[2020.04.05-23.33.28:754][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.05-23.33.28:793][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.05-23.33.28:855][325]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding46EC4A634C8B9D5402B7B69C69E503C5.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.05-23.33.29:040][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.05-23.33.29:363][325]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltData928C60E549B3577BED599D8E47B4730F.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.05-23.33.29:432][325]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-23.33.29:432][325]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.05-23.33.29:432][325]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.05-23.33.38:363][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.04.05-23.33.39:673][466]LogSlate: Window 'Save Content' being destroyed
+[2020.04.05-23.33.39:704][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.05-23.33.39:772][466]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid074C87674CB617F6203C9F8C838BB048.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.05-23.33.39:786][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_GridTile" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_GridTile.uasset" SILENT=true
+[2020.04.05-23.33.39:814][466]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridTileDB08587E4A039B9FC65E0E9EECD957CE.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_GridTile.uasset'
+[2020.04.05-23.33.39:824][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/Enum_GroundTypes" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/Enum_GroundTypes.uasset" SILENT=true
+[2020.04.05-23.33.39:833][466]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Enum_GroundTypes38F5D54146FFB107BC6ED79E1AFFB51B.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/Enum_GroundTypes.uasset'
+[2020.04.05-23.33.39:886][466]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-23.33.39:886][466]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-23.33.39:887][466]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2020.04.05-23.33.39:887][466]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Grid/Enum_GroundTypes.Enum_GroundTypes
+[2020.04.05-23.33.40:480][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.05-23.33.40:525][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.04.05-23.33.40:551][527]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding474977F94EFCB4A874473D96AF7CD1DF.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.05-23.33.40:572][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.05-23.33.40:580][527]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltDataF4CEC53F4D872FA2152D35A658FE230C.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.05-23.33.40:598][527]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-23.33.40:598][527]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.05-23.33.40:598][527]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
