@@ -2008,3 +2008,324 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.05-20.29.15:852][552]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
 [2020.04.05-20.29.15:852][552]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
 [2020.04.05-20.29.15:852][552]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.05-20.31.36:791][586]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Grid/MT_GridTile.MT_GridTile
+[2020.04.05-20.31.36:795][586]LogMaterial: Display: Missing cached shader map for material MT_GridTile, compiling. 
+[2020.04.05-20.31.36:852][586]LogMaterial: Display: Missing cached shader map for material MT_GridTile, compiling. 
+[2020.04.05-20.31.36:866][586]LogMaterial: Display: Missing cached shader map for material MT_GridTile, compiling. 
+[2020.04.05-20.31.36:882][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLinearInterpolate_0, compiling. 
+[2020.04.05-20.31.36:893][586]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.05-20.31.36:893][586]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.05-20.31.36:893][586]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.05-20.31.36:893][586]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.05-20.31.36:893][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2020.04.05-20.31.36:902][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.05-20.31.36:911][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.05-20.31.36:920][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionIf_0, compiling. 
+[2020.04.05-20.31.36:929][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2020.04.05-20.31.36:938][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.04.05-20.31.36:946][586]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_0, compiling. 
+[2020.04.05-20.31.37:294][601]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2020.04.05-20.31.37:438][610]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2020.04.05-20.31.37:446][610]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.04.05-20.31.37:463][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.04.05-20.31.37:712][625]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.04.05-20.31.37:732][626]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.04.05-20.31.37:848][633]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.04.05-20.31.37:878][634]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.04.05-20.31.37:994][640]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.04.05-20.31.38:053][641]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.04.05-20.31.38:053][641]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2020.04.05-20.31.38:053][641]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.05-20.31.38:053][641]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.05-20.31.38:053][641]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.05-20.31.38:053][641]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.05-20.31.38:096][644]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2020.04.05-20.31.38:175][648]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2020.04.05-20.31.38:211][650]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.04.05-20.31.38:251][652]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.04.05-20.31.38:426][670]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.04.05-20.31.38:492][678]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.04.05-20.31.38:509][680]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.04.05-20.31.38:518][681]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.04.05-20.31.38:755][695]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.04.05-20.31.38:796][697]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.05-20.31.38:812][698]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.04.05-20.31.38:834][699]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.04.05-20.31.39:090][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.05-20.31.39:100][710]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2020.04.05-20.31.39:121][711]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2020.04.05-20.31.39:143][712]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.04.05-20.31.39:411][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.04.05-20.31.39:431][733]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.05-20.31.39:447][734]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.04.05-20.31.39:454][734]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.05-20.31.39:745][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.04.05-20.31.39:751][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.05-20.31.39:763][747]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.04.05-20.31.39:784][748]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.04.05-20.31.40:040][763]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.05-20.31.40:063][764]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.04.05-20.31.40:082][765]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.04.05-20.31.40:088][765]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.05-20.31.42:318][900]LogMaterial: Display: Missing cached shader map for material MT_GridTile, compiling. 
+[2020.04.05-20.31.42:333][900]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.05-20.31.42:333][900]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.05-20.31.42:333][900]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.05-20.31.42:333][900]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.05-20.31.42:339][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.05-20.31.42:649][913]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.05-20.31.42:792][919]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.05-20.31.42:808][920]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.04.05-20.31.42:814][920]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.05-20.31.42:969][931]LogMaterial: Display: Missing cached shader map for material MT_GridTile, compiling. 
+[2020.04.05-20.31.42:986][931]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.05-20.31.42:995][931]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.05-20.31.43:052][934]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.04.05-20.31.43:073][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.04.05-20.31.43:185][940]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.04.05-20.31.43:216][941]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.04.05-20.31.43:515][953]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.04.05-20.31.43:521][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.04.05-20.31.43:561][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.04.05-20.31.43:644][959]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.04.05-20.31.43:826][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.05-20.31.43:974][972]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.05-20.31.44:008][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.05-20.31.44:057][976]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.05-20.31.44:090][978]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.04.05-20.31.44:128][979]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.04.05-20.31.44:128][979]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2020.04.05-20.31.44:128][979]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.05-20.31.44:128][979]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.05-20.31.44:128][979]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.05-20.31.44:128][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.05-20.32.00:800][115]LogMaterialEditor: Applying material MT_GridTile
+[2020.04.05-20.32.01:145][115]LogMaterial: Display: Missing cached shader map for material MT_GridTile, compiling. 
+[2020.04.05-20.32.01:175][115]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.05-20.32.01:175][115]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.05-20.32.01:175][115]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.05-20.32.01:175][115]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.05-20.32.01:175][115]LogMaterial: Display: Missing cached shader map for material MT_GridTile, compiling. 
+[2020.04.05-20.32.01:228][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.04.05-20.32.01:254][115]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.04.05-20.32.02:053][115]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.04.05-20.32.02:054][115]TextureStreamingBuild: Display: Compiling optional shaders took 0.810 seconds.
+[2020.04.05-20.32.02:098][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.05-20.32.02:687][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.05-20.32.03:076][158]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.04.05-20.32.03:076][158]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.04.05-20.32.03:316][171]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.04.05-20.32.03:316][171]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 207 instructions
+[2020.04.05-20.32.03:316][171]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.04.05-20.32.03:316][171]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.05-20.32.03:316][171]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.05-20.32.03:316][171]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.05-20.32.04:864][256]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-20.32.04:864][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-20.32.07:668][437]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-20.32.07:668][437]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-20.32.07:668][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-20.32.07:668][437]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-20.32.07:669][437]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-20.32.07:669][437]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-20.32.07:669][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-20.32.07:687][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-20.32.07:691][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-20.32.07:720][437]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-20.32.07:725][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-20.32.07:732][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.04.05-20.32.07:774][442]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.04.05-20.32.09:662][659]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-20.32.09:662][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-20.32.10:851][793]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.05-20.32.10:851][793]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-20.32.10:851][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-20.32.11:692][858]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-20.32.11:701][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-20.32.11:701][858]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 6:32:11 AM)
+[2020.04.05-20.32.11:701][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-20.32.11:703][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001567s)
+[2020.04.05-20.32.11:703][858]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-20.32.11:703][858]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2020.04.05-20.32.11:703][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.002290s)
+[2020.04.05-20.32.11:777][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.04.05-20.32.11:778][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-20.32.11:778][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-20.32.11:778][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-20.32.11:778][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-20.32.11:778][858]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-20.32.11:778][858]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-20.32.11:778][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-20.32.11:778][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-20.32.11:779][858]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-20.32.11:779][858]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-20.32.11:795][858]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-20.32.11:795][858]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-20.32.11:795][858]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-20.32.11:795][858]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-20.32.11:795][858]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-20.32.11:795][858]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-20.32.11:796][858]LogAudioMixer: Display: Channel Order:
+[2020.04.05-20.32.11:796][858]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-20.32.11:796][858]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-20.32.11:796][858]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-20.32.11:796][858]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-20.32.11:796][858]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-20.32.11:796][858]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-20.32.11:796][858]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-20.32.11:796][858]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-20.32.11:838][858]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-20.32.11:839][858]LogInit: FAudioDevice initialized.
+[2020.04.05-20.32.11:844][858]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-20.32.11:853][858]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-13.32.11
+[2020.04.05-20.32.11:853][858]LogWorld: Bringing up level for play took: 0.007880
+[2020.04.05-20.32.11:853][858]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.04.05-20.32.11:867][858]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding -0.234
+[2020.04.05-20.32.12:774][919]LogBlueprintUserMessages: [BP_GridTile_C_22] Tile Selected
+[2020.04.05-20.32.13:713][972]LogBlueprintUserMessages: [BP_GridTile_C_32] Tile Selected
+[2020.04.05-20.32.13:714][972]LogBlueprintUserMessages: [BP_GridTile_C_22] Tile Deselcted
+[2020.04.05-20.32.14:477][ 13]LogBlueprintUserMessages: [BP_GridTile_C_29] Tile Selected
+[2020.04.05-20.32.14:477][ 13]LogBlueprintUserMessages: [BP_GridTile_C_32] Tile Deselcted
+[2020.04.05-20.32.15:188][ 51]LogBlueprintUserMessages: [BP_GridTile_C_60] Tile Selected
+[2020.04.05-20.32.15:188][ 51]LogBlueprintUserMessages: [BP_GridTile_C_29] Tile Deselcted
+[2020.04.05-20.50.42:837][ 18]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.05-21.04.32:147][574]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2020.04.05-21.04.38:295][949]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.04.38:295][949]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.04.38:295][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.04.38:295][949]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-21.04.38:295][949]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.04.38:295][949]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-21.04.38:295][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.04.38:313][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-21.04.38:317][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.04.38:341][949]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.04.38:359][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.04.38:365][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.04.05-21.04.38:407][951]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.04.05-21.04.39:364][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_GridTile" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_GridTile.uasset" SILENT=true
+[2020.04.05-21.04.39:397][ 58]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridTile8FFB2C824358CAE36DDCFCBE9A95AE21.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_GridTile.uasset'
+[2020.04.05-21.04.39:408][ 58]AssetCheck: New page: Asset Save: BP_GridTile
+[2020.04.05-21.04.39:408][ 58]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2020.04.05-21.04.53:278][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-21.06.01:083][595]LogEditorTransaction: Undo Paste clipboard contents
+[2020.04.05-21.08.39:338][133]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-21.08.39:539][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.04.05-21.08.40:126][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.05-21.08.40:181][196]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid0957390946767DBE29E86A851A5EB92A.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.05-21.08.40:194][196]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.05-21.08.40:194][196]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-21.14.56:404][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.05-21.14.56:903][667]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid60ECAE9A4F985AB6978E4AA3FB973B70.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.05-21.14.56:918][667]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.05-21.14.56:918][667]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-21.14.59:746][  1]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-21.14.59:766][  1]LogBlueprint: Warning: [Compiler BP_Grid] Could not find the function 'Event_EndOverTile' called from  Event End Over Tile
+[2020.04.05-21.14.59:934][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.04.05-21.15.01:024][123]BlueprintLog: New page: Compile BP_GridTile
+[2020.04.05-21.15.01:192][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.04.05-21.15.02:229][237]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-21.15.02:439][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.04.05-21.15.36:065][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.04.05-21.15.36:066][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-21.15.36:082][105]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto1E4CC146D4C9743FC2F455EBB9AB118F5.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto1.umap'
+[2020.04.05-21.15.36:084][105]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.048
+[2020.04.05-21.15.36:084][105]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.048
+[2020.04.05-21.15.36:084][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grid/BP_GridTile] ([1] browsable assets)...
+[2020.04.05-21.15.36:102][105]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile]
+[2020.04.05-21.15.36:102][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_GridTile]
+[2020.04.05-21.15.36:138][105]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridTile_Auto1DD67920840090B414DCE07A6C8D28F63.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_GridTile_Auto1.uasset'
+[2020.04.05-21.15.36:139][105]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Grid/MT_GridTile] ([1] browsable assets)...
+[2020.04.05-21.15.36:155][105]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Grid/MT_GridTile.MT_GridTile]
+[2020.04.05-21.15.36:155][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Grid/MT_GridTile]
+[2020.04.05-21.15.36:155][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/MT_GridTile" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Assets/Grid/MT_GridTile_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.05-21.15.36:172][105]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/MT_GridTile_Auto158A823E7450994E01F27C99ED38F44B1.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Assets/Grid/MT_GridTile_Auto1.uasset'
+[2020.04.05-21.15.36:173][105]LogFileHelpers: Auto-saving content packages took 0.088
+[2020.04.05-21.15.40:739][620]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-21.15.40:752][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-21.15.40:753][620]PIE: New page: PIE session: Pathfinding (Apr 5, 2020, 7:15:40 AM)
+[2020.04.05-21.15.40:753][620]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-21.15.40:754][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001516s)
+[2020.04.05-21.15.40:755][620]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.05-21.15.40:755][620]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2020.04.05-21.15.40:755][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.002339s)
+[2020.04.05-21.15.40:783][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.04.05-21.15.40:784][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-21.15.40:784][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-21.15.40:784][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-21.15.40:784][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-21.15.40:784][620]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-21.15.40:784][620]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-21.15.40:784][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-21.15.40:784][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-21.15.40:784][620]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-21.15.40:784][620]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: Channel Order:
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: 4: BackLeft
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: 5: BackRight
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: 6: SideLeft
+[2020.04.05-21.15.40:801][620]LogAudioMixer: Display: 7: SideRight
+[2020.04.05-21.15.40:844][620]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.05-21.15.40:845][620]LogInit: FAudioDevice initialized.
+[2020.04.05-21.15.40:863][620]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.05-21.15.40:866][620]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.05-14.15.40
+[2020.04.05-21.15.40:867][620]LogWorld: Bringing up level for play took: 0.001769
+[2020.04.05-21.15.40:867][620]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.04.05-21.15.40:895][620]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 0.795
+[2020.04.05-21.15.41:757][681]LogBlueprintUserMessages: [BP_GridTile_C_40] Tile Selected
+[2020.04.05-21.15.42:359][719]LogBlueprintUserMessages: [BP_GridTile_C_20] Tile Selected
+[2020.04.05-21.15.42:359][719]LogBlueprintUserMessages: [BP_GridTile_C_40] Tile Deselcted
+[2020.04.05-21.15.42:875][752]LogBlueprintUserMessages: [BP_GridTile_C_41] Tile Selected
+[2020.04.05-21.15.42:875][752]LogBlueprintUserMessages: [BP_GridTile_C_20] Tile Deselcted
+[2020.04.05-21.15.43:286][778]LogBlueprintUserMessages: [BP_GridTile_C_29] Tile Selected
+[2020.04.05-21.15.43:286][778]LogBlueprintUserMessages: [BP_GridTile_C_41] Tile Deselcted
+[2020.04.05-21.15.44:215][837]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.15.44:215][837]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.15.44:215][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.15.44:215][837]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.05-21.15.44:215][837]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.15.44:216][837]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-21.15.44:216][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.15.44:237][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-21.15.44:240][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.15.44:268][837]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.15.44:272][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.15.44:276][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.04.05-21.15.44:315][840]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.04.05-21.16.14:920][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.05-21.16.14:960][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.04.05-21.16.14:972][406]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding9AF0E9F4488E6B07129B3EBB5DCBAF07.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.05-21.16.14:993][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.05-21.16.15:004][406]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltData27BDC7324D7DD3EE59B7469E737D46F4.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.05-21.16.15:018][406]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-21.16.15:019][406]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.05-21.16.15:019][406]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.05-21.16.16:457][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.04.05-21.16.18:177][533]LogSlate: Window 'Save Content' being destroyed
+[2020.04.05-21.16.18:202][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/MT_GridTile" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/MT_GridTile.uasset" SILENT=true
+[2020.04.05-21.16.18:210][533]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/MT_GridTile909A32F44B2AC35E114C0F9F90C9863C.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/MT_GridTile.uasset'
+[2020.04.05-21.16.18:214][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_GridTile" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_GridTile.uasset" SILENT=true
+[2020.04.05-21.16.18:240][533]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridTile0352E6C14F88FDB4A127FAA1E06CCEC1.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_GridTile.uasset'
+[2020.04.05-21.16.18:255][533]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-21.16.18:255][533]LogContentValidation: Display: Validating Material /Game/Assets/Grid/MT_GridTile.MT_GridTile
+[2020.04.05-21.16.18:255][533]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
