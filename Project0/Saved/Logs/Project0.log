@@ -789,3 +789,137 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.05-00.35.40:128][337]AssetCheck: New page: Asset Save: multiple assets
 [2020.04.05-00.35.40:128][337]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
 [2020.04.05-00.35.40:128][337]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.05-00.51.05:981][292]LogUObjectHash: Compacting FUObjectHashTables data took  10.51ms
+[2020.04.05-00.51.05:985][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-00.51.06:041][292]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto6A306B58442706043EB3F4BAB5FDB55FA.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto6.umap'
+[2020.04.05-00.51.06:053][292]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.215
+[2020.04.05-00.51.06:054][292]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2020.04.05-00.51.29:121][882]LogRenderer: Reallocating scene render targets to support 1084x572 Format 10 NumSamples 1 (Frame:1).
+[2020.04.05-01.05.49:797][343]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Desktop/Floor_plate.fbx)
+[2020.04.05-01.05.49:869][343]LogFbx: Loading FBX Scene from D:/Desktop/Floor_plate.fbx
+[2020.04.05-01.05.49:889][343]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.05-01.06.39:126][343]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.05-01.06.40:666][343]LogLinker: Failed to load '/Game/Assets/Grid/Iron_Plate_DIF': Can't find file.
+[2020.04.05-01.06.40:666][343]LogLinker: Failed to load '/Game/Assets/Grid/Iron_Plate_DIF': Can't find file.
+[2020.04.05-01.06.40:687][343]LogFbxMaterialImport: Warning: Unable to find Texture file D:\Мои документы\Федя\2.CG\4.Projects\UNITED\z.Models\Squid\BackToTheFuture\Furniture\Iron Plate\Textures\Iron_Plate_DIF.png
+[2020.04.05-01.06.40:687][343]LogLinker: Failed to load '/Game/Assets/Grid/Iron_Plate_SPC': Can't find file.
+[2020.04.05-01.06.40:687][343]LogLinker: Failed to load '/Game/Assets/Grid/Iron_Plate_SPC': Can't find file.
+[2020.04.05-01.06.40:687][343]LogFbxMaterialImport: Warning: Unable to find Texture file D:\Мои документы\Федя\2.CG\4.Projects\UNITED\z.Models\Squid\BackToTheFuture\Furniture\Iron Plate\Textures\Iron_Plate_SPC.png
+[2020.04.05-01.06.40:687][343]LogFbxMaterialImport: Warning: Unable to find Texture file D:\Мои документы\Федя\2.CG\4.Projects\UNITED\z.Models\Squid\BackToTheFuture\Furniture\Iron Plate\Textures\Iron_Plate_SPC.png
+[2020.04.05-01.06.40:687][343]LogFbxMaterialImport: Warning: Unable to find Texture file D:\Мои документы\Федя\2.CG\4.Projects\UNITED\z.Models\Squid\BackToTheFuture\Furniture\Iron Plate\Textures\Iron_Plate_SPC.png
+[2020.04.05-01.06.40:687][343]LogLinker: Failed to load '/Game/Assets/Grid/Iron_Plate_NRM': Can't find file.
+[2020.04.05-01.06.40:688][343]LogLinker: Failed to load '/Game/Assets/Grid/Iron_Plate_NRM': Can't find file.
+[2020.04.05-01.06.40:688][343]LogFbxMaterialImport: Warning: Unable to find Texture file D:\Мои документы\Федя\2.CG\4.Projects\UNITED\z.Models\Squid\BackToTheFuture\Furniture\Iron Plate\Textures\Iron_Plate_NRM.png
+[2020.04.05-01.06.40:903][343]LogMaterial: Display: Missing cached shader map for material Iron_Plate, compiling. 
+[2020.04.05-01.06.41:077][343]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.04.05-01.06.41:077][343]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.04.05-01.06.41:077][343]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.05-01.06.41:077][343]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.04.05-01.06.41:077][343]LogFbx: Display: Triangulating static mesh Iron Plate
+[2020.04.05-01.06.41:517][343]LogStaticMesh: Building static mesh Floor_plate...
+[2020.04.05-01.06.41:602][343]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/Grid/Floor_plate.Floor_plate
+[2020.04.05-01.06.41:719][343]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.05-01.06.47:270][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.04.05-01.06.47:275][510]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.528
+[2020.04.05-01.06.47:278][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Grid/Floor_plate] ([1] browsable assets)...
+[2020.04.05-01.06.47:297][510]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Grid/Floor_plate.Floor_plate]
+[2020.04.05-01.06.47:303][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Grid/Floor_plate]
+[2020.04.05-01.06.47:303][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/Floor_plate" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Assets/Grid/Floor_plate_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.04.05-01.06.47:337][510]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Floor_plate_Auto7C3011A614C1EEA7BE97E47B2BA64E372.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Assets/Grid/Floor_plate_Auto7.uasset'
+[2020.04.05-01.06.47:337][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Grid/Iron_Plate] ([1] browsable assets)...
+[2020.04.05-01.06.47:357][510]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Grid/Iron_Plate.Iron_Plate]
+[2020.04.05-01.06.47:357][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Grid/Iron_Plate]
+[2020.04.05-01.06.47:357][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/Iron_Plate" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Assets/Grid/Iron_Plate_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.04.05-01.06.47:399][510]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Iron_Plate_Auto784767B8845EAB3BA6421A5B94372B7E3.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Assets/Grid/Iron_Plate_Auto7.uasset'
+[2020.04.05-01.06.47:399][510]LogFileHelpers: Auto-saving content packages took 0.122
+[2020.04.05-01.06.51:326][873]LogSlate: Window 'Message Log' being destroyed
+[2020.04.05-01.06.51:332][873]LogSlate: Window 'Message Log' being destroyed
+[2020.04.05-01.06.52:717][969]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Grid/Floor_plate.Floor_plate
+[2020.04.05-01.06.54:111][970]LogRenderer: Reallocating scene render targets to support 1152x748 Format 10 NumSamples 1 (Frame:1).
+[2020.04.05-01.07.21:890][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/GridTile" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile.uasset" SILENT=true
+[2020.04.05-01.07.21:919][295]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/GridTile8888BF6A4D73EB296FE1A6817A2E67AD.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile.uasset'
+[2020.04.05-01.07.23:031][295]LogUObjectHash: Compacting FUObjectHashTables data took  35.25ms
+[2020.04.05-01.07.23:249][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.04.05-01.07.23:443][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.05-01.07.23:488][295]AssetCheck: New page: Asset Save: GridTile
+[2020.04.05-01.07.23:488][295]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Grid/GridTile.GridTile
+[2020.04.05-01.07.37:055][844]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Desktop/Textures/Textures/Iron_Plate_AO.png)
+[2020.04.05-01.07.37:258][844]LogTexture: Display: Building textures: Iron_Plate_AO (AutoDXT, 1024X1024)
+[2020.04.05-01.07.37:570][844]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Desktop/Textures/Textures/Iron_Plate_DIF.png)
+[2020.04.05-01.07.37:598][844]LogTexture: Display: Building textures: Iron_Plate_DIF (AutoDXT, 1024X1024)
+[2020.04.05-01.07.37:817][844]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Desktop/Textures/Textures/Iron_Plate_NRM.png)
+[2020.04.05-01.07.37:877][844]LogTexture: Display: Building textures: Iron_Plate_NRM (BC5, 1024X1024)
+[2020.04.05-01.07.37:939][844]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Desktop/Textures/Textures/Iron_Plate_SPC.png)
+[2020.04.05-01.07.37:956][844]LogTexture: Display: Building textures: Iron_Plate_SPC (AutoDXT, 1024X1024)
+[2020.04.05-01.07.55:394][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/GridTileMat" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTileMat.uasset" SILENT=true
+[2020.04.05-01.07.55:407][307]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/GridTileMatD4B7645542FDA6E2C4ED33A92B210187.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTileMat.uasset'
+[2020.04.05-01.07.55:607][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.04.05-01.07.55:658][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.05-01.07.55:688][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.04.05-01.07.55:733][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/GridTile" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile.uasset" SILENT=true
+[2020.04.05-01.07.55:744][307]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/GridTile35DF32024CB8449953F56A877FF4A28C.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile.uasset'
+[2020.04.05-01.07.55:777][307]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-01.07.55:777][307]LogContentValidation: Display: Validating Material /Game/Assets/Grid/GridTileMat.GridTileMat
+[2020.04.05-01.07.55:777][307]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Grid/GridTile.GridTile
+[2020.04.05-01.08.08:062][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/MT_GridTile" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/MT_GridTile.uasset" SILENT=true
+[2020.04.05-01.08.08:073][321]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/MT_GridTile0D6AC95344DCD5C0B260ABBC71048FCF.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/MT_GridTile.uasset'
+[2020.04.05-01.08.08:253][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.04.05-01.08.08:302][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.04.05-01.08.08:385][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.05-01.08.08:466][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/GridTile" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile.uasset" SILENT=true
+[2020.04.05-01.08.08:474][321]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/GridTileF32BD5114FF0ACAEE13DCE822011FF44.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile.uasset'
+[2020.04.05-01.08.08:516][321]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-01.08.08:516][321]LogContentValidation: Display: Validating Material /Game/Assets/Grid/MT_GridTile.MT_GridTile
+[2020.04.05-01.08.08:516][321]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Grid/GridTile.GridTile
+[2020.04.05-01.08.19:039][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/GridTile_AO" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile_AO.uasset" SILENT=true
+[2020.04.05-01.08.19:097][119]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/GridTile_AO1C30D0BA4F018B7AE1F6338ABCE15274.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile_AO.uasset'
+[2020.04.05-01.08.19:283][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.04.05-01.08.19:329][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.04.05-01.08.19:357][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.05-01.08.19:425][119]AssetCheck: New page: Asset Save: GridTile_AO
+[2020.04.05-01.08.19:425][119]LogContentValidation: Display: Validating Texture2D /Game/Assets/Grid/GridTile_AO.GridTile_AO
+[2020.04.05-01.08.27:734][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/GridTile_DIF" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile_DIF.uasset" SILENT=true
+[2020.04.05-01.08.27:810][736]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/GridTile_DIF7BB6F9EB4E1EB665013D25A8D58964B9.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile_DIF.uasset'
+[2020.04.05-01.08.28:072][736]LogUObjectHash: Compacting FUObjectHashTables data took   9.42ms
+[2020.04.05-01.08.28:163][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.04.05-01.08.28:199][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.05-01.08.28:248][736]AssetCheck: New page: Asset Save: GridTile_DIF
+[2020.04.05-01.08.28:248][736]LogContentValidation: Display: Validating Texture2D /Game/Assets/Grid/GridTile_DIF.GridTile_DIF
+[2020.04.05-01.08.35:736][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/GridTile_NRM" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile_NRM.uasset" SILENT=true
+[2020.04.05-01.08.35:866][320]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/GridTile_NRM28968DA44352608C7B09AD9D5C86CF70.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile_NRM.uasset'
+[2020.04.05-01.08.36:046][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.04.05-01.08.36:082][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.04.05-01.08.36:138][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.04.05-01.08.36:224][320]AssetCheck: New page: Asset Save: GridTile_NRM
+[2020.04.05-01.08.36:224][320]LogContentValidation: Display: Validating Texture2D /Game/Assets/Grid/GridTile_NRM.GridTile_NRM
+[2020.04.05-01.08.46:030][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Grid/GridTile_SPC" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile_SPC.uasset" SILENT=true
+[2020.04.05-01.08.46:118][137]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/GridTile_SPC3853707A4001C11FF72A37B83571F55B.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Assets/Grid/GridTile_SPC.uasset'
+[2020.04.05-01.08.46:302][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.04.05-01.08.46:338][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.04.05-01.08.46:367][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.05-01.08.46:390][137]AssetCheck: New page: Asset Save: GridTile_SPC
+[2020.04.05-01.08.46:390][137]LogContentValidation: Display: Validating Texture2D /Game/Assets/Grid/GridTile_SPC.GridTile_SPC
+[2020.04.05-01.09.01:032][975]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Grid/MT_GridTile.MT_GridTile
+[2020.04.05-01.09.01:048][975]LogMaterial: Display: Missing cached shader map for material MT_GridTile, compiling. 
+[2020.04.05-01.09.01:665][975]LogMaterial: Display: Missing cached shader map for material MT_GridTile, compiling. 
+[2020.04.05-01.09.01:699][975]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.04.05-01.09.01:699][975]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.04.05-01.09.01:699][975]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.04.05-01.09.01:699][975]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.05-01.09.01:724][975]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.05-01.09.02:886][981]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.04.05-01.09.03:455][995]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.04.05-01.09.03:562][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.04.05-01.09.03:562][  1]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.04.05-01.09.03:614][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.04.05-01.09.03:872][ 13]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.04.05-01.09.03:924][ 15]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.04.05-01.09.03:975][ 17]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.04.05-01.09.04:016][ 18]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.04.05-01.09.04:180][ 23]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.05-01.09.04:180][ 23]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.05-01.09.04:180][ 23]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.04.05-01.09.04:180][ 23]MaterialEditorStats: Texture samplers: 2/16
+[2020.04.05-01.09.19:779][970]LogD3D11RHI: Error: Device->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11UniformBuffer.cpp:157 
+ with error E_OUTOFMEMORY
