@@ -619,3 +619,173 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.04-23.23.58:308][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.04.04-23.23.58:325][  0]LogSlate: Took 0.004493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.04.04-23.23.59:624][  4]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.04-23.24.13:572][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.04-23.24.13:762][212]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.04.04-23.24.14:490][212]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Base_Obstacle.BP_Base_Obstacle
+[2020.04.04-23.24.14:722][212]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.04-23.24.17:055][431]LogSlate: Took 0.003946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.04-23.24.18:113][547]LogSlate: Window 'BP_Base_Obstacle' being destroyed
+[2020.04.04-23.24.57:838][ 27]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.04-23.24.57:840][ 27]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.04-23.24.57:874][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.04.04-23.24.57:876][ 27]Cmd: MAP LOAD FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.04-23.24.57:876][ 27]LightingResults: New page: Lighting Build
+[2020.04.04-23.24.57:876][ 27]LoadErrors: New page: Loading map: Pathfinding.umap
+[2020.04.04-23.24.57:876][ 27]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.04-23.24.57:877][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.04-23.24.57:877][ 27]MapCheck: New page: Map Check
+[2020.04.04-23.24.57:877][ 27]LightingResults: New page: Lighting Build
+[2020.04.04-23.24.57:911][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.04.04-23.24.57:919][ 27]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.04-23.24.57:950][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.04.04-23.24.57:967][ 27]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.04-23.24.57:967][ 27]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.062ms to complete.
+[2020.04.04-23.24.57:967][ 27]LogFileHelpers: Loading map 'Pathfinding' took 0.092
+[2020.04.04-23.25.18:863][492]Cmd: TRANSACTION UNDO
+[2020.04.04-23.25.18:863][492]LogEditorTransaction: Undo Set Scale
+[2020.04.04-23.26.46:572][632]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle)
+[2020.04.04-23.26.55:309][654]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle)
+[2020.04.04-23.27.08:827][209]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle)
+[2020.04.04-23.27.55:494][503]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.04-23.27.55:499][503]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.04-23.28.16:108][897]Cmd: TRANSACTION UNDO
+[2020.04.04-23.28.16:108][897]LogEditorTransaction: Undo Scale Actors
+[2020.04.04-23.29.05:674][171]LogEditorViewport: Clicking Background
+[2020.04.04-23.32.34:463][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.04-23.32.39:843][  5]LogUObjectHash: Compacting FUObjectHashTables data took 325.15ms
+[2020.04.04-23.32.41:625][  5]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding3BEB4C68493562B4E3CA8083CA88E66E.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.04-23.32.43:091][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.04-23.32.43:555][  5]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltData0BE189D54224F0C6069254BCD4912D41.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.04-23.32.44:146][  5]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.04-23.32.44:176][  5]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.04-23.32.44:231][  5]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.04-23.42.35:320][403]LogUObjectHash: Compacting FUObjectHashTables data took  27.57ms
+[2020.04.04-23.42.35:600][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.04-23.42.35:669][403]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto1BF712911472F0B27052680B20DA003C7.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto1.umap'
+[2020.04.04-23.42.35:690][403]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 2.094
+[2020.04.04-23.42.35:690][403]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.094
+[2020.04.04-23.42.35:735][403]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.04-23.42.35:735][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.04-23.42.35:735][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.04-23.42.36:718][403]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto11691E3D148BD1FBD7CF22BBE523B83F4.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto1.uasset'
+[2020.04.04-23.42.36:719][403]LogFileHelpers: Auto-saving content packages took 1.028
+[2020.04.04-23.43.44:413][478]LogEditorViewport: Clicking Background
+[2020.04.04-23.45.11:209][479]LogEditorViewport: Clicking Background
+[2020.04.04-23.45.23:266][907]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2020.04.04-23.46.07:881][176]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle)
+[2020.04.04-23.46.10:341][461]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle2)
+[2020.04.04-23.46.19:763][545]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle)
+[2020.04.04-23.52.37:017][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.04.04-23.52.37:047][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.04-23.52.37:083][107]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto2B51702AC481C189AC5403F9E3525AFE1.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto2.umap'
+[2020.04.04-23.52.37:099][107]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.177
+[2020.04.04-23.52.37:099][107]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.177
+[2020.04.05-00.04.35:341][964]LogEditorViewport: Clicking on Actor (LMB): BP_Base_Obstacle_C (BP_Base_Obstacle2)
+[2020.04.05-00.04.36:073][ 45]Cmd: EDIT COPY
+[2020.04.05-00.04.36:364][ 55]Cmd: EDIT PASTE
+[2020.04.05-00.04.40:794][511]Cmd: EDIT COPY
+[2020.04.05-00.04.41:033][537]Cmd: EDIT PASTE
+[2020.04.05-00.05.24:990][365]LogUObjectHash: Compacting FUObjectHashTables data took  10.60ms
+[2020.04.05-00.05.24:996][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-00.05.25:032][365]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto3FA951502431C67B7421E6D9539D2C8D5.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto3.umap'
+[2020.04.05-00.05.25:032][365]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.103
+[2020.04.05-00.05.25:032][365]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.103
+[2020.04.05-00.06.25:898][827]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Grid/Struct_Tiles.Struct_Tiles
+[2020.04.05-00.06.32:701][365]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-00.06.32:704][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-00.06.38:739][459]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.05-00.06.38:739][459]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-00.06.38:739][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-00.07.28:454][254]LogSlate: Took 0.014375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.05-00.08.35:877][999]LogUObjectHash: Compacting FUObjectHashTables data took  34.63ms
+[2020.04.05-00.08.37:829][999]LogSlate: Window 'Save Content' being destroyed
+[2020.04.05-00.08.37:886][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.05-00.08.38:156][999]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid7EA2E3B247F267AC34FD39A7C84E1B84.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.05-00.08.38:175][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/Struct_Tiles" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/Struct_Tiles.uasset" SILENT=true
+[2020.04.05-00.08.38:196][999]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Struct_Tiles8EB40AAC4161D1C65A5DE0A4ED32D32E.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/Struct_Tiles.uasset'
+[2020.04.05-00.08.38:197][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.05-00.08.38:599][999]LogUObjectHash: Compacting FUObjectHashTables data took  36.63ms
+[2020.04.05-00.08.38:645][999]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/PathfindingED05486F4EF26B0AEF812CBA9249A120.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.05-00.08.38:790][999]LogFileHelpers: Saving map 'Pathfinding' took 0.593
+[2020.04.05-00.08.38:896][999]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-00.08.38:896][999]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-00.08.38:896][999]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Grid/Struct_Tiles.Struct_Tiles
+[2020.04.05-00.08.38:896][999]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.05-00.09.00:617][886]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-00.09.51:072][340]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-00.09.52:591][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.04.05-00.09.54:109][505]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-00.09.54:336][505]LogUObjectHash: Compacting FUObjectHashTables data took  11.51ms
+[2020.04.05-00.13.15:894][444]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-00.13.15:925][444]LogClass: Warning: Type mismatch in struct_Tiles of BP_Grid_C - Previous (StructProperty) Current(MapProperty) for package:  FObjectReader
+[2020.04.05-00.13.16:085][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.04.05-00.13.16:680][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.05-00.13.16:754][500]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid1F4070E2437A5C6CD589348BA6A992CA.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.05-00.13.16:764][500]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.05-00.13.16:764][500]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-00.14.13:007][ 30]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-00.14.13:174][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.04.05-00.15.07:513][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.05-00.15.07:567][474]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid0AF73C1148BA9F011F02C7AFE0B5F3C6.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.05-00.15.07:581][474]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.05-00.15.07:581][474]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-00.19.02:892][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.04.05-00.19.02:893][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-00.19.02:917][192]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto4462520214984FB7F436981976B79E62F.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto4.umap'
+[2020.04.05-00.19.02:918][192]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.056
+[2020.04.05-00.19.02:918][192]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2020.04.05-00.19.02:919][192]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.05-00.19.02:919][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.05-00.19.02:919][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.04.05-00.19.02:962][192]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto4EE105A80460608F878B8EFB559F8CD97.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto4.uasset'
+[2020.04.05-00.19.02:968][192]LogFileHelpers: Auto-saving content packages took 0.050
+[2020.04.05-00.20.03:571][291]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-00.20.04:158][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.04.05-00.20.20:742][778]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Grid/Enum_GroundTypes.Enum_GroundTypes
+[2020.04.05-00.20.39:667][699]LogSlate: Window 'Enum_GroundTypes' being destroyed
+[2020.04.05-00.26.51:757][816]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-00.26.51:978][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.04.05-00.26.52:752][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.05-00.26.52:846][900]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid062D897B4D814EF16CFD3FBA1276F395.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.05-00.26.52:859][900]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.05-00.26.52:859][900]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-00.27.46:814][265]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-00.27.47:464][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.04.05-00.27.48:018][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.05-00.27.48:067][324]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid5B5FC02E4D90E889C99F269D82F9A885.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.05-00.27.48:078][324]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.05-00.27.48:078][324]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-00.31.35:183][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.05-00.31.35:231][494]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridD69A2B2B4802711D06C66793FF08E20D.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.05-00.31.35:244][494]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.05-00.31.35:244][494]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.05-00.31.36:265][609]BlueprintLog: New page: Compile BP_Grid
+[2020.04.05-00.31.36:463][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.04.05-00.31.38:070][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.04.05-00.31.38:070][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-00.31.38:084][782]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto5A0F91B914EFBB2CDA92F43A00902DC32.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto5.umap'
+[2020.04.05-00.31.38:085][782]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.044
+[2020.04.05-00.31.38:085][782]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.044
+[2020.04.05-00.31.38:085][782]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/Enum_GroundTypes] ([1] browsable assets)...
+[2020.04.05-00.31.38:085][782]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/Enum_GroundTypes]
+[2020.04.05-00.31.38:106][782]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Enum_GroundTypes_Auto5F66BD4BC49A9237A11988FA75C521A4A.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/Enum_GroundTypes_Auto5.uasset'
+[2020.04.05-00.31.38:106][782]LogFileHelpers: Auto-saving content packages took 0.021
+[2020.04.05-00.31.39:703][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.04.05-00.31.40:758][891]LogSlate: Window 'Save Content' being destroyed
+[2020.04.05-00.31.40:781][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/Enum_GroundTypes" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/Enum_GroundTypes.uasset" SILENT=true
+[2020.04.05-00.31.40:822][891]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Enum_GroundTypesA60922984F20B92EE36F0DB63B0270D8.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/Enum_GroundTypes.uasset'
+[2020.04.05-00.31.40:835][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.05-00.31.40:887][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.04.05-00.31.40:897][891]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/PathfindingFD1910DF43FC15CF7A6E079411CD7CDC.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.05-00.31.40:915][891]LogFileHelpers: Saving map 'Pathfinding' took 0.081
+[2020.04.05-00.31.40:928][891]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-00.31.40:928][891]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Grid/Enum_GroundTypes.Enum_GroundTypes
+[2020.04.05-00.31.40:928][891]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.05-00.35.39:880][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.05-00.35.39:963][337]LogUObjectHash: Compacting FUObjectHashTables data took  11.15ms
+[2020.04.05-00.35.39:992][337]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/PathfindingABF896504E486B5EAF3836BDFF5B57B1.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.05-00.35.40:020][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.05-00.35.40:113][337]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltData6CCFDF4242CC91E0E0AF4D9986B2A996.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.05-00.35.40:128][337]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-00.35.40:128][337]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.05-00.35.40:128][337]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
