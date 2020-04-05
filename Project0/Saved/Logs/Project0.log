@@ -1009,3 +1009,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.05-23.17.44:339][351]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Grid/Struct_Tiles.Struct_Tiles
 [2020.04.05-23.18.08:176][985]LogSlate: Window 'Struct_Tiles' being destroyed
 [2020.04.05-23.18.08:180][985]LogSlate: Window 'Struct_Tiles' being destroyed
+[2020.04.05-23.19.09:127][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.04.05-23.19.13:946][245]LogSlate: Window 'Save Content' being destroyed
+[2020.04.05-23.19.15:693][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.04.05-23.19.16:762][400]LogSlate: Window 'Save Content' being destroyed
+[2020.04.05-23.19.16:784][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_GridTile" FILE="D:/Documents/Game Projects/Project0 - Copy/Project0/Content/Blueprints/Grid/BP_GridTile.uasset" SILENT=true
+[2020.04.05-23.19.16:813][400]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0 - Copy/Project0/Saved/BP_GridTile9E40387748C4CD5E81CD9799ADE58CAF.tmp' to 'D:/Documents/Game Projects/Project0 - Copy/Project0/Content/Blueprints/Grid/BP_GridTile.uasset'
+[2020.04.05-23.19.16:816][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0 - Copy/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.05-23.19.16:849][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.04.05-23.19.16:863][400]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0 - Copy/Project0/Saved/Pathfinding7B9C654349244D95A14BD9885266E777.tmp' to 'D:/Documents/Game Projects/Project0 - Copy/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.05-23.19.16:884][400]LogFileHelpers: Saving map 'Pathfinding' took 0.068
+[2020.04.05-23.19.16:907][400]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-23.19.16:908][400]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2020.04.05-23.19.16:908][400]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
