@@ -1127,3 +1127,1075 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.05-18.14.48:375][786]AssetCheck: New page: Asset Save: Battle_HUD
 [2020.04.05-18.14.48:375][786]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD
 [2020.04.05-18.14.53:589][100]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-20.24.45:347][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.05-20.25.33:339][738]LogSlate: Took 0.004894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.05-20.26.06:585][677]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.04.05-20.26.06:588][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-20.26.07:088][677]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto53DE8C8834ED21E52CE97E59236921CF0.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto5.umap'
+[2020.04.05-20.26.07:099][677]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.590
+[2020.04.05-20.26.07:099][677]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.590
+[2020.04.05-20.26.07:099][677]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/PlayerUnit] ([1] browsable assets)...
+[2020.04.05-20.26.07:122][677]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit]
+[2020.04.05-20.26.07:122][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/PlayerUnit]
+[2020.04.05-20.26.07:189][677]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit_Auto58695EB344CF2193460A948A6B13E9822.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/PlayerUnit_Auto5.uasset'
+[2020.04.05-20.26.07:192][677]LogFileHelpers: Auto-saving content packages took 0.093
+[2020.04.05-20.31.13:083][855]LogEditorTransaction: Undo Split Struct Pin
+[2020.04.05-20.36.07:490][192]LogUObjectHash: Compacting FUObjectHashTables data took   8.57ms
+[2020.04.05-20.36.07:494][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-20.36.08:112][192]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto63998E7B845387B91A78316AFA05B2595.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto6.umap'
+[2020.04.05-20.36.08:116][192]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.709
+[2020.04.05-20.36.08:116][192]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.709
+[2020.04.05-20.36.08:117][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/PlayerUnit] ([1] browsable assets)...
+[2020.04.05-20.36.08:154][192]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit]
+[2020.04.05-20.36.08:154][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/PlayerUnit]
+[2020.04.05-20.36.08:226][192]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit_Auto68EE9319D49B4ADD8A2BCFC807E835BCD.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/PlayerUnit_Auto6.uasset'
+[2020.04.05-20.36.08:227][192]LogFileHelpers: Auto-saving content packages took 0.111
+[2020.04.05-20.48.26:894][412]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2020.04.05-20.48.26:897][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-20.48.27:368][412]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto713EDC7EE4C82783AD6A022BCD51626C6.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto7.umap'
+[2020.04.05-20.48.27:378][412]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.573
+[2020.04.05-20.48.27:378][412]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.573
+[2020.04.05-20.48.27:378][412]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/PlayerUnit] ([1] browsable assets)...
+[2020.04.05-20.48.27:415][412]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit]
+[2020.04.05-20.48.27:415][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/PlayerUnit]
+[2020.04.05-20.48.27:467][412]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit_Auto721D7922B404EA942FC7F2180F8D38A65.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/PlayerUnit_Auto7.uasset'
+[2020.04.05-20.48.27:476][412]LogFileHelpers: Auto-saving content packages took 0.098
+[2020.04.05-20.49.00:515][ 37]LogEditorTransaction: Undo Move Node
+[2020.04.05-20.58.28:021][705]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2020.04.05-20.58.28:025][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-20.58.28:679][705]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto869ECD9C04E41D3463215B680A2C1EC1B.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto8.umap'
+[2020.04.05-20.58.28:683][705]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.744
+[2020.04.05-20.58.28:683][705]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.744
+[2020.04.05-20.58.28:684][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD] ([1] browsable assets)...
+[2020.04.05-20.58.28:684][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD]
+[2020.04.05-20.58.28:730][705]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD_Auto88A6DA0A34A5D454C7F7F9BAD54710BA8.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD_Auto8.uasset'
+[2020.04.05-20.58.28:733][705]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/PlayerUnit] ([1] browsable assets)...
+[2020.04.05-20.58.28:769][705]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit]
+[2020.04.05-20.58.28:769][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/PlayerUnit]
+[2020.04.05-20.58.28:867][705]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit_Auto89FB9E252493E4EBCBCA37BBD46D4C6E9.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/PlayerUnit_Auto8.uasset'
+[2020.04.05-20.58.28:869][705]LogFileHelpers: Auto-saving content packages took 0.186
+[2020.04.05-21.08.31:363][159]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.04.05-21.08.31:366][159]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.086
+[2020.04.05-21.08.31:366][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD] ([1] browsable assets)...
+[2020.04.05-21.08.31:366][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD]
+[2020.04.05-21.08.31:394][159]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD_Auto9DE343D3E4EE314B6B4D64F838339BA7D.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD_Auto9.uasset'
+[2020.04.05-21.08.31:395][159]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.04.05-21.12.02:359][730]LogEditorTransaction: Undo Move Node
+[2020.04.05-21.14.37:592][562]LogEditorTransaction: Undo Move Nodes
+[2020.04.05-21.18.43:543][674]LogUObjectHash: Compacting FUObjectHashTables data took   7.90ms
+[2020.04.05-21.18.43:545][674]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.087
+[2020.04.05-21.18.43:546][674]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD] ([1] browsable assets)...
+[2020.04.05-21.18.43:546][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD]
+[2020.04.05-21.18.43:589][674]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD_Auto0043AD00E4A39EC06F3D065AF8F413F01.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD_Auto0.uasset'
+[2020.04.05-21.18.43:590][674]LogFileHelpers: Auto-saving content packages took 0.045
+[2020.04.05-21.21.28:816][697]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.05-21.30.07:161][923]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.04.05-21.30.07:165][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.083
+[2020.04.05-21.30.07:165][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD] ([1] browsable assets)...
+[2020.04.05-21.30.07:165][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD]
+[2020.04.05-21.30.07:209][923]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD_Auto1481316DE468339D9CC253896906CC6D7.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD_Auto1.uasset'
+[2020.04.05-21.30.07:211][923]LogFileHelpers: Auto-saving content packages took 0.046
+[2020.04.05-21.32.36:582][447]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD36D2E8794CFE512131EAC38CD2BC1028.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/Battle_HUD.uasset'
+[2020.04.05-21.32.36:616][447]AssetCheck: New page: Asset Save: Battle_HUD
+[2020.04.05-21.32.36:616][447]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD
+[2020.04.05-21.32.37:256][486]BlueprintLog: New page: Compile Battle_HUD
+[2020.04.05-21.32.37:263][486]LogBlueprint: Warning: [Compiler Battle_HUD] Could not find a variable named "Stat Struct" in 'Battle_HUD_C'.
+Make sure 'Battle_HUD_C' has been compiled for  Set Stat Struct
+[2020.04.05-21.32.37:263][486]LogBlueprint: Warning: [Compiler Battle_HUD] Could not find a variable named "Stat Struct" in 'Battle_HUD_C'.
+Make sure 'Battle_HUD_C' has been compiled for  Set Stat Struct
+[2020.04.05-21.32.37:264][486]LogBlueprint: Error: [Compiler Battle_HUD] The property associated with  Stat Struct  could not be found in '/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD_C'
+[2020.04.05-21.32.37:264][486]LogBlueprint: Error: [Compiler Battle_HUD] The property associated with  Stat Struct  could not be found in '/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD_C'
+[2020.04.05-21.32.37:338][486]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.04.05-21.33.54:192][990]BlueprintLog: New page: Compile Battle_HUD
+[2020.04.05-21.33.54:196][990]LogBlueprint: Warning: [Compiler Battle_HUD] Could not find a variable named "Stat Struct" in 'Battle_HUD_C'.
+Make sure 'Battle_HUD_C' has been compiled for  Set Stat Struct
+[2020.04.05-21.33.54:196][990]LogBlueprint: Error: [Compiler Battle_HUD] The property associated with  Stat Struct  could not be found in '/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD_C'
+[2020.04.05-21.33.54:265][990]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2020.04.05-21.35.14:490][556]BlueprintLog: New page: Compile Battle_HUD
+[2020.04.05-21.35.14:569][556]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2020.04.05-21.35.16:204][642]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD14650409401B918A4F57AAB60EF722C2.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/Battle_HUD.uasset'
+[2020.04.05-21.35.16:245][642]AssetCheck: New page: Asset Save: Battle_HUD
+[2020.04.05-21.35.16:245][642]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD
+[2020.04.05-21.35.18:290][755]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-21.35.18:320][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.35.18:320][755]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.05-21.35.18:328][755]LogPlayLevel: [PlayLevel] Compiling PlayerUnit before play...
+[2020.04.05-21.35.18:932][755]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2020.04.05-21.35.18:934][755]LogPlayLevel: PlayLevel: Blueprint regeneration took 613 ms (1 blueprints)
+[2020.04.05-21.35.18:934][755]PIE: New page: PIE session: TestMap1 (Apr 5, 2020, 1:35:18 PM)
+[2020.04.05-21.35.18:934][755]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.05-21.35.18:938][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004041s)
+[2020.04.05-21.35.18:939][755]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.05-21.35.18:940][755]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2020.04.05-21.35.18:940][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005568s)
+[2020.04.05-21.35.19:005][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.04.05-21.35.19:007][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-21.35.19:007][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-21.35.19:007][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-21.35.19:007][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-21.35.19:007][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-21.35.19:007][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-21.35.19:007][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-21.35.19:007][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-21.35.19:007][755]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-21.35.19:008][755]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-21.35.19:015][755]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-21.35.19:015][755]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.05-21.35.19:015][755]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-21.35.19:015][755]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-21.35.19:015][755]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-21.35.19:015][755]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-21.35.19:015][755]LogAudioMixer: Display: Channel Order:
+[2020.04.05-21.35.19:015][755]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-21.35.19:015][755]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-21.35.19:026][755]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.05-21.35.19:027][755]LogInit: FAudioDevice initialized.
+[2020.04.05-21.35.19:037][755]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.05-21.35.19:039][755]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.05-17.35.19
+[2020.04.05-21.35.19:040][755]LogWorld: Bringing up level for play took: 0.002118
+[2020.04.05-21.35.19:040][755]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.05-21.35.19:043][755]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 -0.115
+[2020.04.05-21.35.19:043][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.35.50:125][608]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.35.50:125][608]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.35.50:125][608]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.35.50:126][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.35.50:126][608]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.05-21.35.50:126][608]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.35.50:126][608]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-21.35.50:127][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.35.50:162][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-21.35.50:162][608]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.35.50:173][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.35.50:250][608]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.35.50:254][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.35.50:260][608]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.04.05-21.35.50:286][609]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.05-21.36.11:555][985]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.05-21.36.11:575][985]LogSlate: Window 'Project Settings' being destroyed
+[2020.04.05-21.37.20:228][975]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUDE697F0A143E372DF2E78DB8A43A9F9E7.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/Battle_HUD.uasset'
+[2020.04.05-21.37.20:252][975]AssetCheck: New page: Asset Save: Battle_HUD
+[2020.04.05-21.37.20:253][975]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD
+[2020.04.05-21.37.20:590][996]BlueprintLog: New page: Compile Battle_HUD
+[2020.04.05-21.37.20:660][996]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.04.05-21.37.21:455][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-21.37.21:486][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.37.21:486][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-21.37.21:486][ 43]PIE: New page: PIE session: TestMap1 (Apr 5, 2020, 1:37:21 PM)
+[2020.04.05-21.37.21:486][ 43]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.05-21.37.21:490][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003985s)
+[2020.04.05-21.37.21:491][ 43]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.05-21.37.21:492][ 43]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2020.04.05-21.37.21:492][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005430s)
+[2020.04.05-21.37.21:557][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2020.04.05-21.37.21:558][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-21.37.21:558][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-21.37.21:558][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-21.37.21:558][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-21.37.21:558][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-21.37.21:558][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-21.37.21:558][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-21.37.21:558][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-21.37.21:558][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-21.37.21:558][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-21.37.21:565][ 43]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-21.37.21:565][ 43]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.05-21.37.21:565][ 43]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-21.37.21:565][ 43]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-21.37.21:565][ 43]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-21.37.21:565][ 43]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-21.37.21:565][ 43]LogAudioMixer: Display: Channel Order:
+[2020.04.05-21.37.21:565][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-21.37.21:565][ 43]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-21.37.21:574][ 43]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.05-21.37.21:576][ 43]LogInit: FAudioDevice initialized.
+[2020.04.05-21.37.21:587][ 43]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.05-21.37.21:590][ 43]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.05-17.37.21
+[2020.04.05-21.37.21:590][ 43]LogWorld: Bringing up level for play took: 0.002268
+[2020.04.05-21.37.21:590][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.05-21.37.21:593][ 43]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 0.435
+[2020.04.05-21.37.21:594][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.37.29:241][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.37.29:241][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.37.29:242][501]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.37.29:242][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.37.29:242][501]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.05-21.37.29:242][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.37.29:242][501]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-21.37.29:243][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.37.29:278][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-21.37.29:278][501]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.37.29:287][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.37.29:379][501]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.37.29:384][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.37.29:390][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.04.05-21.37.29:409][502]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.05-21.37.49:855][659]LogEditorTransaction: Undo Paste clipboard contents
+[2020.04.05-21.38.19:023][351]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUDB82546964E6D3B9BA4DDE5B9C231589E.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/Battle_HUD.uasset'
+[2020.04.05-21.38.19:053][351]AssetCheck: New page: Asset Save: Battle_HUD
+[2020.04.05-21.38.19:053][351]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD
+[2020.04.05-21.38.21:589][504]BlueprintLog: New page: Compile Battle_HUD
+[2020.04.05-21.38.21:669][504]LogUObjectHash: Compacting FUObjectHashTables data took   8.83ms
+[2020.04.05-21.38.22:872][570]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-21.38.22:901][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.38.22:902][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-21.38.22:902][570]PIE: New page: PIE session: TestMap1 (Apr 5, 2020, 1:38:22 PM)
+[2020.04.05-21.38.22:902][570]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.05-21.38.22:906][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003909s)
+[2020.04.05-21.38.22:907][570]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.05-21.38.22:907][570]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2020.04.05-21.38.22:907][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005364s)
+[2020.04.05-21.38.22:986][570]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2020.04.05-21.38.22:987][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-21.38.22:987][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-21.38.22:987][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-21.38.22:987][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-21.38.22:987][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-21.38.22:987][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-21.38.22:987][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-21.38.22:987][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-21.38.22:988][570]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-21.38.22:988][570]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-21.38.22:995][570]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-21.38.22:995][570]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.05-21.38.22:995][570]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-21.38.22:995][570]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-21.38.22:995][570]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-21.38.22:995][570]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-21.38.22:995][570]LogAudioMixer: Display: Channel Order:
+[2020.04.05-21.38.22:995][570]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-21.38.22:995][570]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-21.38.23:004][570]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.05-21.38.23:006][570]LogInit: FAudioDevice initialized.
+[2020.04.05-21.38.23:019][570]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.05-21.38.23:021][570]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.05-17.38.23
+[2020.04.05-21.38.23:022][570]LogWorld: Bringing up level for play took: 0.002147
+[2020.04.05-21.38.23:022][570]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.05-21.38.23:025][570]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 -0.132
+[2020.04.05-21.38.23:026][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.38.28:905][922]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.38.29:121][935]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.38.29:305][946]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.38.29:471][956]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.38.29:656][967]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.38.29:839][978]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.38.30:022][989]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.38.30:189][999]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.38.30:356][  9]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.38.30:539][ 20]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.38.31:158][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.38.31:158][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.38.31:158][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.38.31:159][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.38.31:159][ 57]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.05-21.38.31:159][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.38.31:159][ 57]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-21.38.31:160][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.38.31:194][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-21.38.31:194][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.38.31:206][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.38.31:289][ 57]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.38.31:292][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.38.31:298][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.04.05-21.38.31:317][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.05-21.39.10:936][270]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUDD24EC10148FF5B475DA9E59D18E7A20C.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/Battle_HUD.uasset'
+[2020.04.05-21.39.10:966][270]AssetCheck: New page: Asset Save: Battle_HUD
+[2020.04.05-21.39.10:966][270]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD
+[2020.04.05-21.39.12:506][364]BlueprintLog: New page: Compile Battle_HUD
+[2020.04.05-21.39.12:576][364]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.04.05-21.39.14:789][496]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-21.39.16:722][611]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-21.39.17:371][649]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-21.39.17:401][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.39.17:401][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-21.39.17:401][649]PIE: New page: PIE session: TestMap1 (Apr 5, 2020, 1:39:17 PM)
+[2020.04.05-21.39.17:402][649]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.05-21.39.17:406][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004003s)
+[2020.04.05-21.39.17:407][649]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.05-21.39.17:407][649]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2020.04.05-21.39.17:407][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005271s)
+[2020.04.05-21.39.17:470][649]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.04.05-21.39.17:472][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-21.39.17:472][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-21.39.17:472][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-21.39.17:472][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-21.39.17:472][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-21.39.17:472][649]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-21.39.17:472][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-21.39.17:472][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-21.39.17:473][649]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-21.39.17:473][649]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-21.39.17:479][649]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-21.39.17:479][649]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.05-21.39.17:479][649]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-21.39.17:479][649]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-21.39.17:480][649]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-21.39.17:480][649]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-21.39.17:480][649]LogAudioMixer: Display: Channel Order:
+[2020.04.05-21.39.17:480][649]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-21.39.17:480][649]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-21.39.17:489][649]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.05-21.39.17:491][649]LogInit: FAudioDevice initialized.
+[2020.04.05-21.39.17:502][649]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.05-21.39.17:504][649]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.05-17.39.17
+[2020.04.05-21.39.17:504][649]LogWorld: Bringing up level for play took: 0.002024
+[2020.04.05-21.39.17:505][649]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.05-21.39.17:507][649]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 0.349
+[2020.04.05-21.39.17:507][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.39.20:439][825]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.39.20:855][850]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.39.21:039][861]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.39.21:205][871]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.39.21:389][882]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.39.21:555][892]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.39.21:722][902]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.39.21:872][911]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.39.22:022][920]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-21.39.23:291][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.39.23:291][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.39.23:291][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.39.23:291][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.39.23:291][996]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.05-21.39.23:291][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.39.23:292][996]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-21.39.23:292][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.39.23:326][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-21.39.23:326][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-21.39.23:336][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.39.23:406][996]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-21.39.23:409][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-21.39.23:415][996]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.04.05-21.39.23:434][997]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.05-21.39.39:300][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Levels/TestMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.05-21.39.39:383][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.04.05-21.39.39:909][751]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1B4A8B6AF491B120A692F9E856667A716.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Levels/TestMap1.umap'
+[2020.04.05-21.39.39:991][751]LogFileHelpers: Saving map 'TestMap1' took 0.693
+[2020.04.05-21.39.40:044][751]AssetCheck: New page: Asset Save: TestMap1
+[2020.04.05-21.39.40:045][751]LogContentValidation: Display: Validating World /Game/Levels/TestMap1.TestMap1
+[2020.04.05-21.39.45:098][ 48]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-21.39.45:099][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.39.49:690][318]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-21.39.49:690][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.39.54:637][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.05-21.39.54:734][605]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnitA939769F4F41EBDB8D98B5B9321AF695.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.05-21.39.54:761][605]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.05-21.39.54:761][605]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.05-21.39.57:958][798]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.05-21.39.57:958][798]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-21.39.57:958][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-21.40.07:918][387]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.UI_EnemyHealthBar
+[2020.04.05-21.50.31:803][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2020.04.05-21.50.31:808][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.123
+[2020.04.05-21.50.31:809][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar] ([1] browsable assets)...
+[2020.04.05-21.50.31:809][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar]
+[2020.04.05-21.50.31:854][ 25]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_EnemyHealthBar_Auto2E007F61440AE88CE6DEE65AD784BE3AC.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar_Auto2.uasset'
+[2020.04.05-21.50.31:857][ 25]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.04.05-21.55.13:435][263]BlueprintLog: New page: Compile UI_EnemyHealthBar
+[2020.04.05-21.55.13:445][263]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Set Enemy Stat Struct  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.04.05-21.55.13:445][263]LogBlueprint: Error: [Compiler UI_EnemyHealthBar] No input structure to break for  Player Unit Struct
+[2020.04.05-21.55.13:945][263]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2020.04.05-21.55.41:936][396]BlueprintLog: New page: Compile UI_EnemyHealthBar
+[2020.04.05-21.55.42:364][396]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.04.05-21.56.25:796][972]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_EnemyHealthBarC143E4F4435B218F9458FBBA46046706.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.uasset'
+[2020.04.05-21.56.25:820][972]AssetCheck: New page: Asset Save: UI_EnemyHealthBar
+[2020.04.05-21.56.25:821][972]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.UI_EnemyHealthBar
+[2020.04.05-21.56.26:852][ 32]BlueprintLog: New page: Compile UI_EnemyHealthBar
+[2020.04.05-21.56.27:255][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2020.04.05-22.01.37:400][332]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.01.39:397][448]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.01.42:606][630]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.05-22.06.04:217][633]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.06.06:222][746]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.05-22.08.31:899][811]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.05-22.08.36:667][ 73]BlueprintLog: New page: Compile EnemyUnit
+[2020.04.05-22.08.37:166][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.04.05-22.08.38:583][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.05-22.08.38:648][143]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit24DA845C40010919A60A85AE1B8E8C41.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.05-22.08.38:674][143]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.05-22.08.38:674][143]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.05-22.08.47:266][659]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.08.48:293][719]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.08.48:896][755]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.08.58:666][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.05-22.08.58:721][328]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit3BBF86924937F640701BE2A67EDE85E2.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.05-22.08.58:740][328]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.05-22.08.58:740][328]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.05-22.09.19:992][557]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.09.43:035][926]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.09.44:182][993]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.09.44:616][ 18]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.09.53:282][525]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.09.55:720][670]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.09.56:215][699]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.09.56:631][724]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.09.57:232][761]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.09.59:776][910]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.10.01:115][986]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.10.02:153][ 44]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.10.03:916][146]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.10.04:933][203]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.10.06:724][305]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.10.12:063][623]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.10.12:816][665]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.10.14:079][737]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.11.52:690][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.05-22.11.52:781][853]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit202E14364BB674988E5FCAA7DF11AEDE.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.05-22.11.52:803][853]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.05-22.11.52:803][853]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.05-22.11.55:531][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.05-22.11.55:573][ 13]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnitBF1153FD4492523E74416FBDB496058A.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.05-22.11.55:594][ 13]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.05-22.11.55:594][ 13]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.05-22.11.57:282][114]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-22.11.57:311][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-22.11.57:311][114]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.05-22.11.57:315][114]LogPlayLevel: [PlayLevel] Compiling PlayerUnit before play...
+[2020.04.05-22.11.57:702][114]LogPlayLevel: [PlayLevel] Compiling EnemyUnit before play...
+[2020.04.05-22.11.58:255][114]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.04.05-22.11.58:257][114]LogPlayLevel: PlayLevel: Blueprint regeneration took 946 ms (2 blueprints)
+[2020.04.05-22.11.58:258][114]PIE: New page: PIE session: TestMap1 (Apr 5, 2020, 2:11:58 PM)
+[2020.04.05-22.11.58:258][114]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.05-22.11.58:262][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003973s)
+[2020.04.05-22.11.58:263][114]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.05-22.11.58:263][114]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2020.04.05-22.11.58:263][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005461s)
+[2020.04.05-22.11.58:326][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.04.05-22.11.58:327][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.05-22.11.58:327][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.05-22.11.58:327][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.05-22.11.58:327][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.05-22.11.58:327][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.05-22.11.58:327][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.05-22.11.58:327][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.05-22.11.58:327][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.05-22.11.58:328][114]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.05-22.11.58:328][114]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.05-22.11.58:335][114]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.05-22.11.58:335][114]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.05-22.11.58:335][114]LogAudioMixer: Display: Is Default: Yes
+[2020.04.05-22.11.58:335][114]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.05-22.11.58:335][114]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.05-22.11.58:335][114]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.05-22.11.58:335][114]LogAudioMixer: Display: Channel Order:
+[2020.04.05-22.11.58:335][114]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.05-22.11.58:335][114]LogAudioMixer: Display: 1: FrontRight
+[2020.04.05-22.11.58:346][114]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.05-22.11.58:348][114]LogInit: FAudioDevice initialized.
+[2020.04.05-22.11.58:358][114]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.05-22.11.58:360][114]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.05-18.11.58
+[2020.04.05-22.11.58:360][114]LogWorld: Bringing up level for play took: 0.002159
+[2020.04.05-22.11.58:361][114]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.04.05-22.11.58:378][114]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 1.221
+[2020.04.05-22.11.58:379][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-22.12.05:100][513]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-22.12.05:283][524]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-22.12.05:433][533]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.05-22.12.07:818][676]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-22.12.07:819][676]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-22.12.07:819][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-22.12.07:819][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-22.12.07:819][676]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.05-22.12.07:819][676]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-22.12.07:819][676]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-22.12.07:820][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-22.12.07:855][676]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-22.12.07:855][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.05-22.12.07:862][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-22.12.07:939][676]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.05-22.12.07:942][676]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-22.12.07:948][676]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.04.05-22.12.07:966][677]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.04.05-22.12.09:000][740]Cmd: SELECT NONE
+[2020.04.05-22.14.10:440][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.04.05-22.14.10:443][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-22.14.10:939][152]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto37BFE2E62480D44C6F87C31B694C13D63.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto3.umap'
+[2020.04.05-22.14.10:950][152]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.594
+[2020.04.05-22.14.10:950][152]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.594
+[2020.04.05-22.14.10:951][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/EnemyUnit] ([1] browsable assets)...
+[2020.04.05-22.14.10:977][152]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit]
+[2020.04.05-22.14.10:977][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/EnemyUnit]
+[2020.04.05-22.14.11:016][152]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit_Auto3FC4219D9413CE8F847D865B328EB4DD0.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/EnemyUnit_Auto3.uasset'
+[2020.04.05-22.14.11:017][152]LogFileHelpers: Auto-saving content packages took 0.067
+[2020.04.05-22.28.58:477][174]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.04.05-22.28.58:479][174]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.074
+[2020.04.05-22.28.58:479][174]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/EnemyUnit] ([1] browsable assets)...
+[2020.04.05-22.28.58:507][174]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit]
+[2020.04.05-22.28.58:507][174]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/EnemyUnit]
+[2020.04.05-22.28.58:561][174]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit_Auto4DDC89E0448CA246D8B0C65B536250E63.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/EnemyUnit_Auto4.uasset'
+[2020.04.05-22.28.58:564][174]LogFileHelpers: Auto-saving content packages took 0.085
+[2020.04.05-22.29.32:926][772]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.05-22.29.49:931][756]LogEditorTransaction: Undo Paste clipboard contents
+[2020.04.05-22.31.02:752][ 84]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBarE09F80DB4798A09D36F418A9687659CC.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.uasset'
+[2020.04.05-22.31.02:775][ 84]AssetCheck: New page: Asset Save: UI_PlayerHealthBar
+[2020.04.05-22.31.02:775][ 84]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.05-22.38.59:201][943]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2020.04.05-22.38.59:203][943]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.081
+[2020.04.05-22.38.59:203][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar] ([1] browsable assets)...
+[2020.04.05-22.38.59:203][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar]
+[2020.04.05-22.38.59:242][943]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBar_Auto5C95E1C8945EF3AF2EFCCE1AE4642D19C.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar_Auto5.uasset'
+[2020.04.05-22.38.59:243][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar] ([1] browsable assets)...
+[2020.04.05-22.38.59:243][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar]
+[2020.04.05-22.38.59:297][943]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_EnemyHealthBar_Auto5AD6D11214A658C7B28FCB2AD0CF821D2.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar_Auto5.uasset'
+[2020.04.05-22.38.59:300][943]LogFileHelpers: Auto-saving content packages took 0.097
+[2020.04.05-22.49.29:653][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.04.05-22.49.29:654][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.077
+[2020.04.05-22.49.29:655][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar] ([1] browsable assets)...
+[2020.04.05-22.49.29:655][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar]
+[2020.04.05-22.49.29:688][ 48]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBar_Auto680B8A97540FD702586D54FA394687765.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar_Auto6.uasset'
+[2020.04.05-22.49.29:689][ 48]LogFileHelpers: Auto-saving content packages took 0.035
+[2020.04.05-22.50.01:542][832]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.55.29:911][741]LogSlate: Window 'Delete Variable' being destroyed
+[2020.04.05-22.57.20:230][137]LogEditorViewport: Clicking Background
+[2020.04.05-22.57.20:842][174]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.57.21:525][214]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.57.23:491][330]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.57.25:991][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.57.27:191][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.57.27:708][578]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.57.28:832][643]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.57.30:215][723]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.57.31:725][811]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.57.33:358][905]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.05-22.57.34:792][988]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.05-22.57.38:443][197]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.05-22.57.41:902][398]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2020.04.05-22.57.43:564][398]LogSlate: Window 'Save Content' being destroyed
+[2020.04.05-22.57.43:598][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/BattleHUD" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/BattleHUD.uasset" SILENT=true
+[2020.04.05-22.57.43:617][398]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/BattleHUD155358E3447AB0DE4C3273AC191E93EA.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/BattleHUD.uasset'
+[2020.04.05-22.57.43:676][398]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_EnemyHealthBar3BB337884F2065E1FCEA3B9B5D996590.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.uasset'
+[2020.04.05-22.57.43:749][398]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBar958A0DEA4DFD871B58024CA81203FB19.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.uasset'
+[2020.04.05-22.57.43:787][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.05-22.57.43:855][398]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnitF44B1F334C05DBE4EACD02945F3B9DDE.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.05-22.57.43:866][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/TTSGameMode" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/TTSGameMode.uasset" SILENT=true
+[2020.04.05-22.57.43:891][398]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TTSGameMode286F0DC142D68275F6B66FB8FFF7DFDE.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/TTSGameMode.uasset'
+[2020.04.05-22.57.43:902][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Levels/TestMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.05-22.57.43:977][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.05-22.57.44:412][398]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap18C53B8BA4ECA2C658F52D68655884F33.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Levels/TestMap1.umap'
+[2020.04.05-22.57.44:489][398]LogFileHelpers: Saving map 'TestMap1' took 0.587
+[2020.04.05-22.57.44:548][398]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.05-22.57.44:548][398]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/BattleHUD.BattleHUD
+[2020.04.05-22.57.44:548][398]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.UI_EnemyHealthBar
+[2020.04.05-22.57.44:548][398]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.05-22.57.44:548][398]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.05-22.57.44:548][398]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/TTSGameMode.TTSGameMode
+[2020.04.05-22.57.44:548][398]LogContentValidation: Display: Validating World /Game/Levels/TestMap1.TestMap1
+[2020.04.05-23.05.24:968][892]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_EnemyHealthBar3D8F1BFE4FB4F51C438A6083AD6711B1.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.uasset'
+[2020.04.05-23.05.24:986][892]AssetCheck: New page: Asset Save: UI_EnemyHealthBar
+[2020.04.05-23.05.24:986][892]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.UI_EnemyHealthBar
+[2020.04.05-23.05.25:440][919]BlueprintLog: New page: Compile UI_EnemyHealthBar
+[2020.04.05-23.05.25:884][919]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2020.04.05-23.05.58:241][762]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_EnemyHealthBar219050D343E9202F743D0F950F6D6A98.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.uasset'
+[2020.04.05-23.05.58:269][762]AssetCheck: New page: Asset Save: UI_EnemyHealthBar
+[2020.04.05-23.05.58:269][762]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.UI_EnemyHealthBar
+[2020.04.05-23.06.17:677][745]LogSlate: Window 'EnemyUnit' being destroyed
+[2020.04.05-23.06.30:357][372]LogSlate: Window 'EnemyUnit' being destroyed
+[2020.04.05-23.06.32:438][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.05-23.06.32:512][492]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnitF994A7E544F863B1F67DCE9FA0D9429A.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.05-23.06.32:539][492]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.05-23.06.32:540][492]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.05-23.06.33:807][566]BlueprintLog: New page: Compile EnemyUnit
+[2020.04.05-23.06.33:813][566]LogBlueprint: Warning: [Compiler EnemyUnit] Could not find a variable named "Enemy Stat Struct" in 'EnemyUnit_C'.
+Make sure 'EnemyUnit_C' has been compiled for  Set Enemy Stat Struct
+[2020.04.05-23.06.33:814][566]LogBlueprint: Error: [Compiler EnemyUnit] The property associated with  Enemy Stat Struct  could not be found in '/Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit_C'
+[2020.04.05-23.06.34:249][566]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.04.05-23.07.50:177][656]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.04.05-23.07.50:179][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-23.07.50:718][656]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto713B08E3F4EA4B7B90F9F86852938143E.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto7.umap'
+[2020.04.05-23.07.50:728][656]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.631
+[2020.04.05-23.07.50:729][656]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.631
+[2020.04.05-23.07.50:729][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar] ([1] browsable assets)...
+[2020.04.05-23.07.50:729][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar]
+[2020.04.05-23.07.50:788][656]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBar_Auto710F29E8C43C23E66A1D578B57C7CFEF9.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar_Auto7.uasset'
+[2020.04.05-23.07.50:791][656]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/EnemyUnit] ([1] browsable assets)...
+[2020.04.05-23.07.50:813][656]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit]
+[2020.04.05-23.07.50:813][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/EnemyUnit]
+[2020.04.05-23.07.50:889][656]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit_Auto78D11FAC14799DA19003B48BAE27FAA81.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/EnemyUnit_Auto7.uasset'
+[2020.04.05-23.07.50:892][656]LogFileHelpers: Auto-saving content packages took 0.163
+[2020.04.05-23.08.35:336][731]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.04.05-23.08.40:555][989]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.05-23.08.40:575][989]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.05-23.08.47:539][375]LogEditorTransaction: Undo Delete current selection
+[2020.04.05-23.08.48:017][385]LogEditorTransaction: Undo Change Parameter Type
+[2020.04.05-23.09.28:052][606]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Bluebrints/Combat/Units/EnemyUnitStruct.EnemyUnitStruct
+[2020.04.05-23.09.33:916][950]LogSlate: Window 'EnemyUnitStruct' being destroyed
+[2020.04.05-23.09.33:926][950]LogSlate: Window 'EnemyUnitStruct' being destroyed
+[2020.04.05-23.09.33:931][950]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.09.33:931][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.09.33:962][950]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.09.33:962][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.09.34:052][950]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.09.34:052][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.09.34:058][950]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.09.34:058][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.09.34:132][950]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.09.34:132][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.09.34:220][950]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.09.34:220][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.09.34:226][950]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.09.34:226][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.09.34:295][950]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.05-23.09.34:295][950]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.09.34:295][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.09.46:235][582]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.05-23.09.56:634][984]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.UI_EnemyHealthBar
+[2020.04.05-23.10.35:748][989]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.04.05-23.10.38:122][123]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.05-23.10.38:142][123]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.04.05-23.11.01:288][487]LogEditorTransaction: Undo Delete current selection
+[2020.04.05-23.11.01:553][491]LogEditorTransaction: Undo Change Parameter Type
+[2020.04.05-23.11.01:853][496]LogEditorTransaction: Undo Remove Variable
+[2020.04.05-23.11.02:705][544]LogEditorTransaction: Undo Remove Variable
+[2020.04.05-23.11.03:126][565]LogEditorTransaction: Undo Move Node
+[2020.04.05-23.11.03:589][589]LogEditorTransaction: Undo Promote To Variable
+[2020.04.05-23.11.03:988][610]LogEditorTransaction: Undo Delete current selection
+[2020.04.05-23.11.04:424][635]LogEditorTransaction: Undo Promote To Variable
+[2020.04.05-23.11.04:824][656]LogEditorTransaction: Undo Delete current selection
+[2020.04.05-23.11.05:473][693]LogEditorTransaction: Undo Move Node
+[2020.04.05-23.11.05:959][719]LogEditorTransaction: Undo Promote To Variable
+[2020.04.05-23.11.22:903][691]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Bluebrints/Combat/Units/EnemyUnitData.EnemyUnitData
+[2020.04.05-23.11.29:909][ 80]LogSlate: Window 'EnemyUnitData' being destroyed
+[2020.04.05-23.11.29:925][ 80]LogSlate: Window 'EnemyUnitData' being destroyed
+[2020.04.05-23.11.29:926][ 80]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.11.29:926][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.11.30:021][ 80]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.11.30:021][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.11.30:030][ 80]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.04.05-23.11.30:031][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.05-23.11.43:166][851]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Bluebrints/Combat/Units/PlayerUnitStruct.PlayerUnitStruct
+[2020.04.05-23.11.48:804][184]LogSlate: Window 'PlayerUnitStruct' being destroyed
+[2020.04.05-23.11.48:825][184]LogSlate: Window 'PlayerUnitStruct' being destroyed
+[2020.04.05-23.11.50:702][294]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Bluebrints/Combat/Units/PlayerUnitData.PlayerUnitData
+[2020.04.05-23.12.01:638][944]LogSlate: Window 'PlayerUnitData' being destroyed
+[2020.04.05-23.12.01:659][944]LogSlate: Window 'PlayerUnitData' being destroyed
+[2020.04.05-23.12.22:551][194]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Bluebrints/Combat/Units/PlayerUnitData.PlayerUnitData
+[2020.04.05-23.12.37:121][ 56]LogSlate: Window 'PlayerUnitData' being destroyed
+[2020.04.05-23.12.37:142][ 56]LogSlate: Window 'PlayerUnitData' being destroyed
+[2020.04.05-23.12.38:619][142]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Bluebrints/Combat/Units/EnemyUnitData.EnemyUnitData
+[2020.04.05-23.12.41:013][276]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Bluebrints/Combat/Units/PlayerUnitStruct.PlayerUnitStruct
+[2020.04.05-23.12.44:240][461]LogSlate: Window 'PlayerUnitStruct' being destroyed
+[2020.04.05-23.12.44:258][461]LogSlate: Window 'PlayerUnitStruct' being destroyed
+[2020.04.05-23.12.50:385][824]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Bluebrints/Combat/Units/EnemyUnitData.EnemyUnitData
+[2020.04.05-23.13.44:555][223]LogSlate: Window 'Pick Row Structure' being destroyed
+[2020.04.05-23.13.54:167][796]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Bluebrints/Combat/Units/NewDataTable.NewDataTable
+[2020.04.05-23.17.51:604][621]LogUObjectHash: Compacting FUObjectHashTables data took   6.88ms
+[2020.04.05-23.17.51:627][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.05-23.17.52:222][621]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto8BD70A62E4065E8125C4F0295AD01A1C3.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto8.umap'
+[2020.04.05-23.17.52:226][621]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.776
+[2020.04.05-23.17.52:226][621]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.776
+[2020.04.05-23.17.52:226][621]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/EnemyUnit] ([1] browsable assets)...
+[2020.04.05-23.17.52:246][621]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit]
+[2020.04.05-23.17.52:247][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/EnemyUnit]
+[2020.04.05-23.17.52:295][621]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit_Auto854D6CB8346554994D9C5ED84A54DC456.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/EnemyUnit_Auto8.uasset'
+[2020.04.05-23.17.52:296][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/Units/NewDataTable] ([1] browsable assets)...
+[2020.04.05-23.17.52:297][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/NewDataTable]
+[2020.04.05-23.17.52:308][621]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/NewDataTable_Auto824C2882C4E93801E04EEA6AC1D59FC5B.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/NewDataTable_Auto8.uasset'
+[2020.04.05-23.17.52:310][621]LogFileHelpers: Auto-saving content packages took 0.085
+[2020.04.05-23.21.18:389][485]LogSlate: Window 'NewDataTable' being destroyed
+[2020.04.05-23.21.18:408][485]LogSlate: Window 'NewDataTable' being destroyed
+[2020.04.05-23.21.20:789][619]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2020.04.05-23.21.23:236][619]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.05-23.21.23:357][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.04.05-23.22.52:638][116]LogSlate: Window 'Pick Row Structure' being destroyed
+[2020.04.05-23.23.01:731][659]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Bluebrints/Combat/Units/EnemyData.EnemyData
+[2020.04.05-23.27.52:655][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.04.05-23.27.52:670][994]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.075
+[2020.04.05-23.27.52:670][994]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/Units/EnemyData] ([1] browsable assets)...
+[2020.04.05-23.27.52:670][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/EnemyData]
+[2020.04.05-23.27.52:683][994]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyData_Auto9A85D83CD4FFAB1BA6570279CEDC489FE.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/EnemyData_Auto9.uasset'
+[2020.04.05-23.27.52:684][994]LogFileHelpers: Auto-saving content packages took 0.014
+[2020.04.06-00.11.56:148][100]LogSlate: Window 'EnemyData' being destroyed
+[2020.04.06-00.11.56:169][100]LogSlate: Window 'EnemyData' being destroyed
+[2020.04.06-00.11.57:508][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.04.06-00.11.58:742][178]LogSlate: Window 'Save Content' being destroyed
+[2020.04.06-00.11.58:810][178]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBar48D06E2144752A58A307C6A7B66C1C29.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.uasset'
+[2020.04.06-00.11.58:819][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyData" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyData.uasset" SILENT=true
+[2020.04.06-00.11.58:827][178]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyData8B29882948F63942849E5E9AE89D14A2.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyData.uasset'
+[2020.04.06-00.11.58:833][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.06-00.11.58:869][178]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit7E9C68254D0A9AEECE7243A6F2C66FC5.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.06-00.11.58:876][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Levels/TestMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.06-00.11.58:924][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.06-00.11.59:207][178]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1CF597765474E1789239811B2A36CE287.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Levels/TestMap1.umap'
+[2020.04.06-00.11.59:266][178]LogFileHelpers: Saving map 'TestMap1' took 0.391
+[2020.04.06-00.11.59:303][178]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.06-00.11.59:303][178]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.06-00.11.59:303][178]LogContentValidation: Display: Validating DataTable /Game/Bluebrints/Combat/Units/EnemyData.EnemyData
+[2020.04.06-00.11.59:303][178]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.06-00.11.59:303][178]LogContentValidation: Display: Validating World /Game/Levels/TestMap1.TestMap1
+[2020.04.06-00.12.01:127][286]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.04.06-00.12.01:206][286]LogSlate: Window 'Project0 - Unreal Editor' being destroyed
+[2020.04.06-00.12.01:206][286]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.06-00.12.01:784][287]Cmd: QUIT_EDITOR
+[2020.04.06-00.12.01:784][287]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.04.06-00.12.01:824][287]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.04.06-00.12.01:824][287]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.06-00.12.02:512][287]LogExit: Preparing to exit.
+[2020.04.06-00.12.02:712][287]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.06-00.12.02:715][287]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.04.06-00.12.02:717][287]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.06-00.12.02:720][287]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.06-00.12.02:722][287]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.04.06-00.12.02:745][287]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.06-00.12.02:783][287]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.06-00.12.02:783][287]LogExit: Editor shut down
+[2020.04.06-00.12.02:784][287]LogExit: Transaction tracking system shut down
+[2020.04.06-00.12.03:130][287]LogExit: Object subsystem successfully closed.
+[2020.04.06-00.12.03:185][287]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.06-00.12.03:204][287]LogModuleManager: Shutting down and abandoning module DataTableEditor (710)
+[2020.04.06-00.12.03:204][287]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (708)
+[2020.04.06-00.12.03:204][287]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (706)
+[2020.04.06-00.12.03:204][287]LogModuleManager: Shutting down and abandoning module Voice (704)
+[2020.04.06-00.12.03:204][287]LogModuleManager: Shutting down and abandoning module SequencerWidgets (702)
+[2020.04.06-00.12.03:204][287]LogModuleManager: Shutting down and abandoning module BlueprintGraph (700)
+[2020.04.06-00.12.03:204][287]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (698)
+[2020.04.06-00.12.03:204][287]LogModuleManager: Shutting down and abandoning module SceneOutliner (696)
+[2020.04.06-00.12.03:204][287]LogModuleManager: Shutting down and abandoning module AddContentDialog (694)
+[2020.04.06-00.12.03:205][287]LogModuleManager: Shutting down and abandoning module WidgetCarousel (693)
+[2020.04.06-00.12.03:205][287]LogModuleManager: Shutting down and abandoning module EditorWidgets (690)
+[2020.04.06-00.12.03:205][287]LogModuleManager: Shutting down and abandoning module CollectionManager (688)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (686)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.04.06-00.12.03:206][287]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.04.06-00.12.03:207][287]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.04.06-00.12.03:208][287]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.04.06-00.12.04:848][287]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.04.06-00.12.04:848][287]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.04.06-00.12.04:848][287]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.04.06-00.12.04:848][287]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.04.06-00.12.04:848][287]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.04.06-00.12.04:848][287]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.04.06-00.12.04:848][287]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.04.06-00.12.04:848][287]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.04.06-00.12.04:849][287]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.04.06-00.12.04:850][287]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.04.06-00.12.04:850][287]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.04.06-00.12.04:850][287]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.04.06-00.12.04:883][287]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.04.06-00.12.04:883][287]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.04.06-00.12.04:883][287]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.04.06-00.12.04:883][287]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.04.06-00.12.04:883][287]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.04.06-00.12.04:883][287]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.04.06-00.12.04:883][287]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.04.06-00.12.04:883][287]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.04.06-00.12.04:884][287]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.04.06-00.12.04:884][287]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.04.06-00.12.04:884][287]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.04.06-00.12.04:894][287]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.04.06-00.12.04:894][287]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.04.06-00.12.04:894][287]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.04.06-00.12.04:895][287]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.04.06-00.12.04:898][287]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.04.06-00.12.04:898][287]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.04.06-00.12.04:898][287]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.04.06-00.12.04:899][287]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.04.06-00.12.04:899][287]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.04.06-00.12.04:900][287]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.04.06-00.12.04:908][287]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.04.06-00.12.05:062][287]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.04.06-00.12.05:062][287]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.04.06-00.12.05:062][287]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.04.06-00.12.05:062][287]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.04.06-00.12.05:062][287]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.04.06-00.12.05:062][287]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.04.06-00.12.05:062][287]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.04.06-00.12.05:062][287]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.04.06-00.12.05:063][287]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.04.06-00.12.05:064][287]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.04.06-00.12.05:065][287]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.04.06-00.12.05:166][287]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.04.06-00.12.05:267][287]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.04.06-00.12.05:267][287]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.04.06-00.12.05:267][287]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.04.06-00.12.05:267][287]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.04.06-00.12.05:267][287]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.04.06-00.12.05:267][287]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.04.06-00.12.05:267][287]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.04.06-00.12.05:267][287]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.04.06-00.12.05:267][287]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.04.06-00.12.05:267][287]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.04.06-00.12.05:267][287]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.06-00.12.05:268][287]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.04.06-00.12.05:268][287]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.04.06-00.12.05:268][287]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.04.06-00.12.05:268][287]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.04.06-00.12.05:268][287]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.04.06-00.12.05:268][287]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.04.06-00.12.05:268][287]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.04.06-00.12.05:268][287]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.04.06-00.12.05:268][287]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.04.06-00.12.05:269][287]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.04.06-00.12.05:269][287]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.04.06-00.12.05:270][287]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.04.06-00.12.05:270][287]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.04.06-00.12.05:270][287]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.04.06-00.12.05:272][287]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.04.06-00.12.05:272][287]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.04.06-00.12.05:272][287]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.04.06-00.12.05:272][287]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.04.06-00.12.05:272][287]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.04.06-00.12.05:275][287]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.04.06-00.12.05:275][287]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.04.06-00.12.05:276][287]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.04.06-00.12.05:277][287]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.04.06-00.12.05:279][287]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.04.06-00.12.05:280][287]LogDerivedDataCache: Shutdown
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.04.06-00.12.05:280][287]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.04.06-00.12.05:281][287]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.04.06-00.12.05:282][287]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.04.06-00.12.05:283][287]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.04.06-00.12.05:284][287]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.04.06-00.12.05:284][287]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.04.06-00.12.05:284][287]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.04.06-00.12.05:284][287]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.04.06-00.12.05:284][287]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.04.06-00.12.05:284][287]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.04.06-00.12.05:284][287]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.04.06-00.12.05:285][287]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.04.06-00.12.05:295][287]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.04.06-00.12.05:295][287]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.04.06-00.12.05:295][287]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.04.06-00.12.05:295][287]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.04.06-00.12.05:295][287]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.04.06-00.12.05:295][287]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.04.06-00.12.05:295][287]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.04.06-00.12.05:295][287]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.04.06-00.12.05:296][287]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.04.06-00.12.05:296][287]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.04.06-00.12.05:296][287]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.04.06-00.12.05:296][287]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.04.06-00.12.05:296][287]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.04.06-00.12.05:296][287]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.06-00.12.05:296][287]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.04.06-00.12.05:296][287]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.04.06-00.12.05:296][287]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.04.06-00.12.05:296][287]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.04.06-00.12.05:296][287]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.04.06-00.12.05:298][287]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.04.06-00.12.05:298][287]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.04.06-00.12.05:319][287]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.04.06-00.12.05:319][287]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.06-00.12.05:319][287]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BED95820C-4EF3-6515-AC5C-1F9A7036CFFA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=71a89837447371cfb7c2b7a6aac899c6%7Cb331718f080b4578aea5e9d39cc4e8b2%7Caf3c701f-a5f4-4d17-b3ad-9d84461593a2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.04.06-00.12.05:348][287]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.04.06-00.12.05:351][287]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.04.06-00.12.05:354][287]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.04.06-00.12.05:355][287]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.04.06-00.12.05:355][287]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.04.06-00.12.05:355][287]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.04.06-00.12.05:356][287]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.04.06-00.12.05:356][287]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.04.06-00.12.05:356][287]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.04.06-00.12.05:356][287]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.04.06-00.12.05:356][287]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.04.06-00.12.05:356][287]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.06-00.12.05:356][287]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.06-00.12.05:358][287]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.06-00.12.05:358][287]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.06-00.12.05:359][287]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.06-00.12.05:359][287]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.06-00.12.05:359][287]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.06-00.12.05:361][287]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.06-00.12.05:371][287]LogD3D11RHI: Shutdown
+[2020.04.06-00.12.05:371][287]LogD3D11RHI: CleanupD3DDevice
+[2020.04.06-00.12.05:413][287]LogExit: Exiting.
+[2020.04.06-00.12.05:425][287]Log file closed, 04/05/20 20:12:05
