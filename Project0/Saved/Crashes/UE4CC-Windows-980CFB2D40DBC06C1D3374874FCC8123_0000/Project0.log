@@ -1,0 +1,1762 @@
+﻿Log file open, 04/11/20 17:15:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project0
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.717565
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1803) (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Merrowgeist -epicuserid=b331718f080b4578aea5e9d39cc4e8b2 -epiclocale=en
+LogInit: Base Directory: D:/Games/Fortnite/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.11-21.15.05:797][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.11-21.15.05:798][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.11-21.15.05:798][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.11-21.15.05:798][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.11-21.15.05:806][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.11-21.15.05:806][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.11-21.15.05:807][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.11-21.15.05:808][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:808][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.11-21.15.05:808][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.11-21.15.05:808][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:808][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.11-21.15.05:808][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.11-21.15.05:808][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.11-21.15.05:808][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.11-21.15.05:808][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.11-21.15.05:818][  0]LogHAL: Display: Platform has ~ 32 GB [34291585024 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.11-21.15.05:818][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.11-21.15.05:818][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.11-21.15.05:818][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.11-21.15.05:819][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.11-21.15.05:826][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.11-21.15.05:826][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.11-21.15.05:826][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.11-21.15.05:826][  0]LogInit: Computer: DESKTOP-RQAR5FV
+[2020.04.11-21.15.05:826][  0]LogInit: User: Felgrand
+[2020.04.11-21.15.05:826][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.04.11-21.15.05:826][  0]LogInit: High frequency timer resolution =2.924188 MHz
+[2020.04.11-21.15.05:826][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.04.11-21.15.05:826][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.11-21.15.05:826][  0]LogMemory: Process Physical Memory: 105.65 MB used, 105.65 MB peak
+[2020.04.11-21.15.05:826][  0]LogMemory: Process Virtual Memory: 102.22 MB used, 102.22 MB peak
+[2020.04.11-21.15.05:826][  0]LogMemory: Physical Memory: 10400.27 MB used,  22302.73 MB free, 32703.00 MB total
+[2020.04.11-21.15.05:826][  0]LogMemory: Virtual Memory: 5190.89 MB used,  134212536.00 MB free, 134217728.00 MB total
+[2020.04.11-21.15.05:829][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.11-21.15.06:722][  0]LogInit: Using OS detected language (en-US).
+[2020.04.11-21.15.06:722][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.11-21.15.06:723][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.11-21.15.07:045][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.11-21.15.07:176][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.11-21.15.07:176][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.11-21.15.10:754][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.11-21.15.10:754][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.11-21.15.10:754][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.11-21.15.10:754][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.11-21.15.10:842][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.04.11-21.15.10:842][  0]LogD3D11RHI:       4043/0/16351 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.11-21.15.10:845][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.11-21.15.10:845][  0]LogD3D11RHI:       0/0/16351 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.11-21.15.10:845][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.11-21.15.10:856][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.11-21.15.10:856][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.11-21.15.10:856][  0]LogWindows: EnumDisplayDevices:
+[2020.04.11-21.15.10:856][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.04.11-21.15.10:856][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.04.11-21.15.10:856][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.04.11-21.15.10:857][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.04.11-21.15.10:857][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.11-21.15.10:857][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.04.11-21.15.10:857][  0]LogD3D11RHI:   Driver Version: 442.50 (internal:26.21.14.4250, unified:442.50)
+[2020.04.11-21.15.10:857][  0]LogD3D11RHI:      Driver Date: 2-24-2020
+[2020.04.11-21.15.10:857][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.04.11-21.15.10:916][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.11-21.15.10:916][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.11-21.15.10:931][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.11-21.15.11:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.11-21.15.11:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.11-21.15.11:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.11-21.15.11:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.11-21.15.11:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.11-21.15.11:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.11-21.15.12:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.11-21.15.12:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.11-21.15.12:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.11-21.15.12:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.11-21.15.12:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.11-21.15.12:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.11-21.15.12:262][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.11-21.15.12:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.11-21.15.12:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.11-21.15.12:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.11-21.15.12:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.11-21.15.12:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.11-21.15.12:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.11-21.15.12:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.11-21.15.12:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.11-21.15.12:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.11-21.15.12:632][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.11-21.15.12:742][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.11-21.15.13:365][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Intermediate/Shaders/WorkingDirectory/5772/).
+[2020.04.11-21.15.13:365][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Felgrand/AppData/Local/Temp/UnrealShaderWorkingDir/C86ABB9C40AE9F77E1CCAF8FA305C990/'.
+[2020.04.11-21.15.13:367][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.11-21.15.13:367][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.11-21.15.13:367][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.11-21.15.17:103][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.11-21.15.17:165][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Felgrand/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.11-21.15.17:165][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Felgrand/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.11-21.15.17:165][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Felgrand/Documents/GitHub/Project0/Project0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.11-21.15.17:165][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.11-21.15.17:165][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Felgrand/Documents/GitHub/Project0/Project0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.11-21.15.17:165][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.11-21.15.17:215][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.11-21.15.17:216][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.11-21.15.17:216][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.11-21.15.17:218][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Felgrand/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.11-21.15.17:218][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.11-21.15.17:218][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.11-21.15.17:256][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.11-21.15.17:259][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.11-21.15.17:293][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.11-21.15.17:603][  0]LogAssetRegistry: FAssetRegistry took 0.0054 seconds to start up
+[2020.04.11-21.15.17:992][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.11-21.15.18:847][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.11-21.15.18:847][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.11-21.15.18:847][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.11-21.15.18:847][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.11-21.15.18:847][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.11-21.15.18:920][  0]LogNetVersion: Project0 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2423084365)
+[2020.04.11-21.15.24:156][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.113084 seconds
+[2020.04.11-21.15.24:170][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.11-21.15.24:170][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.11-21.15.24:170][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.11-21.15.27:827][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.11-21.15.27:864][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.11-21.15.28:562][  0]SourceControl: Source control is disabled
+[2020.04.11-21.15.28:562][  0]SourceControl: Source control is disabled
+[2020.04.11-21.15.28:610][  0]SourceControl: Source control is disabled
+[2020.04.11-21.15.28:659][  0]SourceControl: Source control is disabled
+[2020.04.11-21.15.28:699][  0]SourceControl: Source control is disabled
+[2020.04.11-21.15.29:943][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.11-21.15.30:114][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.11-21.15.30:114][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.11-21.15.30:643][  0]LogOcInput: OculusInput pre-init called
+[2020.04.11-21.15.30:737][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.11-21.15.30:738][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.11-21.15.31:124][  0]LogEngine: Initializing Engine...
+[2020.04.11-21.15.31:125][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.11-21.15.31:126][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.11-21.15.32:122][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.11-21.15.32:184][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.11-21.15.32:217][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-21.15.32:217][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-21.15.32:217][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-21.15.32:217][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-21.15.32:217][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.11-21.15.32:217][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.11-21.15.32:217][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.11-21.15.32:218][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-21.15.32:218][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-21.15.32:218][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-21.15.32:242][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-21.15.32:242][  0]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.11-21.15.32:242][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-21.15.32:242][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-21.15.32:242][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-21.15.32:242][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-21.15.32:242][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.11-21.15.32:242][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-21.15.32:242][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-21.15.32:273][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.11-21.15.32:277][  0]LogInit: FAudioDevice initialized.
+[2020.04.11-21.15.32:278][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.11-21.15.32:371][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/Felgrand/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.11-21.15.32:380][  0]LogInit: Texture streaming: Enabled
+[2020.04.11-21.15.32:513][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.11-21.15.32:513][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.11-21.15.32:520][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.11-21.15.32:696][  0]LogInit: Transaction tracking system initialized
+[2020.04.11-21.15.32:972][  0]BlueprintLog: New page: Editor Load
+[2020.04.11-21.15.33:618][  0]LocalizationService: Localization service is disabled
+[2020.04.11-21.15.35:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/' took 0.01s
+[2020.04.11-21.15.35:349][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.11-21.15.35:349][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.11-21.15.37:357][  0]SourceControl: Source control is disabled
+[2020.04.11-21.15.37:357][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.11-21.15.37:368][  0]LightingResults: New page: Lighting Build
+[2020.04.11-21.15.37:368][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-21.15.37:369][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-21.15.37:369][  0]MapCheck: New page: Map Check
+[2020.04.11-21.15.37:369][  0]LightingResults: New page: Lighting Build
+[2020.04.11-21.15.37:429][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.04.11-21.15.37:705][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.11-21.15.37:726][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.11-21.15.37:785][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.04.11-21.15.37:785][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.11-21.15.37:786][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.174ms to complete.
+[2020.04.11-21.15.37:786][  0]LogFileHelpers: Loading map 'Template_Default' took 0.429
+[2020.04.11-21.15.38:546][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-21.15.38:563][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-21.15.38:578][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-21.15.38:593][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-21.15.38:713][  0]LogCollectionManager: Loaded 0 collections in 0.002117 seconds
+[2020.04.11-21.15.38:786][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Collections/' took 0.00s
+[2020.04.11-21.15.38:786][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Developers/Felgrand/Collections/' took 0.00s
+[2020.04.11-21.15.38:786][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Collections/' took 0.00s
+[2020.04.11-21.15.38:786][  0]LogContentBrowser: Native class hierarchy populated in 0.0204 seconds. Added 3015 classes and 717 folders.
+[2020.04.11-21.15.38:862][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.11-21.15.39:771][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.11-21.15.39:852][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2020.04.11-21.15.40:683][  0]LogSlate: Took 0.010650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.11-21.15.40:708][  0]LogSlate: Took 0.010321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.11-21.15.40:778][  0]LogSlate: Took 0.022942 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.11-21.15.41:228][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2020.04.11-21.15.41:678][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.11-21.15.41:678][  0]LogLoad: (Engine Initialization) Total time: 43.02 seconds
+[2020.04.11-21.15.41:678][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.11-21.15.41:785][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.11-21.15.43:235][ 21]LogAssetRegistry: Asset discovery search completed in 25.6330 seconds
+[2020.04.11-21.15.43:239][ 21]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.04.11-21.15.45:939][ 29]LogSlate: Took 0.023332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.12-03.33.53:204][716]LogSlate: Took 0.002128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.12-03.33.53:236][716]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Bluebrints/Combat/Units/EnemyData.EnemyData
+[2020.04.12-03.34.00:400][ 80]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Bluebrints/Combat/Units/EnemyUnitData.EnemyUnitData
+[2020.04.12-03.34.53:213][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyData" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyData.uasset" SILENT=true
+[2020.04.12-03.34.53:332][479]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyData38D72AF5487F1BFED05D2F83D7D295A2.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyData.uasset'
+[2020.04.12-03.34.53:399][479]AssetCheck: New page: Asset Save: EnemyData
+[2020.04.12-03.34.53:400][479]LogContentValidation: Display: Validating DataTable /Game/Bluebrints/Combat/Units/EnemyData.EnemyData
+[2020.04.12-03.34.54:407][540]LogSlate: Window 'EnemyData' being destroyed
+[2020.04.12-03.34.54:426][540]LogSlate: Window 'EnemyData' being destroyed
+[2020.04.12-03.35.15:590][665]LogSlate: Window 'EnemyUnitData' being destroyed
+[2020.04.12-03.35.15:610][665]LogSlate: Window 'EnemyUnitData' being destroyed
+[2020.04.12-03.35.16:568][721]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Bluebrints/Combat/Units/EnemyData.EnemyData
+[2020.04.12-03.35.19:506][892]LogSlate: Window 'EnemyData' being destroyed
+[2020.04.12-03.35.19:526][892]LogSlate: Window 'EnemyData' being destroyed
+[2020.04.12-03.35.31:917][631]LogAIModule: Creating AISystem for world quibLevel
+[2020.04.12-03.35.31:945][631]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/quibLevel.quibLevel
+[2020.04.12-03.35.31:994][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.12-03.35.31:998][631]Cmd: MAP LOAD FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Levels/quibLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.12-03.35.31:998][631]LightingResults: New page: Lighting Build
+[2020.04.12-03.35.31:999][631]LoadErrors: New page: Loading map: quibLevel.umap
+[2020.04.12-03.35.32:007][631]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-03.35.32:015][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-03.35.32:015][631]MapCheck: New page: Map Check
+[2020.04.12-03.35.32:015][631]LightingResults: New page: Lighting Build
+[2020.04.12-03.35.32:064][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.04.12-03.35.32:179][631]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.12-03.35.32:242][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.04.12-03.35.32:273][631]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.12-03.35.32:274][631]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2020.04.12-03.35.32:274][631]LogFileHelpers: Loading map 'quibLevel' took 0.277
+[2020.04.12-03.35.35:209][750]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-03.35.35:282][750]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestMap1.TestMap1
+[2020.04.12-03.35.35:348][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.04.12-03.35.35:350][750]Cmd: MAP LOAD FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Levels/TestMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.12-03.35.35:350][750]LightingResults: New page: Lighting Build
+[2020.04.12-03.35.35:351][750]LoadErrors: New page: Loading map: TestMap1.umap
+[2020.04.12-03.35.35:351][750]LogWorld: UWorld::CleanupWorld for quibLevel, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-03.35.35:351][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-03.35.35:351][750]MapCheck: New page: Map Check
+[2020.04.12-03.35.35:351][750]LightingResults: New page: Lighting Build
+[2020.04.12-03.35.35:400][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.04.12-03.35.35:628][750]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.12-03.35.35:692][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.04.12-03.35.35:724][750]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.12-03.35.35:724][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2020.04.12-03.35.35:724][750]LogFileHelpers: Loading map 'TestMap1' took 0.375
+[2020.04.12-05.57.27:266][ 92]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-05.57.27:962][ 92]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2020.04.12-05.57.29:948][ 92]LogSlate: Took 0.009035 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.12-05.57.30:329][ 93]LogSlate: Took 0.021614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.12-05.57.52:887][442]LogSlate: Window 'EnemyUnit' being destroyed
+[2020.04.12-05.57.52:894][442]LogSlate: Window 'EnemyUnit' being destroyed
+[2020.04.12-05.57.52:935][442]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-05.57.52:935][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-05.57.59:704][838]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.UI_EnemyHealthBar
+[2020.04.12-05.59.55:255][756]LogEditorTransaction: Undo Delete current selection
+[2020.04.12-06.01.28:361][890]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.30:140][997]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.30:144][997]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.31:374][ 71]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.31:378][ 71]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.32:057][112]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.32:062][112]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.32:523][140]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.32:528][140]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.32:923][164]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.32:928][164]LogBlueprint: Warning: [Compiler UI_EnemyHealthBar] Variable Enemy is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2020.04.12-06.01.35:772][329]LogSlate: Took 0.025059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.12-06.02.17:417][111]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.12-06.04.26:043][122]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBar8B7CEBBD41369F059E53D9858B98A5BF.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.uasset'
+[2020.04.12-06.04.26:077][122]AssetCheck: New page: Asset Save: UI_PlayerHealthBar
+[2020.04.12-06.04.26:077][122]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.12-06.04.26:473][147]BlueprintLog: New page: Compile UI_PlayerHealthBar
+[2020.04.12-06.04.27:290][147]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2020.04.12-06.05.42:813][985]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBarD71092D64C4C8C314F9F7A9FB6309DF9.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.uasset'
+[2020.04.12-06.05.42:835][985]AssetCheck: New page: Asset Save: UI_PlayerHealthBar
+[2020.04.12-06.05.42:835][985]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.12-06.05.53:716][637]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-06.06.13:241][776]LogEditorTransaction: Undo Remove Variable
+[2020.04.12-06.06.20:056][148]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-06.06.20:531][148]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.04.12-06.06.50:853][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-06.06.50:956][866]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit9D2F897F44288C3D044C72A3D6ABAA67.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-06.06.50:975][866]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-06.06.50:975][866]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-06.07.15:965][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-06.07.16:025][353]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit167DF5F144B30A3B6B47C983CAEE4032.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-06.07.16:042][353]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-06.07.16:042][353]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-06.07.16:681][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-06.07.16:726][390]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit30DB6CA84242140445FB87B560CB86ED.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-06.07.16:742][390]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-06.07.16:742][390]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-06.07.17:190][418]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-06.07.17:593][418]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2020.04.12-06.08.25:849][376]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.04.12-06.08.25:853][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-06.08.26:256][376]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto1265F7B284C2B000639FEC8A5FC367D67.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto1.umap'
+[2020.04.12-06.08.26:267][376]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.485
+[2020.04.12-06.08.26:267][376]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.485
+[2020.04.12-06.08.26:268][376]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/EnemyUnit] ([1] browsable assets)...
+[2020.04.12-06.08.26:291][376]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit]
+[2020.04.12-06.08.26:291][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/EnemyUnit]
+[2020.04.12-06.08.26:359][376]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit_Auto1DAD0ED4B459C572B37A217A4BA3D88BD.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/EnemyUnit_Auto1.uasset'
+[2020.04.12-06.08.26:361][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar] ([1] browsable assets)...
+[2020.04.12-06.08.26:361][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar]
+[2020.04.12-06.08.26:396][376]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_EnemyHealthBar_Auto18F324164455DE3D962FCAC9906474F19.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar_Auto1.uasset'
+[2020.04.12-06.08.26:398][376]LogFileHelpers: Auto-saving content packages took 0.131
+[2020.04.12-06.08.38:496][757]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-06.11.54:473][149]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-06.11.54:896][149]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2020.04.12-06.12.17:156][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-06.12.17:253][423]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit0906BDC243DDE2E550558386E1841317.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-06.12.17:277][423]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-06.12.17:277][423]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-06.12.17:973][466]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-06.12.18:383][466]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.04.12-06.18.27:080][811]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2020.04.12-06.18.27:083][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-06.18.27:495][811]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto26B57C99C4DD1C8E80F16FC9C31AB6DAA.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto2.umap'
+[2020.04.12-06.18.27:499][811]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.501
+[2020.04.12-06.18.27:499][811]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.501
+[2020.04.12-06.18.27:500][811]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar] ([1] browsable assets)...
+[2020.04.12-06.18.27:500][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar]
+[2020.04.12-06.18.27:552][811]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBar_Auto25F9F6B684F965EBDECA303A80B07E5FC.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar_Auto2.uasset'
+[2020.04.12-06.18.27:553][811]LogFileHelpers: Auto-saving content packages took 0.054
+[2020.04.12-06.37.37:671][619]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBar51F2467C4042B262742F1CB37DB45900.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.uasset'
+[2020.04.12-06.37.37:704][619]AssetCheck: New page: Asset Save: UI_PlayerHealthBar
+[2020.04.12-06.37.37:704][619]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.12-06.37.38:224][652]BlueprintLog: New page: Compile UI_PlayerHealthBar
+[2020.04.12-06.37.38:673][652]LogUObjectHash: Compacting FUObjectHashTables data took   6.38ms
+[2020.04.12-06.38.08:274][411]BlueprintLog: New page: Compile UI_PlayerHealthBar
+[2020.04.12-06.38.08:701][411]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.04.12-06.40.18:033][344]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.04.12-06.40.18:035][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-06.40.18:447][344]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto30C1DB214481088A023DF1CB739143CDF.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto3.umap'
+[2020.04.12-06.40.18:458][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.498
+[2020.04.12-06.40.18:458][344]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.498
+[2020.04.12-06.40.18:459][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/PlayerUnit] ([1] browsable assets)...
+[2020.04.12-06.40.18:473][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit]
+[2020.04.12-06.40.18:473][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/PlayerUnit]
+[2020.04.12-06.40.18:558][344]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit_Auto3C9EE018442F10013BBD826878C6B0AF2.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/PlayerUnit_Auto3.uasset'
+[2020.04.12-06.40.18:561][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar] ([1] browsable assets)...
+[2020.04.12-06.40.18:561][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar]
+[2020.04.12-06.40.18:602][344]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBar_Auto357CFB72541A22CD3D26D22B04EAA50F3.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar_Auto3.uasset'
+[2020.04.12-06.40.18:604][344]LogFileHelpers: Auto-saving content packages took 0.145
+[2020.04.12-06.46.32:223][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-06.46.32:317][936]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit305C601C4DA6F0AA194615B98FE8AC70.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-06.46.32:353][936]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-06.46.32:353][936]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-06.48.15:005][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-06.48.15:078][876]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit62FC4A6F44FC19256857508EB50E12A4.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-06.48.15:099][876]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-06.48.15:099][876]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-06.48.16:408][950]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-06.48.16:851][950]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.04.12-06.50.18:378][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-06.50.18:448][ 18]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnitBF57ECD14360349EDDDEA9AAD50E7A72.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-06.50.18:472][ 18]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-06.50.18:472][ 18]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-06.50.21:782][213]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBar2A317E3A4E90EC2C0CD39F897E93557A.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.uasset'
+[2020.04.12-06.50.21:810][213]AssetCheck: New page: Asset Save: UI_PlayerHealthBar
+[2020.04.12-06.50.21:810][213]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.12-06.50.23:641][324]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-06.50.24:065][324]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2020.04.12-06.51.01:596][  4]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBarEA6633324245E95C8237139762FDFF03.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.uasset'
+[2020.04.12-06.51.01:615][  4]AssetCheck: New page: Asset Save: UI_PlayerHealthBar
+[2020.04.12-06.51.01:615][  4]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.12-06.51.03:240][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-06.51.03:313][ 97]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit6FB8046944817AE31C266D974A4B131E.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-06.51.03:330][ 97]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-06.51.03:330][ 97]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-06.51.56:341][947]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-06.51.56:785][947]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.04.12-06.51.57:448][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-06.51.57:509][980]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit873BDACD417B82A4714768A33E90CA80.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-06.51.57:526][980]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-06.51.57:526][980]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-06.51.58:157][ 19]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-06.51.58:593][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2020.04.12-06.52.19:174][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-06.52.19:236][ 48]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnitE9A2843C41F3BF36FD2C78AEDA3180C8.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-06.52.19:272][ 48]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-06.52.19:272][ 48]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-06.52.24:373][303]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.04.12-06.52.24:375][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-06.52.24:782][303]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto4873C31204CD19F98185DC491FAB7A614.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto4.umap'
+[2020.04.12-06.52.24:792][303]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.485
+[2020.04.12-06.52.24:792][303]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.485
+[2020.04.12-06.52.34:115][855]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-06.52.41:152][270]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD
+[2020.04.12-07.03.48:248][476]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1
+[2020.04.12-07.04.39:163][469]LogUObjectHash: Compacting FUObjectHashTables data took   9.17ms
+[2020.04.12-07.04.39:164][469]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.076
+[2020.04.12-07.04.39:164][469]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD] ([1] browsable assets)...
+[2020.04.12-07.04.39:164][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD]
+[2020.04.12-07.04.39:218][469]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD_Auto537627A384C1EEA836D0A01A8160A03B6.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD_Auto5.uasset'
+[2020.04.12-07.04.39:219][469]LogFileHelpers: Auto-saving content packages took 0.055
+[2020.04.12-07.14.39:490][627]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.04.12-07.14.39:493][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-07.14.39:926][627]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto67B065B944149DE0B4CAA44A587F0C041.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto6.umap'
+[2020.04.12-07.14.39:936][627]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.521
+[2020.04.12-07.14.39:936][627]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.521
+[2020.04.12-07.14.39:936][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/EnemyUnit] ([1] browsable assets)...
+[2020.04.12-07.14.39:949][627]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit]
+[2020.04.12-07.14.39:949][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/EnemyUnit]
+[2020.04.12-07.14.40:017][627]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit_Auto6CA7EE7A3461BCE79B779F88B793D5586.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/EnemyUnit_Auto6.uasset'
+[2020.04.12-07.14.40:018][627]LogFileHelpers: Auto-saving content packages took 0.082
+[2020.04.12-07.43.01:907][983]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-07.43.02:350][983]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.04.12-07.43.04:049][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-07.43.04:115][ 76]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit49F5B23B4AD54AAFF7DC15B6954586BB.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-07.43.04:145][ 76]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-07.43.04:145][ 76]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-07.43.51:383][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-07.43.51:441][821]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit7D84604F47B442052F37659D5DC3C5EA.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-07.43.51:459][821]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-07.43.51:459][821]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-07.43.54:065][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-07.43.54:124][971]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnitC80D59204B0285053C0234B015C764B2.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-07.43.54:151][971]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-07.43.54:151][971]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-07.44.04:945][497]LogSlate: Window 'Delete Variable' being destroyed
+[2020.04.12-07.44.18:450][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-07.44.18:500][297]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit80CAD8274006760E8E81088A7EEA96CB.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-07.44.18:517][297]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-07.44.18:518][297]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-07.44.27:282][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-07.44.27:331][811]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnitB710241B4F3EAD614B6A07A3FCC111C0.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-07.44.27:350][811]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-07.44.27:350][811]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-07.44.27:914][845]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-07.44.27:921][845]LogBlueprint: Error: [Compiler PlayerUnit] 'None' row name is not stored in 'DataTable /Game/Bluebrints/Combat/Units/PlayerUnitData.PlayerUnitData'.  Get Data Table Row PlayerUnitData
+[2020.04.12-07.44.28:357][845]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.04.12-07.45.03:124][822]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-07.45.03:551][822]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.04.12-07.45.44:129][187]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-07.45.44:568][187]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.04.12-07.46.53:474][313]LogEditorTransaction: Undo Remove Graph
+[2020.04.12-07.47.03:371][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-07.47.03:445][873]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnitA5929AF446E284CE0D205D99B96D6203.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-07.47.03:464][873]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-07.47.03:464][873]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-07.47.10:407][289]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-07.47.10:863][289]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.04.12-07.48.17:160][168]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to STreeView< TSharedPtr<FGraphActionNode> > [SGraphActionMenu.cpp(375)].
+[2020.04.12-07.48.17:223][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-07.48.17:266][168]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit62D6E23B487F153C7DFAB4AF98D6D24D.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-07.48.17:282][168]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-07.48.17:282][168]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-07.48.20:385][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-07.48.20:453][349]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnitAC71B0E649193B31BCA884A85E5A8047.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-07.48.20:473][349]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-07.48.20:473][349]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-07.48.21:744][425]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-07.48.22:193][425]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.04.12-07.49.28:878][391]LogRenderer: Reallocating scene render targets to support 1208x592 Format 10 NumSamples 1 (Frame:1).
+[2020.04.12-07.52.47:690][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-07.52.47:757][214]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnitE093328D4B9332F8F2FC35BB19EC00CC.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-07.52.47:776][214]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-07.52.47:776][214]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-07.54.19:073][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-07.54.19:152][576]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnitE12B3C214B2C76F9E3EF329C8BA7455A.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-07.54.19:177][576]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-07.54.19:177][576]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-07.54.19:557][599]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-07.54.20:001][599]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.04.12-07.54.26:007][955]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-07.54.26:435][955]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.04.12-07.55.38:003][112]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-07.55.38:476][141]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-07.55.39:007][173]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-07.55.41:108][299]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-07.55.41:524][323]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.12-07.55.44:111][476]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.12-07.55.45:955][584]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.12-07.56.23:757][846]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.12-07.56.25:117][925]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.12-07.56.26:391][999]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-07.56.27:490][ 63]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.12-07.56.29:124][159]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-07.56.31:124][278]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.12-07.56.32:557][362]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-07.56.33:157][397]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.12-07.56.34:416][469]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.12-07.56.35:525][534]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-07.56.37:307][639]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.12-07.57.21:488][261]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.04.12-07.57.21:491][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-07.57.21:898][261]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto77788C0C544007A64C0EE73ADF53950C4.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto7.umap'
+[2020.04.12-07.57.21:910][261]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.498
+[2020.04.12-07.57.21:910][261]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.498
+[2020.04.12-07.57.21:911][261]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD] ([1] browsable assets)...
+[2020.04.12-07.57.21:911][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD]
+[2020.04.12-07.57.21:963][261]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD_Auto7AC5F4C294AFF78DEAD633A878E344671.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD_Auto7.uasset'
+[2020.04.12-07.57.21:965][261]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar] ([1] browsable assets)...
+[2020.04.12-07.57.21:965][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar]
+[2020.04.12-07.57.22:004][261]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_EnemyHealthBar_Auto7F050241146ADA1AF40CFC9A48A56B64F.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar_Auto7.uasset'
+[2020.04.12-07.57.22:006][261]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/PlayerUnit] ([1] browsable assets)...
+[2020.04.12-07.57.22:018][261]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit]
+[2020.04.12-07.57.22:018][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/PlayerUnit]
+[2020.04.12-07.57.22:085][261]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit_Auto70F2F7DFB4744B4A38203299BCCAF6C7E.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/PlayerUnit_Auto7.uasset'
+[2020.04.12-07.57.22:087][261]LogFileHelpers: Auto-saving content packages took 0.177
+[2020.04.12-07.57.54:895][226]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-07.57.55:557][264]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-07.57.55:990][290]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.12-08.01.00:923][488]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-08.01.01:354][488]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.04.12-08.01.16:222][357]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-08.01.16:674][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.01.16:718][357]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.12-08.01.16:720][357]LogPlayLevel: [PlayLevel] Compiling EnemyUnit before play...
+[2020.04.12-08.01.17:167][357]LogPlayLevel: [PlayLevel] Compiling UI_EnemyHealthBar before play...
+[2020.04.12-08.01.17:631][357]LogPlayLevel: [PlayLevel] Compiling UI_PlayerHealthBar before play...
+[2020.04.12-08.01.18:042][357]LogPlayLevel: [PlayLevel] Compiling Battle_HUD before play...
+[2020.04.12-08.01.18:480][357]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.04.12-08.01.18:480][357]LogPlayLevel: PlayLevel: Blueprint regeneration took 1762 ms (4 blueprints)
+[2020.04.12-08.01.18:495][357]PIE: New page: PIE session: TestMap1 (Apr 12, 2020, 12:01:18 AM)
+[2020.04.12-08.01.18:504][357]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.12-08.01.18:514][357]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.12-08.01.18:521][357]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.01.18:546][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025604s)
+[2020.04.12-08.01.18:555][357]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-08.01.18:564][357]LogPlayLevel: PIE: World Init took: (0.017281s)
+[2020.04.12-08.01.18:564][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.043183s)
+[2020.04.12-08.01.18:641][357]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.04.12-08.01.18:655][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-08.01.18:655][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-08.01.18:655][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-08.01.18:656][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-08.01.18:656][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-08.01.18:656][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-08.01.18:656][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-08.01.18:656][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-08.01.18:656][357]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-08.01.18:656][357]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-08.01.18:663][357]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-08.01.18:663][357]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.12-08.01.18:663][357]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-08.01.18:663][357]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-08.01.18:663][357]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.12-08.01.18:663][357]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.12-08.01.18:663][357]LogAudioMixer: Display: Channel Order:
+[2020.04.12-08.01.18:663][357]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-08.01.18:663][357]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-08.01.18:674][357]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.12-08.01.18:676][357]LogInit: FAudioDevice initialized.
+[2020.04.12-08.01.18:700][357]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.12-08.01.18:703][357]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.12-04.01.18
+[2020.04.12-08.01.18:779][357]LogWorld: Bringing up level for play took: 0.078416
+[2020.04.12-08.01.18:789][357]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.04.12-08.01.18:861][357]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2020.04.12-08.01.18:888][357]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 2.626
+[2020.04.12-08.01.18:888][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.01.29:325][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.01.29:325][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.01.29:333][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.01.29:334][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.01.29:334][954]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.01.29:334][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.01.29:334][954]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-08.01.29:335][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.01.29:360][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-08.01.29:361][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.01.29:372][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.01.29:442][954]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.01.29:445][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.01.29:477][954]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.04.12-08.01.29:511][955]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.12-08.03.23:773][459]BlueprintLog: New page: Compile UI_PlayerHealthBar
+[2020.04.12-08.03.24:941][459]LogUObjectHash: Compacting FUObjectHashTables data took   8.10ms
+[2020.04.12-08.03.28:720][669]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_PlayerHealthBarF1D235004B4CBEE4C475B4A894FEE4AD.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.uasset'
+[2020.04.12-08.03.28:754][669]AssetCheck: New page: Asset Save: UI_PlayerHealthBar
+[2020.04.12-08.03.28:754][669]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_PlayerHealthBar.UI_PlayerHealthBar
+[2020.04.12-08.03.31:040][806]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-08.03.31:080][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.03.31:080][806]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.12-08.03.31:086][806]LogPlayLevel: [PlayLevel] Compiling PlayerUnit before play...
+[2020.04.12-08.03.31:663][806]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2020.04.12-08.03.31:664][806]LogPlayLevel: PlayLevel: Blueprint regeneration took 584 ms (1 blueprints)
+[2020.04.12-08.03.31:665][806]PIE: New page: PIE session: TestMap1 (Apr 12, 2020, 12:03:31 AM)
+[2020.04.12-08.03.31:666][806]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.03.31:670][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004296s)
+[2020.04.12-08.03.31:671][806]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-08.03.31:672][806]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2020.04.12-08.03.31:672][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005831s)
+[2020.04.12-08.03.31:734][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.04.12-08.03.31:736][806]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-08.03.31:736][806]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-08.03.31:736][806]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-08.03.31:736][806]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-08.03.31:736][806]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-08.03.31:736][806]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-08.03.31:736][806]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-08.03.31:736][806]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-08.03.31:736][806]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-08.03.31:736][806]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-08.03.31:743][806]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-08.03.31:743][806]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.12-08.03.31:743][806]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-08.03.31:743][806]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-08.03.31:743][806]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.12-08.03.31:743][806]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.12-08.03.31:743][806]LogAudioMixer: Display: Channel Order:
+[2020.04.12-08.03.31:743][806]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-08.03.31:743][806]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-08.03.31:752][806]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.12-08.03.31:754][806]LogInit: FAudioDevice initialized.
+[2020.04.12-08.03.31:768][806]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.12-08.03.31:771][806]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.12-04.03.31
+[2020.04.12-08.03.31:772][806]LogWorld: Bringing up level for play took: 0.002569
+[2020.04.12-08.03.31:772][806]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.04.12-08.03.31:775][806]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 1.514
+[2020.04.12-08.03.31:775][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.03.38:758][182]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.03.38:766][182]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.12-08.03.38:786][182]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.12-08.03.38:786][182]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.03.38:786][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.03.38:787][182]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.03.38:787][182]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.03.38:787][182]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-08.03.38:787][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.03.38:803][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-08.03.38:803][182]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.03.38:812][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.03.38:881][182]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.03.38:884][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.03.38:891][182]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.04.12-08.03.38:925][183]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.04.12-08.07.23:473][219]BlueprintLog: New page: Compile EnemyUnit
+[2020.04.12-08.07.24:062][219]LogUObjectHash: Compacting FUObjectHashTables data took   8.38ms
+[2020.04.12-08.09.37:227][404]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2020.04.12-08.09.37:230][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-08.09.37:843][404]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto83935257A4DB9C6555D274981EFB37222.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto8.umap'
+[2020.04.12-08.09.37:854][404]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.714
+[2020.04.12-08.09.37:854][404]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.714
+[2020.04.12-08.09.37:854][404]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD] ([1] browsable assets)...
+[2020.04.12-08.09.37:855][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD]
+[2020.04.12-08.09.37:927][404]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD_Auto81834A2B849E3FA66C6124CB9BFBD7644.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD_Auto8.uasset'
+[2020.04.12-08.09.37:929][404]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/EnemyUnit] ([1] browsable assets)...
+[2020.04.12-08.09.37:961][404]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit]
+[2020.04.12-08.09.37:961][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/EnemyUnit]
+[2020.04.12-08.09.38:065][404]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit_Auto80D42BD7048C5F495AF002B86A9796B6A.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/EnemyUnit_Auto8.uasset'
+[2020.04.12-08.09.38:067][404]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/PlayerUnit] ([1] browsable assets)...
+[2020.04.12-08.09.38:105][404]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit]
+[2020.04.12-08.09.38:105][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/PlayerUnit]
+[2020.04.12-08.09.38:188][404]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit_Auto8D4E60E85433C8568B7C54AB0DB7AF2E6.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/PlayerUnit_Auto8.uasset'
+[2020.04.12-08.09.38:190][404]LogFileHelpers: Auto-saving content packages took 0.336
+[2020.04.12-08.15.43:439][556]LogEditorTransaction: Undo Delete current selection
+[2020.04.12-08.15.43:632][559]LogEditorTransaction: Undo Delete current selection
+[2020.04.12-08.15.44:046][569]LogEditorTransaction: Undo Add Node
+[2020.04.12-08.15.44:240][579]LogEditorTransaction: Undo Move Node
+[2020.04.12-08.15.45:072][623]LogEditorTransaction: Undo Add Node
+[2020.04.12-08.18.22:289][699]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-08.18.22:876][699]LogUObjectHash: Compacting FUObjectHashTables data took  10.80ms
+[2020.04.12-08.19.38:707][649]LogUObjectHash: Compacting FUObjectHashTables data took   9.56ms
+[2020.04.12-08.19.38:714][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-08.19.39:369][649]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto9E535486E46796A6F714DD7998453D4C3.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto9.umap'
+[2020.04.12-08.19.39:379][649]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.757
+[2020.04.12-08.19.39:379][649]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.757
+[2020.04.12-08.19.39:380][649]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD] ([1] browsable assets)...
+[2020.04.12-08.19.39:380][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD]
+[2020.04.12-08.19.39:462][649]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD_Auto98BEFC3DE4661884CEADE8CA030F53D25.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD_Auto9.uasset'
+[2020.04.12-08.19.39:465][649]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bluebrints/Combat/Units/PlayerUnit] ([1] browsable assets)...
+[2020.04.12-08.19.39:489][649]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit]
+[2020.04.12-08.19.39:489][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/Units/PlayerUnit]
+[2020.04.12-08.19.39:591][649]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit_Auto9DCD98BE0428BFE0033A396B8D0B0289A.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/Units/PlayerUnit_Auto9.uasset'
+[2020.04.12-08.19.39:593][649]LogFileHelpers: Auto-saving content packages took 0.213
+[2020.04.12-08.23.15:001][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-08.23.15:061][258]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnitCB3E3E9342EE7FC69C8916AF6DD7948E.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-08.23.15:086][258]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-08.23.15:086][258]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-08.26.05:057][300]BlueprintLog: New page: Compile Battle_HUD
+[2020.04.12-08.26.05:142][300]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2020.04.12-08.27.22:407][798]BlueprintLog: New page: Compile EnemyUnit
+[2020.04.12-08.27.23:020][798]LogUObjectHash: Compacting FUObjectHashTables data took   7.45ms
+[2020.04.12-08.27.24:932][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-08.27.24:986][903]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit3B0B566A49FA840EEF5C438F1E10F56C.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-08.27.25:015][903]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-08.27.25:015][903]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-08.27.28:699][118]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_EnemyHealthBarBADD9A624A831B3C0E6C8A9AB24264C8.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.uasset'
+[2020.04.12-08.27.28:726][118]AssetCheck: New page: Asset Save: UI_EnemyHealthBar
+[2020.04.12-08.27.28:726][118]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.UI_EnemyHealthBar
+[2020.04.12-08.29.13:273][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-08.29.13:339][903]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit7E0305674ED7EFE85D69EDB937101F49.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-08.29.13:359][903]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-08.29.13:359][903]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-08.29.14:007][943]BlueprintLog: New page: Compile EnemyUnit
+[2020.04.12-08.29.14:594][943]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2020.04.12-08.29.15:657][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-08.29.15:710][997]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit7CEABAD5455C6F0DFB6AD6A4519C3F09.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-08.29.15:730][997]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-08.29.15:730][997]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-08.30.00:938][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-08.30.01:029][692]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit1B9D3923429DB5AFA4583D92D9C79F24.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-08.30.01:051][692]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-08.30.01:051][692]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-08.30.04:383][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-08.30.04:447][890]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnitD06EE55440237FD4782E27A3BC76F136.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-08.30.04:464][890]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-08.30.04:464][890]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-08.30.05:197][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-08.30.05:249][933]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnitFD60E86345267A2D80223FA00A24199B.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-08.30.05:272][933]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-08.30.05:272][933]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-08.30.07:123][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-08.30.07:171][ 31]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit329598F94EB6973F199C79AE08FE1841.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-08.30.07:192][ 31]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-08.30.07:192][ 31]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-08.30.24:572][  4]LogEditorTransaction: Undo Move Node
+[2020.04.12-08.30.25:239][ 23]LogEditorTransaction: Undo Add Node
+[2020.04.12-08.31.19:056][179]BlueprintLog: New page: Compile EnemyUnit
+[2020.04.12-08.31.19:635][179]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2020.04.12-08.31.20:623][231]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-08.31.21:216][231]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2020.04.12-08.31.23:982][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-08.31.24:045][383]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnitFB20793F40F0EDAFADAA5491864F10E4.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-08.31.24:083][383]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-08.31.24:083][383]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-08.31.26:481][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-08.31.26:554][523]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnit6A37FF5F499DE8941D9A46B4E7CCDC04.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-08.31.26:575][523]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-08.31.26:575][523]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-08.32.00:939][562]LogEditorTransaction: Undo Move Node
+[2020.04.12-08.32.01:539][579]LogEditorTransaction: Undo Add Node
+[2020.04.12-08.32.28:415][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-08.32.28:477][167]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit44423CA94BD4908BCED1C6A397CE1873.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-08.32.28:501][167]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-08.32.28:501][167]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-08.32.29:423][223]BlueprintLog: New page: Compile EnemyUnit
+[2020.04.12-08.32.30:010][223]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2020.04.12-08.35.49:938][741]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2020.04.12-08.35.49:940][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-08.35.50:523][741]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto079D13CA34315ED8DE4E42AB989C5D458.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto0.umap'
+[2020.04.12-08.35.50:534][741]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.676
+[2020.04.12-08.35.50:534][741]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.676
+[2020.04.12-08.35.50:534][741]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD] ([1] browsable assets)...
+[2020.04.12-08.35.50:534][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD]
+[2020.04.12-08.35.50:615][741]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD_Auto06D17FCF24AC6EC0660CE1C85341BAC69.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Bluebrints/Combat/CombatWidgets/Battle_HUD_Auto0.uasset'
+[2020.04.12-08.35.50:617][741]LogFileHelpers: Auto-saving content packages took 0.083
+[2020.04.12-08.38.54:740][589]LogEditorTransaction: Undo Move Node
+[2020.04.12-08.39.30:217][658]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Battle_HUD00ACF43B48DF1AF1B1940FB3D5377D1C.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/Battle_HUD.uasset'
+[2020.04.12-08.39.30:245][658]AssetCheck: New page: Asset Save: Battle_HUD
+[2020.04.12-08.39.30:245][658]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/Battle_HUD.Battle_HUD
+[2020.04.12-08.39.37:373][ 87]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-08.39.37:413][ 87]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.39.37:413][ 87]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.12-08.39.37:415][ 87]LogPlayLevel: [PlayLevel] Compiling Battle_HUD before play...
+[2020.04.12-08.39.38:013][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2020.04.12-08.39.38:015][ 87]LogPlayLevel: PlayLevel: Blueprint regeneration took 601 ms (1 blueprints)
+[2020.04.12-08.39.38:015][ 87]PIE: New page: PIE session: TestMap1 (Apr 12, 2020, 12:39:38 AM)
+[2020.04.12-08.39.38:015][ 87]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.39.38:020][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004468s)
+[2020.04.12-08.39.38:021][ 87]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-08.39.38:021][ 87]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2020.04.12-08.39.38:021][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.006147s)
+[2020.04.12-08.39.38:086][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.04.12-08.39.38:088][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-08.39.38:088][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-08.39.38:088][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-08.39.38:088][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-08.39.38:088][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-08.39.38:088][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-08.39.38:088][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-08.39.38:088][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-08.39.38:088][ 87]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-08.39.38:088][ 87]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-08.39.38:095][ 87]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-08.39.38:095][ 87]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.12-08.39.38:095][ 87]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-08.39.38:095][ 87]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-08.39.38:095][ 87]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.12-08.39.38:095][ 87]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.12-08.39.38:095][ 87]LogAudioMixer: Display: Channel Order:
+[2020.04.12-08.39.38:095][ 87]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-08.39.38:095][ 87]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-08.39.38:104][ 87]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.12-08.39.38:106][ 87]LogInit: FAudioDevice initialized.
+[2020.04.12-08.39.38:123][ 87]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.12-08.39.38:127][ 87]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.12-04.39.38
+[2020.04.12-08.39.38:128][ 87]LogWorld: Bringing up level for play took: 0.004389
+[2020.04.12-08.39.38:128][ 87]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.12-08.39.38:132][ 87]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 -0.13
+[2020.04.12-08.39.38:132][ 87]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.39.41:174][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.39.41:174][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.39.41:175][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.39.41:175][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.39.41:175][264]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.39.41:175][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.39.41:175][264]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-08.39.41:175][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.39.41:196][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-08.39.41:196][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.39.41:206][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.39.41:267][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.39.41:271][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.39.41:277][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.04.12-08.39.41:306][265]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.12-08.39.44:490][452]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-08.39.44:534][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.39.44:534][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.12-08.39.44:535][452]PIE: New page: PIE session: TestMap1 (Apr 12, 2020, 12:39:44 AM)
+[2020.04.12-08.39.44:535][452]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.39.44:540][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004501s)
+[2020.04.12-08.39.44:541][452]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-08.39.44:541][452]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2020.04.12-08.39.44:541][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005872s)
+[2020.04.12-08.39.44:613][452]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.04.12-08.39.44:614][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-08.39.44:614][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-08.39.44:614][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-08.39.44:614][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-08.39.44:614][452]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-08.39.44:614][452]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-08.39.44:614][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-08.39.44:614][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-08.39.44:614][452]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-08.39.44:614][452]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-08.39.44:621][452]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-08.39.44:621][452]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.12-08.39.44:621][452]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-08.39.44:621][452]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-08.39.44:621][452]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.12-08.39.44:621][452]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.12-08.39.44:621][452]LogAudioMixer: Display: Channel Order:
+[2020.04.12-08.39.44:621][452]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-08.39.44:621][452]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-08.39.44:630][452]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.12-08.39.44:631][452]LogInit: FAudioDevice initialized.
+[2020.04.12-08.39.44:643][452]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.12-08.39.44:646][452]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.12-04.39.44
+[2020.04.12-08.39.44:647][452]LogWorld: Bringing up level for play took: 0.002736
+[2020.04.12-08.39.44:647][452]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.12-08.39.44:650][452]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 0.387
+[2020.04.12-08.39.44:650][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.39.51:156][805]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.51:156][805]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.39.51:539][828]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.52:173][866]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.52:173][866]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.39.52:556][889]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.52:975][914]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.52:975][914]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.39.53:772][962]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.54:276][992]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.54:276][992]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.39.54:639][ 14]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.54:791][ 23]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.54:791][ 23]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.39.54:956][ 33]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.55:139][ 44]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.55:139][ 44]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.39.55:306][ 54]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.55:459][ 63]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.55:459][ 63]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.39.55:622][ 73]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.55:805][ 84]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.55:806][ 84]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.39.55:972][ 94]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.56:175][106]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.56:176][106]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.39.56:455][123]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.59:622][313]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.39.59:623][313]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.39.59:939][332]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.40.00:089][341]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.40.00:089][341]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.40.00:239][350]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.40.00:389][359]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.40.00:389][359]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.40.00:556][369]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.40.02:491][485]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.40.02:491][485]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.40.02:491][485]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.40.02:491][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.40.02:491][485]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.40.02:492][485]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.40.02:492][485]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-08.40.02:492][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.40.02:512][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-08.40.02:513][485]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.40.02:521][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.40.02:582][485]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.40.02:586][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.40.02:592][485]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.04.12-08.40.02:623][486]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.12-08.46.12:673][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.04.12-08.46.12:676][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestMap1" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-08.46.13:223][656]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/TestMap1_Auto1CE2AA759444BC13B5D3EEDA4D1044902.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/Autosaves/Game/Levels/TestMap1_Auto1.umap'
+[2020.04.12-08.46.13:225][656]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestMap1' took 0.633
+[2020.04.12-08.46.13:225][656]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.633
+[2020.04.12-08.48.31:116][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-08.48.31:182][671]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnitF9A83B6346CA5B390F57EFB86440000C.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-08.48.31:202][671]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-08.48.31:203][671]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-08.48.32:473][748]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-08.48.32:514][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.48.32:514][748]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.12-08.48.32:525][748]LogPlayLevel: [PlayLevel] Compiling EnemyUnit before play...
+[2020.04.12-08.48.33:124][748]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2020.04.12-08.48.33:131][748]LogPlayLevel: PlayLevel: Blueprint regeneration took 617 ms (1 blueprints)
+[2020.04.12-08.48.33:131][748]PIE: New page: PIE session: TestMap1 (Apr 12, 2020, 12:48:33 AM)
+[2020.04.12-08.48.33:132][748]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.48.33:136][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004396s)
+[2020.04.12-08.48.33:137][748]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-08.48.33:138][748]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2020.04.12-08.48.33:138][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005954s)
+[2020.04.12-08.48.33:204][748]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.04.12-08.48.33:205][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-08.48.33:205][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-08.48.33:205][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-08.48.33:205][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-08.48.33:205][748]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-08.48.33:205][748]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-08.48.33:205][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-08.48.33:205][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-08.48.33:206][748]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-08.48.33:206][748]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-08.48.33:213][748]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-08.48.33:213][748]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.12-08.48.33:213][748]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-08.48.33:213][748]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-08.48.33:213][748]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.12-08.48.33:213][748]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.12-08.48.33:213][748]LogAudioMixer: Display: Channel Order:
+[2020.04.12-08.48.33:213][748]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-08.48.33:213][748]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-08.48.33:222][748]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.12-08.48.33:224][748]LogInit: FAudioDevice initialized.
+[2020.04.12-08.48.33:235][748]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.12-08.48.33:237][748]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.12-04.48.33
+[2020.04.12-08.48.33:238][748]LogWorld: Bringing up level for play took: 0.002558
+[2020.04.12-08.48.33:239][748]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.12-08.48.33:242][748]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 0.98
+[2020.04.12-08.48.33:242][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.48.39:855][118]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.39:855][118]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.39:855][118]LogBlueprintUserMessages: [EnemyUnit_2] 80.0
+[2020.04.12-08.48.41:122][194]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.42:005][247]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.42:005][247]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.42:005][247]LogBlueprintUserMessages: [EnemyUnit_2] 60.0
+[2020.04.12-08.48.43:772][353]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.44:005][367]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.44:005][367]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.44:005][367]LogBlueprintUserMessages: [EnemyUnit_2] 40.0
+[2020.04.12-08.48.44:522][398]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.44:739][411]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.44:739][411]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.44:739][411]LogBlueprintUserMessages: [EnemyUnit_2] 20.0
+[2020.04.12-08.48.45:906][481]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.46:122][494]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.46:122][494]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.46:122][494]LogBlueprintUserMessages: [EnemyUnit_2] 0.0
+[2020.04.12-08.48.46:522][518]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.46:738][531]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.46:738][531]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.46:738][531]LogBlueprintUserMessages: [EnemyUnit_2] 0.0
+[2020.04.12-08.48.47:138][555]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.47:305][565]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.47:305][565]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.47:305][565]LogBlueprintUserMessages: [EnemyUnit_2] 0.0
+[2020.04.12-08.48.47:655][586]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.47:839][597]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.47:839][597]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.47:839][597]LogBlueprintUserMessages: [EnemyUnit_2] 0.0
+[2020.04.12-08.48.48:222][620]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.48:389][630]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.48:389][630]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.48:389][630]LogBlueprintUserMessages: [EnemyUnit_2] 0.0
+[2020.04.12-08.48.48:572][641]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.48:722][650]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.48:722][650]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.48:722][650]LogBlueprintUserMessages: [EnemyUnit_2] 0.0
+[2020.04.12-08.48.48:889][660]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.49:055][670]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.49:055][670]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.49:055][670]LogBlueprintUserMessages: [EnemyUnit_2] 0.0
+[2020.04.12-08.48.49:222][680]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.49:405][691]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.49:405][691]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.49:405][691]LogBlueprintUserMessages: [EnemyUnit_2] 0.0
+[2020.04.12-08.48.49:572][701]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.49:739][711]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.49:739][711]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.48.49:739][711]LogBlueprintUserMessages: [EnemyUnit_2] 0.0
+[2020.04.12-08.48.49:906][721]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.48.51:958][817]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.48.51:958][817]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.48.51:958][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.48.51:958][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.48.51:958][817]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.48.51:958][817]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.48.51:958][817]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-08.48.51:959][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.48.51:979][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-08.48.51:979][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.48.51:988][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.48.52:053][817]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.48.52:056][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.48.52:062][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.04.12-08.48.52:101][818]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.12-08.49.03:822][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/EnemyUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset" SILENT=true
+[2020.04.12-08.49.03:884][477]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/EnemyUnit294BB8BB49F237043AC78FB5D9EC2C31.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/EnemyUnit.uasset'
+[2020.04.12-08.49.03:903][477]AssetCheck: New page: Asset Save: EnemyUnit
+[2020.04.12-08.49.03:904][477]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/EnemyUnit.EnemyUnit
+[2020.04.12-08.49.21:039][506]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-08.49.21:080][506]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.21:080][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.12-08.49.21:080][506]PIE: New page: PIE session: TestMap1 (Apr 12, 2020, 12:49:21 AM)
+[2020.04.12-08.49.21:080][506]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.49.21:085][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004279s)
+[2020.04.12-08.49.21:085][506]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-08.49.21:086][506]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2020.04.12-08.49.21:086][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005555s)
+[2020.04.12-08.49.21:166][506]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.04.12-08.49.21:169][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-08.49.21:169][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-08.49.21:169][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-08.49.21:169][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-08.49.21:169][506]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-08.49.21:169][506]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-08.49.21:169][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-08.49.21:169][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-08.49.21:169][506]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-08.49.21:169][506]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-08.49.21:176][506]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-08.49.21:176][506]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.12-08.49.21:176][506]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-08.49.21:176][506]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-08.49.21:176][506]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.12-08.49.21:176][506]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.12-08.49.21:176][506]LogAudioMixer: Display: Channel Order:
+[2020.04.12-08.49.21:176][506]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-08.49.21:176][506]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-08.49.21:185][506]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.12-08.49.21:187][506]LogInit: FAudioDevice initialized.
+[2020.04.12-08.49.21:199][506]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.12-08.49.21:201][506]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.12-04.49.21
+[2020.04.12-08.49.21:201][506]LogWorld: Bringing up level for play took: 0.002103
+[2020.04.12-08.49.21:202][506]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.12-08.49.21:205][506]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 0.942
+[2020.04.12-08.49.21:205][506]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.25:674][772]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.25:674][772]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.25:674][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.25:675][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.49.25:675][772]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.49.25:675][772]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.25:675][772]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-08.49.25:675][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.49.25:712][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-08.49.25:712][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.25:721][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.49.25:799][772]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.25:802][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.49.25:808][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.04.12-08.49.25:833][773]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.12-08.49.26:955][837]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-08.49.26:995][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.26:995][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.12-08.49.26:995][837]PIE: New page: PIE session: TestMap1 (Apr 12, 2020, 12:49:26 AM)
+[2020.04.12-08.49.26:996][837]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.49.27:000][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004155s)
+[2020.04.12-08.49.27:001][837]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-08.49.27:018][837]LogPlayLevel: PIE: World Init took: (0.017631s)
+[2020.04.12-08.49.27:018][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.021945s)
+[2020.04.12-08.49.27:097][837]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2020.04.12-08.49.27:098][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-08.49.27:098][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-08.49.27:098][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-08.49.27:098][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-08.49.27:098][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-08.49.27:098][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-08.49.27:098][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-08.49.27:098][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-08.49.27:099][837]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-08.49.27:099][837]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-08.49.27:106][837]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-08.49.27:106][837]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.12-08.49.27:106][837]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-08.49.27:106][837]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-08.49.27:106][837]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.12-08.49.27:106][837]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.12-08.49.27:106][837]LogAudioMixer: Display: Channel Order:
+[2020.04.12-08.49.27:106][837]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-08.49.27:106][837]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-08.49.27:114][837]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.12-08.49.27:116][837]LogInit: FAudioDevice initialized.
+[2020.04.12-08.49.27:126][837]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.12-08.49.27:129][837]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.12-04.49.27
+[2020.04.12-08.49.27:129][837]LogWorld: Bringing up level for play took: 0.002055
+[2020.04.12-08.49.27:129][837]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.04.12-08.49.27:132][837]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 0.87
+[2020.04.12-08.49.27:133][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.29:007][947]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.29:008][947]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.29:008][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.29:008][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.49.29:008][947]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.49.29:008][947]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.29:008][947]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-08.49.29:008][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.49.29:043][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-08.49.29:044][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.29:053][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.49.29:123][947]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.29:126][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.49.29:133][947]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2020.04.12-08.49.29:157][948]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.04.12-08.49.32:133][123]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.04.12-08.49.36:284][370]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.04.12-08.49.39:790][582]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.12-08.49.43:140][783]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.12-08.49.45:188][905]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-08.49.45:229][905]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.45:229][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.12-08.49.45:229][905]PIE: New page: PIE session: TestMap1 (Apr 12, 2020, 12:49:45 AM)
+[2020.04.12-08.49.45:229][905]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.49.45:234][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004209s)
+[2020.04.12-08.49.45:235][905]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-08.49.45:235][905]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2020.04.12-08.49.45:235][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005504s)
+[2020.04.12-08.49.45:303][905]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.04.12-08.49.45:307][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-08.49.45:307][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-08.49.45:307][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-08.49.45:307][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-08.49.45:307][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-08.49.45:307][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-08.49.45:307][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-08.49.45:307][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-08.49.45:307][905]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-08.49.45:307][905]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-08.49.45:314][905]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-08.49.45:314][905]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.12-08.49.45:314][905]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-08.49.45:314][905]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-08.49.45:314][905]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.12-08.49.45:314][905]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.12-08.49.45:314][905]LogAudioMixer: Display: Channel Order:
+[2020.04.12-08.49.45:314][905]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-08.49.45:314][905]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-08.49.45:323][905]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.12-08.49.45:325][905]LogInit: FAudioDevice initialized.
+[2020.04.12-08.49.45:336][905]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.12-08.49.45:339][905]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.12-04.49.45
+[2020.04.12-08.49.45:339][905]LogWorld: Bringing up level for play took: 0.002250
+[2020.04.12-08.49.45:340][905]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.04.12-08.49.45:343][905]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 1.081
+[2020.04.12-08.49.45:343][905]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.53:725][406]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.53:725][406]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.53:725][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.53:725][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.49.53:725][406]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.49.53:725][406]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.53:725][406]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-08.49.53:726][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.49.53:760][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-08.49.53:760][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.49.53:770][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.49.53:842][406]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.49.53:845][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.49.53:851][406]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.04.12-08.49.53:875][407]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.12-08.50.02:690][933]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-08.50.32:957][689]Cmd: TRANSACTION UNDO
+[2020.04.12-08.50.32:957][689]LogEditorTransaction: Undo Reset to Default
+[2020.04.12-08.50.55:739][953]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-08.50.55:780][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.50.55:780][953]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.12-08.50.55:785][953]LogPlayLevel: [PlayLevel] Compiling UI_EnemyHealthBar before play...
+[2020.04.12-08.50.56:390][953]LogPlayLevel: [PlayLevel] Compiling UI_PlayerHealthBar before play...
+[2020.04.12-08.50.57:335][953]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2020.04.12-08.50.57:340][953]LogPlayLevel: PlayLevel: Blueprint regeneration took 1561 ms (2 blueprints)
+[2020.04.12-08.50.57:341][953]PIE: New page: PIE session: TestMap1 (Apr 12, 2020, 12:50:57 AM)
+[2020.04.12-08.50.57:342][953]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.50.57:347][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004378s)
+[2020.04.12-08.50.57:348][953]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-08.50.57:348][953]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2020.04.12-08.50.57:348][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005738s)
+[2020.04.12-08.50.57:418][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.04.12-08.50.57:420][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-08.50.57:420][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-08.50.57:420][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-08.50.57:420][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-08.50.57:420][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-08.50.57:420][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-08.50.57:420][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-08.50.57:420][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-08.50.57:420][953]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-08.50.57:421][953]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-08.50.57:427][953]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-08.50.57:427][953]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.12-08.50.57:427][953]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-08.50.57:427][953]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-08.50.57:427][953]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.12-08.50.57:427][953]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.12-08.50.57:427][953]LogAudioMixer: Display: Channel Order:
+[2020.04.12-08.50.57:427][953]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-08.50.57:427][953]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-08.50.57:436][953]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.12-08.50.57:438][953]LogInit: FAudioDevice initialized.
+[2020.04.12-08.50.57:446][953]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.12-08.50.57:448][953]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.12-04.50.57
+[2020.04.12-08.50.57:448][953]LogWorld: Bringing up level for play took: 0.002118
+[2020.04.12-08.50.57:449][953]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.04.12-08.50.57:451][953]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 1.189
+[2020.04.12-08.50.57:451][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.51.02:290][240]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.51.02:290][240]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.51.02:290][240]LogBlueprintUserMessages: [EnemyUnit_2] 80.0
+[2020.04.12-08.51.02:807][271]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.51.03:190][294]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.51.03:190][294]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.51.03:190][294]LogBlueprintUserMessages: [EnemyUnit_2] 60.0
+[2020.04.12-08.51.03:590][318]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.51.03:873][335]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.51.03:873][335]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.51.03:873][335]LogBlueprintUserMessages: [EnemyUnit_2] 40.0
+[2020.04.12-08.51.04:273][359]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.51.04:556][376]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.51.04:556][376]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.51.04:556][376]LogBlueprintUserMessages: [EnemyUnit_2] 20.0
+[2020.04.12-08.51.04:989][402]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.51.05:273][419]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.51.05:273][419]LogBlueprintUserMessages: [Battle_HUD_C_0] 20.0
+[2020.04.12-08.51.05:273][419]LogBlueprintUserMessages: [EnemyUnit_2] 0.0
+[2020.04.12-08.51.05:740][447]LogBlueprintUserMessages: [Battle_HUD_C_0] It's working
+[2020.04.12-08.51.06:975][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.51.06:975][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.51.06:975][521]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.51.06:975][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.51.06:975][521]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.51.06:975][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.51.06:975][521]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-08.51.06:976][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.51.07:012][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-08.51.07:012][521]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.51.07:021][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.51.07:102][521]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.51.07:105][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.51.07:111][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.04.12-08.51.07:132][522]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.04.12-08.53.42:345][204]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-08.53.44:007][304]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.04.12-08.53.45:090][368]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.12-08.53.46:473][448]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.12-08.53.48:224][551]LogEditorViewport: Clicking on Actor (LMB): EnemyUnit_C (EnemyUnit)
+[2020.04.12-08.53.49:074][600]LogEditorViewport: Clicking on Actor (LMB): PlayerUnit_C (PlayerUnit)
+[2020.04.12-08.54.20:548][324]BlueprintLog: New page: Compile UI_EnemyHealthBar
+[2020.04.12-08.54.21:146][324]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2020.04.12-08.54.22:503][384]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/UI_EnemyHealthBarC563A3DC48DEA4193E06109E7EDEFF31.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.uasset'
+[2020.04.12-08.54.22:521][384]AssetCheck: New page: Asset Save: UI_EnemyHealthBar
+[2020.04.12-08.54.22:521][384]LogContentValidation: Display: Validating WidgetBlueprint /Game/Bluebrints/Combat/CombatWidgets/UI_EnemyHealthBar.UI_EnemyHealthBar
+[2020.04.12-08.58.02:565][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bluebrints/Combat/Units/PlayerUnit" FILE="C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset" SILENT=true
+[2020.04.12-08.58.02:626][540]LogSavePackage: Moving 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Saved/PlayerUnitC8DEDA084979A5B63D585F80FBBA323A.tmp' to 'C:/Users/Felgrand/Documents/GitHub/Project0/Project0/Content/Bluebrints/Combat/Units/PlayerUnit.uasset'
+[2020.04.12-08.58.02:656][540]AssetCheck: New page: Asset Save: PlayerUnit
+[2020.04.12-08.58.02:656][540]LogContentValidation: Display: Validating Blueprint /Game/Bluebrints/Combat/Units/PlayerUnit.PlayerUnit
+[2020.04.12-08.58.03:757][597]BlueprintLog: New page: Compile PlayerUnit
+[2020.04.12-08.58.04:392][597]LogUObjectHash: Compacting FUObjectHashTables data took   9.03ms
+[2020.04.12-08.58.08:356][772]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-08.58.08:397][772]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.58.08:397][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.12-08.58.08:397][772]PIE: New page: PIE session: TestMap1 (Apr 12, 2020, 12:58:08 AM)
+[2020.04.12-08.58.08:397][772]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.58.08:402][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004247s)
+[2020.04.12-08.58.08:403][772]LogAIModule: Creating AISystem for world TestMap1
+[2020.04.12-08.58.08:403][772]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2020.04.12-08.58.08:403][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TestMap1.TestMap1 to /Game/Levels/UEDPIE_0_TestMap1.TestMap1 (0.005482s)
+[2020.04.12-08.58.08:489][772]LogUObjectHash: Compacting FUObjectHashTables data took   8.70ms
+[2020.04.12-08.58.08:491][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-08.58.08:491][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-08.58.08:491][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-08.58.08:491][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-08.58.08:491][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-08.58.08:491][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-08.58.08:491][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-08.58.08:491][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-08.58.08:492][772]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-08.58.08:492][772]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-08.58.08:498][772]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-08.58.08:498][772]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.04.12-08.58.08:499][772]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-08.58.08:499][772]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-08.58.08:499][772]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.12-08.58.08:499][772]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.12-08.58.08:499][772]LogAudioMixer: Display: Channel Order:
+[2020.04.12-08.58.08:499][772]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-08.58.08:499][772]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-08.58.08:508][772]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.04.12-08.58.08:510][772]LogInit: FAudioDevice initialized.
+[2020.04.12-08.58.08:518][772]LogLoad: Game class is 'TTSGameMode_C'
+[2020.04.12-08.58.08:520][772]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2020.04.12-04.58.08
+[2020.04.12-08.58.08:521][772]LogWorld: Bringing up level for play took: 0.002455
+[2020.04.12-08.58.08:521][772]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.04.12-08.58.08:524][772]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_TestMap1 0.261
+[2020.04.12-08.58.08:524][772]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.58.11:590][953]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.58.11:590][953]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.58.11:590][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.58.11:591][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.58.11:591][953]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TestMap1
+[2020.04.12-08.58.11:591][953]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.58.11:591][953]LogWorld: UWorld::CleanupWorld for TestMap1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-08.58.11:591][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.58.11:612][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-08.58.11:612][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TestMap1.TestMap1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1' with GeneratedClass '/Game/Levels/TestMap1.TestMap1_C' with ClassGeneratedBy '/Game/Levels/TestMap1.TestMap1:PersistentLevel.TestMap1'
+[2020.04.12-08.58.11:622][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-08.58.11:694][953]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-08.58.11:697][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-08.58.11:703][953]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.04.12-08.58.11:755][954]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.04.12-08.59.04:973][ 73]LogEditorTransaction: Undo Move Nodes
+[2020.04.12-08.59.05:973][105]LogEditorTransaction: Undo Add Node
+[2020.04.12-08.59.32:890][687]LogUObjectArray: Warning: Empty slot
+[2020.04.12-08.59.32:916][687]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.12-08.59.34:035][687]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.118 s
+[2020.04.12-08.59.34:035][687]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.12-08.59.34:035][687]LogOutputDevice: Error: 
+[2020.04.12-08.59.34:035][687]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.04.12-08.59.34:035][687]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.12-08.59.34:035][687]LogOutputDevice: Error: Stack: 
+[2020.04.12-08.59.34:035][687]LogOutputDevice: Error: [Callstack] 0x00007ffeb40b7b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.12-08.59.34:035][687]LogOutputDevice: Error: [Callstack] 0x00007ffeb38c678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.12-08.59.34:035][687]LogOutputDevice: Error: [Callstack] 0x00007ffeb38d409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.12-08.59.34:035][687]LogOutputDevice: Error: [Callstack] 0x00007ffea9cfc5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffea7df977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffea7db1647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffeb508b144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffeb527dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffeb50d60b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffeb50b46f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffeb50a8ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffee8054ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffee804242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffee8057195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffee803ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007fff16076d91 USER32.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007fff16076763 USER32.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ffee8058699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ff7d6296db0 UE4Editor.exe!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ff7d62ac3ec UE4Editor.exe!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ff7d62ac4ca UE4Editor.exe!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ff7d62bceae UE4Editor.exe!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007ff7d62bfcbe UE4Editor.exe!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007fff15844034 KERNEL32.DLL!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: [Callstack] 0x00007fff16463691 ntdll.dll!UnknownFunction []
+[2020.04.12-08.59.34:036][687]LogOutputDevice: Error: 
+[2020.04.12-08.59.34:046][687]LogStats:                SubmitErrorReport -  0.000 s
