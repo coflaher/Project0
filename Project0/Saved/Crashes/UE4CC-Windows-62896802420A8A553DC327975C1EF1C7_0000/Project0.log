@@ -1,0 +1,1026 @@
+﻿Log file open, 04/12/20 08:29:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Project0
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.048762
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.12-15.29.51:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.12-15.29.51:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.12-15.29.51:228][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.12-15.29.51:230][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.12-15.29.51:230][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.12-15.29.51:231][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.12-15.29.51:231][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.12-15.29.51:231][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.12-15.29.51:232][  0]LogHAL: Display: Platform has ~ 16 GB [16996794368 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.12-15.29.51:232][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.12-15.29.51:233][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Scalability.ini]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.12-15.29.51:233][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.12-15.29.51:234][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.12-15.29.51:234][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.12-15.29.51:234][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/Game Projects/Project0/Project0/Saved/Config/Windows/Engine.ini]
+[2020.04.12-15.29.51:234][  0]LogInit: Computer: DESKTOP-5QJEOKG
+[2020.04.12-15.29.51:234][  0]LogInit: User: claud
+[2020.04.12-15.29.51:234][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.04.12-15.29.51:234][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.12-15.29.51:234][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.04.12-15.29.51:234][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.12-15.29.51:234][  0]LogMemory: Process Physical Memory: 104.84 MB used, 104.84 MB peak
+[2020.04.12-15.29.51:234][  0]LogMemory: Process Virtual Memory: 100.70 MB used, 100.70 MB peak
+[2020.04.12-15.29.51:234][  0]LogMemory: Physical Memory: 6468.04 MB used,  9741.37 MB free, 16209.41 MB total
+[2020.04.12-15.29.51:234][  0]LogMemory: Virtual Memory: 5141.55 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.04.12-15.29.51:255][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.12-15.29.51:267][  0]LogInit: Using OS detected language (en-US).
+[2020.04.12-15.29.51:267][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.12-15.29.51:268][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.12-15.29.51:374][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.12-15.29.51:395][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.12-15.29.51:395][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.12-15.29.51:486][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.12-15.29.51:486][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.12-15.29.51:486][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.12-15.29.51:486][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.12-15.29.51:549][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.04.12-15.29.51:549][  0]LogD3D11RHI:       8031/0/8104 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.12-15.29.51:575][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.12-15.29.51:575][  0]LogD3D11RHI:       128/0/8104 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.12-15.29.51:576][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.12-15.29.51:576][  0]LogD3D11RHI:       0/0/8104 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.12-15.29.51:576][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.12-15.29.51:582][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.12-15.29.51:582][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.12-15.29.51:582][  0]LogWindows: EnumDisplayDevices:
+[2020.04.12-15.29.51:582][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2020.04.12-15.29.51:582][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.12-15.29.51:582][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.12-15.29.51:582][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.12-15.29.51:582][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.12-15.29.51:583][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.12-15.29.51:583][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.12-15.29.51:583][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.04.12-15.29.51:583][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.04.12-15.29.51:583][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2020.04.12-15.29.51:583][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2020.04.12-15.29.51:583][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.04.12-15.29.51:620][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.12-15.29.51:620][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.12-15.29.51:631][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.12-15.29.51:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.12-15.29.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.12-15.29.51:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.12-15.29.51:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.12-15.29.51:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.12-15.29.51:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.12-15.29.51:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.12-15.29.51:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.12-15.29.51:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.12-15.29.51:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.12-15.29.51:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.12-15.29.51:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.12-15.29.51:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.12-15.29.51:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.12-15.29.51:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.12-15.29.51:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.12-15.29.51:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.12-15.29.51:935][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.12-15.29.51:935][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.12-15.29.51:936][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.12-15.29.51:950][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (D:/Documents/Game Projects/Project0/Project0/Intermediate/Shaders/WorkingDirectory/6668/).
+[2020.04.12-15.29.51:950][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/claud/AppData/Local/Temp/UnrealShaderWorkingDir/D41F64B24C940FDF2C9906A72DF970B8/'.
+[2020.04.12-15.29.51:950][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.12-15.29.51:950][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.12-15.29.51:950][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.12-15.29.52:480][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.12-15.29.52:525][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/claud/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.12-15.29.52:525][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/claud/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.12-15.29.52:525][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/Game Projects/Project0/Project0/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.12-15.29.52:525][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.12-15.29.52:525][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/Game Projects/Project0/Project0/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.12-15.29.52:525][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.12-15.29.52:533][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.12-15.29.52:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.12-15.29.52:533][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.12-15.29.52:533][  0]LogDerivedDataCache: Using Local data cache path C:/Users/claud/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.12-15.29.52:533][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.12-15.29.52:533][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.12-15.29.52:551][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.12-15.29.52:553][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.12-15.29.52:553][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.12-15.29.52:591][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2020.04.12-15.29.52:804][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.12-15.29.52:914][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.12-15.29.52:914][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.12-15.29.52:914][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.12-15.29.52:914][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.12-15.29.52:914][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.12-15.29.52:923][  0]LogNetVersion: Project0 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2423084365)
+[2020.04.12-15.29.53:647][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.026329 seconds
+[2020.04.12-15.29.53:652][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.12-15.29.53:652][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.12-15.29.53:652][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.12-15.29.53:918][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.12-15.29.53:919][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.12-15.29.53:952][  0]SourceControl: Source control is disabled
+[2020.04.12-15.29.53:952][  0]SourceControl: Source control is disabled
+[2020.04.12-15.29.53:953][  0]SourceControl: Source control is disabled
+[2020.04.12-15.29.53:953][  0]SourceControl: Source control is disabled
+[2020.04.12-15.29.53:954][  0]SourceControl: Source control is disabled
+[2020.04.12-15.29.54:003][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.12-15.29.54:009][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.12-15.29.54:009][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.12-15.29.54:067][  0]LogOcInput: OculusInput pre-init called
+[2020.04.12-15.29.54:072][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.12-15.29.54:072][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.12-15.29.54:121][  0]LogEngine: Initializing Engine...
+[2020.04.12-15.29.54:121][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.12-15.29.54:122][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.12-15.29.54:369][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.12-15.29.54:373][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.12-15.29.54:385][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-15.29.54:385][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-15.29.54:385][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-15.29.54:385][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-15.29.54:385][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-15.29.54:385][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-15.29.54:385][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-15.29.54:385][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-15.29.54:385][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-15.29.54:385][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: 5: BackRight
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.04.12-15.29.54:447][  0]LogAudioMixer: Display: 7: SideRight
+[2020.04.12-15.29.54:613][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.12-15.29.54:621][  0]LogInit: FAudioDevice initialized.
+[2020.04.12-15.29.54:621][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.12-15.29.54:668][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/claud/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.12-15.29.54:672][  0]LogInit: Texture streaming: Enabled
+[2020.04.12-15.29.54:678][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.12-15.29.54:678][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.12-15.29.54:679][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.12-15.29.54:712][  0]LogInit: Transaction tracking system initialized
+[2020.04.12-15.29.54:718][  0]BlueprintLog: New page: Editor Load
+[2020.04.12-15.29.54:737][  0]LocalizationService: Localization service is disabled
+[2020.04.12-15.29.54:760][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.04.12-15.29.54:760][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.04.12-15.29.54:760][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.04.12-15.29.54:928][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Game Projects/Project0/Project0/Content/' took 0.00s
+[2020.04.12-15.29.54:928][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.12-15.29.54:928][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.12-15.29.55:387][  0]SourceControl: Source control is disabled
+[2020.04.12-15.29.55:387][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.12-15.29.55:388][  0]LightingResults: New page: Lighting Build
+[2020.04.12-15.29.55:388][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-15.29.55:388][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-15.29.55:388][  0]MapCheck: New page: Map Check
+[2020.04.12-15.29.55:388][  0]LightingResults: New page: Lighting Build
+[2020.04.12-15.29.55:413][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.12-15.29.55:468][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.04.12-15.29.55:471][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.12-15.29.55:496][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.04.12-15.29.55:496][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.12-15.29.55:496][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2020.04.12-15.29.55:496][  0]LogFileHelpers: Loading map 'Template_Default' took 0.108
+[2020.04.12-15.29.55:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-15.29.55:632][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-15.29.55:637][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-15.29.55:642][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-15.29.55:645][  0]LogCollectionManager: Loaded 0 collections in 0.001148 seconds
+[2020.04.12-15.29.55:653][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Game Projects/Project0/Project0/Saved/Collections/' took 0.00s
+[2020.04.12-15.29.55:653][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Game Projects/Project0/Project0/Content/Developers/claud/Collections/' took 0.00s
+[2020.04.12-15.29.55:653][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Game Projects/Project0/Project0/Content/Collections/' took 0.00s
+[2020.04.12-15.29.55:653][  0]LogContentBrowser: Native class hierarchy populated in 0.0059 seconds. Added 3015 classes and 717 folders.
+[2020.04.12-15.29.55:655][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.12-15.29.55:690][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.12-15.29.55:692][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.04.12-15.29.55:728][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.12-15.29.55:729][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.12-15.29.55:732][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.12-15.29.55:784][  0]LogRenderer: Reallocating scene render targets to support 976x572 Format 10 NumSamples 1 (Frame:1).
+[2020.04.12-15.29.55:844][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.12-15.29.55:845][  0]LogLoad: (Engine Initialization) Total time: 5.37 seconds
+[2020.04.12-15.29.55:845][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.12-15.29.55:878][  0]LogAssetRegistry: Asset discovery search completed in 3.2872 seconds
+[2020.04.12-15.29.55:881][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2020.04.12-15.29.55:882][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.12-15.29.55:901][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.12-15.30.01:301][622]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.12-15.30.01:327][622]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData.Value'. Unknown structure.
+[2020.04.12-15.30.01:327][622]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:GetTileData.CallFunc_Map_Find_Value'. Unknown structure.
+[2020.04.12-15.30.01:327][622]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/Blueprints/Grid/BP_GridTile.BP_GridTile_C:SetTileColor.CallFunc_GetTileData_Value'. Unknown structure.
+[2020.04.12-15.30.01:416][622]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.12-15.30.01:419][622]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.12-15.30.01:444][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.04.12-15.30.01:445][622]Cmd: MAP LOAD FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.12-15.30.01:445][622]LightingResults: New page: Lighting Build
+[2020.04.12-15.30.01:446][622]LoadErrors: New page: Loading map: Pathfinding.umap
+[2020.04.12-15.30.01:446][622]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-15.30.01:446][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-15.30.01:446][622]MapCheck: New page: Map Check
+[2020.04.12-15.30.01:446][622]LightingResults: New page: Lighting Build
+[2020.04.12-15.30.01:471][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.04.12-15.30.01:475][622]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.12-15.30.01:499][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.04.12-15.30.01:517][622]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.12-15.30.01:519][622]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.985ms to complete.
+[2020.04.12-15.30.01:519][622]LogFileHelpers: Loading map 'Pathfinding' took 0.074
+[2020.04.12-15.30.10:419][663]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-15.30.10:515][663]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.04.12-15.30.11:159][663]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.12-15.30.45:681][760]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.12-15.37.45:657][216]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.12-15.37.46:574][311]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-15.37.46:784][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.12-15.37.47:663][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-15.37.47:750][407]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid4EAEE28F41345D3BC5434FA97A062A99.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-15.37.47:767][407]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-15.37.47:767][407]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-15.39.14:355][638]LogEditorTransaction: Undo Move Nodes
+[2020.04.12-15.39.17:727][981]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-15.39.17:921][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.04.12-15.39.18:375][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-15.39.18:451][ 27]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridF71143BA4F7CC339BAC0978EF32052D8.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-15.39.18:463][ 27]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-15.39.18:463][ 27]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-15.40.01:210][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.04.12-15.40.01:211][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-15.40.01:645][ 71]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto1888B735346A0E2191B27F69524F44792.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto1.umap'
+[2020.04.12-15.40.01:648][ 71]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.467
+[2020.04.12-15.40.01:648][ 71]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.467
+[2020.04.12-15.40.01:649][ 71]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.12-15.40.01:649][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.12-15.40.01:649][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.04.12-15.40.01:722][ 71]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto1A3ED7C1541CC69C556746A83997E11A8.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto1.uasset'
+[2020.04.12-15.40.01:722][ 71]LogFileHelpers: Auto-saving content packages took 0.075
+[2020.04.12-15.40.28:621][276]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-15.40.28:633][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.12-15.40.28:633][276]PIE: New page: PIE session: Pathfinding (Apr 12, 2020, 1:40:28 AM)
+[2020.04.12-15.40.28:634][276]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.12-15.40.28:635][276]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.12-15.40.28:635][276]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.12-15.40.28:637][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001917s)
+[2020.04.12-15.40.28:637][276]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.12-15.40.28:638][276]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2020.04.12-15.40.28:638][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.002808s)
+[2020.04.12-15.40.28:665][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.04.12-15.40.28:668][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-15.40.28:668][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-15.40.28:668][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-15.40.28:668][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-15.40.28:668][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-15.40.28:668][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-15.40.28:668][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-15.40.28:668][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-15.40.28:668][276]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-15.40.28:668][276]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: Channel Order:
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: 4: BackLeft
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: 5: BackRight
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: 6: SideLeft
+[2020.04.12-15.40.28:685][276]LogAudioMixer: Display: 7: SideRight
+[2020.04.12-15.40.28:729][276]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.12-15.40.28:730][276]LogInit: FAudioDevice initialized.
+[2020.04.12-15.40.28:744][276]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.12-15.40.28:745][276]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.12-08.40.28
+[2020.04.12-15.40.28:746][276]LogWorld: Bringing up level for play took: 0.000509
+[2020.04.12-15.40.28:746][276]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.04.12-15.40.28:750][276]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2020.04.12-15.40.28:783][276]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 0.594
+[2020.04.12-15.40.30:615][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-15.40.30:616][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-15.40.30:616][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-15.40.30:616][384]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.12-15.40.30:616][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-15.40.30:618][384]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-15.40.30:619][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-15.40.30:633][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-15.40.30:637][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-15.40.30:666][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-15.40.30:670][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-15.40.30:691][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.12-15.40.30:717][387]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.04.12-15.44.28:181][455]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-15.44.28:428][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.04.12-15.44.28:972][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-15.44.29:054][511]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridF42A8588441E9631192872ABEC350A57.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-15.44.29:067][511]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-15.44.29:067][511]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-15.50.04:259][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.04.12-15.50.04:261][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-15.50.04:279][768]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto2DFE262D74EB6200B9BDACBB49E3D7437.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto2.umap'
+[2020.04.12-15.50.04:280][768]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.058
+[2020.04.12-15.50.04:280][768]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.058
+[2020.04.12-15.50.04:280][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.12-15.50.04:280][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.12-15.50.04:280][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.04.12-15.50.04:360][768]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto2CE55FFD9451E9309088A89A5BA39C08F.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto2.uasset'
+[2020.04.12-15.50.04:361][768]LogFileHelpers: Auto-saving content packages took 0.082
+[2020.04.12-16.45.24:144][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.04.12-16.45.24:145][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-16.45.24:163][255]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto37B4F50E34A36855532309B9316F7F257.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto3.umap'
+[2020.04.12-16.45.24:164][255]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.053
+[2020.04.12-16.45.24:164][255]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.053
+[2020.04.12-16.45.24:165][255]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.12-16.45.24:165][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.12-16.45.24:165][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.04.12-16.45.24:247][255]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto30F28E8784F9C637CAD58BCA0C5CC22D9.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto3.uasset'
+[2020.04.12-16.45.24:248][255]LogFileHelpers: Auto-saving content packages took 0.083
+[2020.04.12-16.48.06:348][260]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-16.48.06:592][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.04.12-16.48.07:069][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-16.48.07:149][307]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid20B03226483F3974632A5D9BC93D9904.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-16.48.07:167][307]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-16.48.07:167][307]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-16.51.54:651][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-16.51.54:734][566]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid1765EB5E42D2255107344F8D1A05E664.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-16.51.54:748][566]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-16.51.54:748][566]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-16.55.24:572][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.12-16.55.24:574][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-16.55.24:591][342]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto407E3751B4908E96729FE15A4CA6A900C.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto4.umap'
+[2020.04.12-16.55.24:592][342]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.058
+[2020.04.12-16.55.24:592][342]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.058
+[2020.04.12-18.47.58:957][  8]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-18.47.59:207][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.12-18.47.59:737][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-18.47.59:822][ 60]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid75DD04534CCB01920563B4A6C8B87ECE.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-18.47.59:833][ 60]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-18.47.59:833][ 60]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-18.50.18:939][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.04.12-18.50.18:940][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-18.50.18:957][466]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto55C7487184D6C79C6308D5D9D2EA58E82.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto5.umap'
+[2020.04.12-18.50.18:958][466]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.051
+[2020.04.12-18.50.18:958][466]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2020.04.12-18.50.18:958][466]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.12-18.50.18:958][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.12-18.50.18:958][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.04.12-18.50.19:038][466]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto5CC37ECF143EC37561BA1499C082F1D04.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto5.uasset'
+[2020.04.12-18.50.19:039][466]LogFileHelpers: Auto-saving content packages took 0.081
+[2020.04.12-19.02.18:995][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.12-19.02.18:996][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.033
+[2020.04.12-19.02.18:996][ 14]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.12-19.02.18:997][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.12-19.02.18:997][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.04.12-19.02.19:086][ 14]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto6390010F44ADDACD9636FB29A15F84FBE.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto6.uasset'
+[2020.04.12-19.02.19:087][ 14]LogFileHelpers: Auto-saving content packages took 0.091
+[2020.04.12-19.08.23:441][705]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.08.23:690][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.04.12-19.08.24:121][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.08.24:210][745]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridA4A54E6648E6B26A0C894594FA338537.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.08.24:225][745]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.08.24:225][745]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.09.47:709][547]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.09.47:950][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.12-19.09.48:551][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.09.48:636][609]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid7183FBA343A9861A8C858890DA68A592.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.09.48:650][609]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.09.48:650][609]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.15.28:310][916]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.04.12-19.15.57:635][333]LogEditorTransaction: Undo Move Node
+[2020.04.12-19.16.00:652][636]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.16.00:900][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.04.12-19.16.01:347][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.16.01:438][678]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid11EF4FB14BE6A7B2578EF5A056AE62F3.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.16.01:453][678]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.16.01:453][678]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.16.48:627][273]LogEditorTransaction: Undo Straighten Connection(s)
+[2020.04.12-19.18.51:125][691]LogEditorTransaction: Undo Move Node
+[2020.04.12-19.19.19:292][954]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.04.12-19.19.19:733][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-19.19.19:750][954]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto7DA58827D4A241450241200A911BD11F7.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto7.umap'
+[2020.04.12-19.19.19:751][954]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.491
+[2020.04.12-19.19.19:751][954]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.491
+[2020.04.12-19.19.19:752][954]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.12-19.19.19:752][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.12-19.19.19:752][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.04.12-19.19.19:839][954]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto723450BC34F6699509159EEA3A0D599A3.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto7.uasset'
+[2020.04.12-19.19.19:839][954]LogFileHelpers: Auto-saving content packages took 0.088
+[2020.04.12-19.30.19:793][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.04.12-19.30.19:794][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-19.30.19:813][153]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto871D685FF46F5E8885A535397B97BC87C.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto8.umap'
+[2020.04.12-19.30.19:814][153]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.054
+[2020.04.12-19.30.19:814][153]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.054
+[2020.04.12-19.30.19:814][153]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.12-19.30.19:814][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.12-19.30.19:814][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2020.04.12-19.30.19:906][153]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto84CB3381144A1B05E9B0D3D93E660C4FC.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto8.uasset'
+[2020.04.12-19.30.19:906][153]LogFileHelpers: Auto-saving content packages took 0.092
+[2020.04.12-19.31.26:306][  5]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.31.26:549][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.04.12-19.31.27:135][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.31.27:224][ 62]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid4513762F457A7A7C6B4513A7E6148046.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.31.27:240][ 62]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.31.27:240][ 62]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.37.00:204][485]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.37.00:472][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.04.12-19.37.00:931][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.37.01:026][531]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid64A9A3084095D5C836E06B8D851AD65F.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.37.01:038][531]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.37.01:038][531]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.38.31:220][233]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.38.31:472][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.04.12-19.40.27:841][941]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.12-19.40.27:842][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-19.40.27:859][941]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto934F7AF3D4B2A3AA66DC4569035F4323A.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto9.umap'
+[2020.04.12-19.40.27:860][941]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.052
+[2020.04.12-19.40.27:860][941]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.052
+[2020.04.12-19.40.27:861][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.12-19.40.27:861][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.12-19.40.27:861][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2020.04.12-19.40.27:955][941]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto95D8036BA400F3C6A56B6569C1D607499.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto9.uasset'
+[2020.04.12-19.40.27:955][941]LogFileHelpers: Auto-saving content packages took 0.094
+[2020.04.12-19.42.43:922][ 17]LogEditorTransaction: Undo Move Nodes
+[2020.04.12-19.43.17:813][  1]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.43.18:069][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.04.12-19.43.18:576][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.43.18:673][ 50]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridEEE11D6041DA5411D4D14EBCB7330151.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.43.18:690][ 50]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.43.18:690][ 50]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.44.24:337][811]LogEditorTransaction: Undo Promote to Local Variable
+[2020.04.12-19.45.24:162][740]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.45.24:418][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.04.12-19.45.25:040][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.45.25:139][803]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridF12619EC43A8C374DA4D5DB991419F2B.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.45.25:153][803]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.45.25:153][803]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.45.46:575][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.45.46:671][351]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid924C92C64CE5C9D6949276B866939C24.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.45.46:685][351]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.45.46:685][351]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.45.53:787][  7]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.12-19.45.53:799][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.12-19.45.53:799][  7]PIE: New page: PIE session: Pathfinding (Apr 12, 2020, 5:45:53 AM)
+[2020.04.12-19.45.53:799][  7]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.12-19.45.53:801][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002045s)
+[2020.04.12-19.45.53:802][  7]LogAIModule: Creating AISystem for world Pathfinding
+[2020.04.12-19.45.53:802][  7]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2020.04.12-19.45.53:802][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pathfinding.Pathfinding to /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding (0.002944s)
+[2020.04.12-19.45.53:836][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.04.12-19.45.53:837][  7]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.12-19.45.53:837][  7]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.12-19.45.53:837][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.12-19.45.53:837][  7]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.12-19.45.53:837][  7]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.12-19.45.53:837][  7]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.12-19.45.53:837][  7]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.12-19.45.53:837][  7]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.12-19.45.53:837][  7]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.12-19.45.53:837][  7]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: Name: Speakers (3- Realtek(R) Audio)
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: Is Default: Yes
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: Channel Count Used: 8
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: Device Channel Count: 8
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: Channel Order:
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: 1: FrontRight
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: 2: FrontCenter
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: 3: LowFrequency
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: 4: BackLeft
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: 5: BackRight
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: 6: SideLeft
+[2020.04.12-19.45.53:854][  7]LogAudioMixer: Display: 7: SideRight
+[2020.04.12-19.45.53:898][  7]LogAudioMixer: Display: Using Audio Device Speakers (3- Realtek(R) Audio)
+[2020.04.12-19.45.53:900][  7]LogInit: FAudioDevice initialized.
+[2020.04.12-19.45.53:905][  7]LogLoad: Game class is 'BP_Gamemode_C'
+[2020.04.12-19.45.53:906][  7]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pathfinding.Pathfinding up for play (max tick rate 0) at 2020.04.12-12.45.53
+[2020.04.12-19.45.53:906][  7]LogWorld: Bringing up level for play took: 0.000527
+[2020.04.12-19.45.53:906][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.04.12-19.45.53:941][  7]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pathfinding 0.754
+[2020.04.12-19.45.55:638][111]LogBlueprintUserMessages: [BP_GridTile_C_29] Tile Selected
+[2020.04.12-19.45.56:300][155]LogBlueprintUserMessages: [BP_GridTile_C_32] Tile Selected
+[2020.04.12-19.45.56:300][155]LogBlueprintUserMessages: [BP_GridTile_C_29] Tile Deselcted
+[2020.04.12-19.45.56:909][195]LogBlueprintUserMessages: [BP_GridTile_C_40] Tile Selected
+[2020.04.12-19.45.56:909][195]LogBlueprintUserMessages: [BP_GridTile_C_32] Tile Deselcted
+[2020.04.12-19.45.57:379][226]LogBlueprintUserMessages: [BP_GridTile_C_29] Tile Selected
+[2020.04.12-19.45.57:379][226]LogBlueprintUserMessages: [BP_GridTile_C_40] Tile Deselcted
+[2020.04.12-19.45.59:322][354]LogBlueprintUserMessages: [BP_GridTile_C_3] Tile Selected
+[2020.04.12-19.45.59:322][354]LogBlueprintUserMessages: [BP_GridTile_C_29] Tile Deselcted
+[2020.04.12-19.46.00:920][461]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-19.46.00:920][461]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-19.46.00:920][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-19.46.00:920][461]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Pathfinding
+[2020.04.12-19.46.00:920][461]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-19.46.00:923][461]LogWorld: UWorld::CleanupWorld for Pathfinding, bSessionEnded=true, bCleanupResources=true
+[2020.04.12-19.46.00:924][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-19.46.00:943][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.12-19.46.00:947][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.12-19.46.00:978][461]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.12-19.46.00:982][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.12-19.46.00:989][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.12-19.46.01:021][463]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.04.12-19.48.39:153][796]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.48.39:410][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.04.12-19.48.39:873][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.48.39:973][842]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid59138B7740450B578C8654BE892D85F8.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.48.39:987][842]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.48.39:987][842]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.49.49:204][ 47]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.49.49:453][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.12-19.49.49:837][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.49.49:933][ 86]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid3EB988CF482EF713A77AC08BD5F1BC31.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.49.49:947][ 86]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.49.49:947][ 86]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.50.02:223][495]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2020.04.12-19.51.24:823][267]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.51.25:086][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.12-19.51.25:536][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.51.25:633][311]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid5D42C8B04CDA4BD8684B80AB0ED719FA.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.51.25:647][311]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.51.25:647][311]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.52.24:830][355]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.52.25:093][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.04.12-19.54.13:307][130]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.54.13:576][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.04.12-19.54.14:150][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.12-19.54.14:253][192]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid1A2EBE4B4695457824CAD988FE1C4AA9.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.12-19.54.14:269][192]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.12-19.54.14:269][192]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.12-19.56.02:161][980]BlueprintLog: New page: Compile BP_GridTile
+[2020.04.12-19.56.02:397][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.04.12-19.56.38:088][188]BlueprintLog: New page: Compile BP_Grid
+[2020.04.12-19.56.38:350][188]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.04.12-19.57.09:815][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.04.12-19.57.09:816][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.04.12-19.57.09:834][882]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_Auto0D42BF07F475DAF82A683128B942A3A05.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Maps/Pathfinding_Auto0.umap'
+[2020.04.12-19.57.09:834][882]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Pathfinding' took 0.054
+[2020.04.12-19.57.09:835][882]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.054
+[2020.04.12-19.57.09:835][882]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Grid/BP_Grid] ([1] browsable assets)...
+[2020.04.12-19.57.09:835][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_Grid]
+[2020.04.12-19.57.09:835][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2020.04.12-19.57.09:937][882]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid_Auto0F6E7AD15431F9C774D67EAB077993A89.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_Grid_Auto0.uasset'
+[2020.04.12-19.57.09:938][882]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Grid/BP_GridTile] ([1] browsable assets)...
+[2020.04.12-19.57.09:955][882]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile]
+[2020.04.12-19.57.09:955][882]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_GridTile]
+[2020.04.12-19.57.09:996][882]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridTile_Auto0C78E71DC4081CC4F59BECCB30DC296C5.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_GridTile_Auto0.uasset'
+[2020.04.12-19.57.09:996][882]LogFileHelpers: Auto-saving content packages took 0.161
+[2020.04.12-20.00.09:492][388]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.12-20.00.15:983][160]BlueprintLog: New page: Compile BP_GridTile
+[2020.04.12-20.00.16:219][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.12-20.00.16:690][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_GridTile" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_GridTile.uasset" SILENT=true
+[2020.04.12-20.00.16:728][207]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridTileC275C23446E3C1B7C7517C8A906A5A77.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_GridTile.uasset'
+[2020.04.12-20.00.16:743][207]AssetCheck: New page: Asset Save: BP_GridTile
+[2020.04.12-20.00.16:743][207]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_GridTile.BP_GridTile
+[2020.04.12-20.00.55:291][779]LogUObjectArray: Warning: Other object in slot
+[2020.04.12-20.00.55:293][779]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.12-20.00.55:634][779]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.341 s
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: 
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: Stack: 
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff3bcf7b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff3b50678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff3b51409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff459bc5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff439f977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff439b1647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff5611b144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff5630dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff561660b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff561446f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff56138ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff7a884ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff7a87242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff7a887195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff7a86ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff943f5c0d USER32.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff943f5602 USER32.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff7a888699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007ff781df6db0 UE4Editor.exe!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007ff781e0c3ec UE4Editor.exe!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007ff781e0c4ca UE4Editor.exe!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007ff781e1ceae UE4Editor.exe!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007ff781e1fcbe UE4Editor.exe!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff953e7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: [Callstack] 0x00007fff9618ced1 ntdll.dll!UnknownFunction []
+[2020.04.12-20.00.55:634][779]LogOutputDevice: Error: 
+[2020.04.12-20.00.55:785][779]LogStats:                SubmitErrorReport -  0.000 s
