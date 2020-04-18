@@ -3258,3 +3258,42 @@ Make sure 'BP_Grid_C' has been compiled for  Set currentTile
 [2020.04.18-20.21.12:777][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Grid/BP_GridTile]
 [2020.04.18-20.21.13:931][ 10]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_GridTile_Auto8B296E54345CCA9A9C39F60855806E8B5.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Saved/Autosaves/Game/Blueprints/Grid/BP_GridTile_Auto8.uasset'
 [2020.04.18-20.21.13:932][ 10]LogFileHelpers: Auto-saving content packages took 4.108
+[2020.04.18-20.23.13:363][285]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.27:098][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.27:599][762]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.28:578][763]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.28:587][764]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.04.18-20.23.29:459][764]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.34:872][769]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.35:581][770]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.36:480][771]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.45:164][784]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.45:665][785]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.46:183][786]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.46:183][786]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.04.18-20.23.46:694][787]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.47:339][788]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.50:395][791]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.50:908][792]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.51:546][793]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.23.51:546][793]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.04.18-20.23.58:703][813]BlueprintLog: New page: Compile BP_PlayerController
+[2020.04.18-20.24.07:848][813]LogUObjectHash: Compacting FUObjectHashTables data took  67.87ms
+[2020.04.18-20.24.21:681][818]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.24.22:182][819]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.24.23:684][820]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.24.24:185][821]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.04.18-20.24.24:185][821]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.04.18-20.24.26:559][821]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.24.26:559][821]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.04.18-20.24.27:060][822]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.24.30:322][832]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.24.30:822][833]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.24.31:320][834]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2020.04.18-20.25.43:216][ 44]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.04.18-20.29.14:986][671]BlueprintLog: New page: Compile BP_PlayerController
+[2020.04.18-20.29.15:264][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.18-20.29.16:016][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Controllers/BP_PlayerController" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Controllers/BP_PlayerController.uasset" SILENT=true
+[2020.04.18-20.29.16:063][711]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_PlayerControllerC640A36441CEA402E0D524AA2BB176E0.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Controllers/BP_PlayerController.uasset'
+[2020.04.18-20.29.16:127][711]AssetCheck: New page: Asset Save: BP_PlayerController
+[2020.04.18-20.29.16:128][711]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
