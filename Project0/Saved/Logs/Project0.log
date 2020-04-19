@@ -2154,3 +2154,18 @@ Script Stack (0 frames):
 [2020.04.19-17.06.04:544][745]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid7C1DF5714F54355B5CE1A48557651137.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
 [2020.04.19-17.06.04:559][745]AssetCheck: New page: Asset Save: BP_Grid
 [2020.04.19-17.06.04:559][745]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.19-17.08.21:111][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.19-17.08.22:845][287]LogSlate: Window 'Save Content' being destroyed
+[2020.04.19-17.08.24:230][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Grid/BP_Grid" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset" SILENT=true
+[2020.04.19-17.08.24:375][437]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/BP_Grid5ADC87FE4698930799E6E4A75453304A.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Blueprints/Grid/BP_Grid.uasset'
+[2020.04.19-17.08.24:389][437]AssetCheck: New page: Asset Save: BP_Grid
+[2020.04.19-17.08.24:389][437]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Grid/BP_Grid.BP_Grid
+[2020.04.19-17.08.26:617][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.04.19-17.08.26:648][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.04.19-17.08.26:670][679]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding8305167E4F9D7796D10D76A36B42EAD9.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding.umap'
+[2020.04.19-17.08.26:690][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pathfinding_BuiltData" FILE="D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset" SILENT=true
+[2020.04.19-17.08.26:707][679]LogSavePackage: Moving 'D:/Documents/Game Projects/Project0/Project0/Saved/Pathfinding_BuiltData2EEB39C6411A8024045DC6AC8539F5B9.tmp' to 'D:/Documents/Game Projects/Project0/Project0/Content/Maps/Pathfinding_BuiltData.uasset'
+[2020.04.19-17.08.26:746][679]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.19-17.08.26:746][679]LogContentValidation: Display: Validating World /Game/Maps/Pathfinding.Pathfinding
+[2020.04.19-17.08.26:746][679]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Pathfinding_BuiltData.Pathfinding_BuiltData
+[2020.04.19-17.08.29:304][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
